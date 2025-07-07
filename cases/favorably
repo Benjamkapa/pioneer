@@ -1,0 +1,1222 @@
+<!DOCTYPE html><!-- Last Published: Sat Jul 05 2025 18:59:21 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.eleken.co" data-wf-page="665efd6ce217188fcb338120" data-wf-site="5e8b3356a5a8f5321855bbe7" lang="en-US" data-wf-collection="665efd6ce217188fcb3380e0" data-wf-item-slug="favorably"><head><meta charset="utf-8"/><title>Favorably Design Case Study – Eleken</title><meta content="Learn how we designed an MVP of a unique referral based SaaS platform for enterprise sales teams" name="description"/><meta content="Favorably Design Case Study – Eleken" property="og:title"/><meta content="Learn how we designed an MVP of a unique referral based SaaS platform for enterprise sales teams" property="og:description"/><meta content="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably.webp" property="og:image"/><meta content="Favorably Design Case Study – Eleken" property="twitter:title"/><meta content="Learn how we designed an MVP of a unique referral based SaaS platform for enterprise sales teams" property="twitter:description"/><meta content="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably.webp" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.shared.ccdbd16e9.min.css" rel="stylesheet" type="text/css"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.665efd6ce217188fcb338120-dd96764d3.min.css" rel="stylesheet" type="text/css"/><style>@media (min-width:992px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="e31ec950-7fd3-bc44-3b8d-de165abb7c54"] {opacity:0;}}@media (max-width:991px) and (min-width:768px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="e31ec950-7fd3-bc44-3b8d-de165abb7c54"] {opacity:0;}}</style><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f5772b19e21646ddb8bf065_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f57734d2a640600bb91c08f_webclip.png" rel="apple-touch-icon"/><link href="favorably" rel="canonical"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '485203327048064');fbq('track', 'PageView');</script><meta name="facebook-domain-verification" content="io1art9rwuq7x631alwajwzelf6e3v" />
+<meta name="google-site-verification" content="V3_aGXWAx0_wIFaBvqHUIWFIeMMXLxJf3iqUNAFPlCs" />
+<meta name="google-site-verification" content="J7nIBJizYNb3a93ruG01jj9Z1whW-5CrFajmdGMCx78" />
+
+<link rel="preload" as="image" href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" />
+
+<!--begin site performance for assets -->
+<link rel="preconnect" href="https://assets.website-files.com">
+<link rel="dns-prefetch" href="https://assets.website-files.com">
+<!--end site performance for assets-->
+
+<!-- Finsweet Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+
+<script defer id="jetboost-script" type="text/javascript"> window.JETBOOST_SITE_ID = "cm06j37qg00in0r4fb2px54ky"; (function(d) { var s = d.createElement("script"); s.src = "https://cdn.jetboost.io/jetboost.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })(document); </script>
+
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="4NY8Ssng8Yr/NkQ/LqGSXg" async></script>
+
+
+<style>
+    html,
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: antialiased;
+        overflow-x: hidden;
+    }
+  
+  	img {
+  	  height: auto;
+  	}
+  
+    .no-scroll {
+      overflow: hidden !important;
+    }
+
+    .no-horizontal {
+      overflow-x: hidden;
+    }
+
+    .w-slider-dot {
+      background: #D6D2CD;
+      height: 8px;
+      width: 8px;
+    }
+
+    .w-slider-dot.w-active {
+      background: #FF8E5E;
+      height: 8px;
+      width: 8px;
+    }
+  
+  	.fs-cc-prefs_close-icon {
+      width: 24.78px !important;
+      height: 24.78px !important;
+      color: #BCBCBC !important;
+	}
+
+    .fs-cc-active-checkbox {
+      background-color: #ff8e5e !important;
+    }
+
+
+ 
+
+    .button-primary {
+      display: inline-flex
+    }
+  
+  	.w-editor-bem-KitDropDown_List {
+  		z-index: 10;
+  	}
+  
+  
+  	@media only screen and (max-width: 767px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 87px !important; 
+     	}
+  	}
+  
+   
+  	@media only screen and (max-width: 479px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 73px !important; 
+     	}
+  	}
+  
+  	 @media only screen and (min-width: 768px) {
+      .main-header__nav-dropdown-toggle-icon,
+      .main-header__nav-dropdown-toggle-title {
+        transition: all 0.3s ease;
+       }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-icon {
+        transform: rotate(-90deg);
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-title {
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-trigger {
+        position: relative;
+      }
+
+      .main-header__nav-dropdown-trigger:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        bottom: -50px;
+        padding-top: 50px;
+      }
+
+      .main-header__nav-toggle-list {
+        transition: all 0.3s ease;
+        visibility: hidden;
+        opacity: 0;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-toggle-list {
+        visibility: visible;
+        opacity: 1;
+        height: auto;
+      }
+    }
+  
+  	
+
+    @media screen and (max-width: 992px) {
+      .services {
+        max-width: 100vw;
+        overflow-y: auto;
+        overflow-x: hidden;
+        max-height: calc(100vh + 230px);
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+</style>
+
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. -->
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_1.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_2.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_3.js"></script>
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. --> <style>
+	video {
+  	width: 100%  !important;
+  	height: auto !important;
+	}
+  
+  #player {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  	border-radius: 16px;
+    }
+    
+  .w-embed:last-of-type .testimonial {
+   	margin-bottom: 0;
+   }
+</style>
+
+<style>
+    .video-wrap {
+      overflow: hidden;
+     	border-radius: 16px;
+      max-width: 792px;
+      margin: 34px auto 50px;
+    }
+
+    .video-box {
+      position: relative;
+      width: 100%;
+      height: 0;
+      overflow: hidden;
+      padding-top: 56.25%;
+    }
+    
+    .video-overlay {
+    	position: absolute;
+      top: 0;
+      left :0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0 ,0, 0.3);
+      pointer-events: all;
+    }
+
+    .video-wrap video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    
+    
+    .video-wrap .btn-pause {
+      	display: none;
+    }
+
+    .video-wrap .btn-video {
+      position: absolute;
+      top: 45%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      cursor: pointer;
+      width: 80px;
+    }
+
+    .btn-video svg {
+      transition: all 0.2s ease-in-out;
+      transform: scale(0.90);
+    }
+
+    .btn-video:hover svg {
+      transform: scale(1.05);
+    }
+
+    @media (hover: none) and (pointer: coarse) {
+      .video-wrap .btn-video,
+      .video-wrap .video-overlay {
+        display: none !important;
+      }
+    }
+    
+  </style>
+
+<!--BEGIN Testimonial-->
+  <style>
+      .testimonial {
+      background: #ffffff;
+      text-align: center;
+      font-family: "Merriweather";
+      border-radius: 16px;
+      padding: 48px 102px;
+      margin: 140px 0;
+    }
+
+    .testimonial img {
+      margin-bottom: 0;
+    }
+
+    .testimonial-quotation-icon {
+      width: 100%;
+      max-width: 20px;
+    }
+
+    .testimonial .testimonial-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 24px;
+      padding: 0;
+    }
+
+    .testimonial .testimonial-info {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: "Regolapro", sans-serif;
+      color: #909090;
+    }
+
+    .testimonial .testimonial-info p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+
+    .testimonial-title p {
+      margin: 0;
+      color: #1d1e22 !important;
+      font-size: 40px;
+      line-height: 60px;
+      max-width: none !important;
+    }
+
+    .testimonial .testimonial-logo {
+      margin: 0 0 0 4px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      max-width: 70px;
+    }
+
+    .testimonial .testimonial-avatar {
+      width: 100%;
+      max-width: 80px;
+      margin: 0;
+    }
+
+    .testimonial .testimonial-info-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .testimonial .testimonial-info-wrap p {
+      margin: 0;
+    }
+
+    .testimonial .testimonial-clutch {
+      width: 100%;
+      max-width: 100px;
+    }
+
+    .testimonial-quotation-icon {
+      max-width: 20px;
+    }
+    
+    .testimonial__dark {
+    	background: #1d1e22;
+    }
+    
+    .testimonial__dark  .testimonial-title p {
+      color: #ffffff !important;
+    }
+
+    @media screen and (max-width: 1400px) {
+    	.testimonial {
+        margin: 120px 0;
+      }
+      
+      .testimonial-title p {
+        font-size: 30px;
+        line-height: 50px;
+      }
+    }
+
+    @media screen and (max-width: 1280px) {
+    	.testimonial {
+        margin: 100px 0;
+      }
+      .testimonial-quotation-icon {
+        max-width: 15px;
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+      .testimonial {
+        padding: 40px 80px;
+        border-radius: 14px;
+        padding: 40px;
+      }
+
+      .testimonial-title p {
+        font-size: 22px;
+        line-height: 34px;
+      }
+
+      .testimonial-quotation-icon {
+        max-width: 12px;
+      }
+
+      .testimonial .testimonial-avatar {
+        max-width: 58px;
+      }
+    }
+
+    @media screen and (max-width: 750px) {
+      .testimonial {
+        padding: 32px;
+        margin: 60px 0;
+      }
+
+      .testimonial-title p {
+        font-size: 18px;
+        line-height: 30px;
+      }
+
+      .testimonial .testimonial-info {
+        font-size: 12px;
+        line-height: 22px;
+      }
+
+      .testimonial .testimonial-avatar {
+        max-width: 48px;
+      }
+    }
+
+    @media screen and (max-width: 479px) {
+      .testimonial {
+        padding: 24px;
+      }
+
+      .testimonial-title p {
+        font-size: 12px;
+        line-height: 22px;
+      }
+
+      .testimonial .testimonial-info {
+        line-height: 20px;
+      }
+    }
+  </style>
+  <!--END Testimonial-->
+  
+  <!--BEGIN Case Box-->
+ <style>
+    .case-box {
+      display: grid;
+      gap: 210px;
+      grid-template-columns: 1fr 2fr;
+      padding: 48px;
+      border-radius: 16px;
+      background-color: #fff;
+      font-family: inherit;
+      font-size: 26px;
+      line-height: 42px;
+      margin-bottom: 24px;
+    }
+
+    .case-box strong {
+      display: inline-block;
+      margin-bottom: 22px;
+      font-size: 36px;
+      line-height: 48px;
+      letter-spacing: -1px;
+    }
+
+    .case-box p {
+      margin: 0;
+      letter-spacing: -0.26px;
+    }
+
+    .case-box--dark {
+      background-color: #1d1e22;
+      color: #fff;
+    }
+
+    .case-box--green {
+      background-color: #d7f890;
+    }
+    
+    .w-embed:first-of-type .case-box {
+	     margin-top: 120px;
+    }
+
+
+    @media screen and (max-width: 1280px) {
+      .case-box {
+        display: grid;
+        gap: 100px;
+        padding: 32px;
+        border-radius: 16px;
+        font-size: 20px;
+        line-height: 32px;
+      }
+
+      .case-box strong {
+        font-size: 20px;
+        line-height: 32px;
+      }
+
+      .case-box p {
+        letter-spacing: -0.2px;
+      }
+      
+     .w-embed:first-of-type .case-box {
+	     margin-top: 100px;
+     }
+
+    }
+
+    @media screen and (max-width: 768px) {
+      .case-box {
+        display: block;
+        padding: 48px 32px;
+      }
+
+      .case-box strong,
+      .case-box p {
+        letter-spacing: 0;
+      }
+      
+     .w-embed:first-of-type .case-box {
+	     margin-top: 80px;
+     }
+    }
+
+    @media screen and (max-width: 500px) {
+      .case-box {
+        font-size: 14px;
+        line-height: 22px;
+      }
+
+      .case-box strong {
+        font-size: 18px;
+      }
+      
+     .w-embed:first-of-type .case-box {
+	     margin-top: 40px;
+     }
+     
+     
+     .testimonial-info {
+       flex-direction: column;
+       gap: 6px;
+     }
+    }
+  </style>
+  <!--END Case Box--></head><body><div data-animation="default" data-collapse="small" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="main-header w-nav"><div class="main-header__container main-header__container--sm w-container"><div class="main-header__row"><a href="../index.html" class="main-header__logo w-nav-brand"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="eager" alt="" class="eleken-logo"/></a><nav role="navigation" class="main-header__nav w-nav-menu"><div class="main-header__nav-container"><ul role="list" class="main-header__nav-list"><li class="main-header__nav-list-item"><a href="../cases" class="main-header__nav-link w-nav-link">Case studies</a></li><li class="main-header__nav-list-item"><div data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa77" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Services</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" loading="lazy" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-3"></div><ul role="list" class="main-header__nav-toggle-list w-list-unstyled"><li class="main-header__nav-item-wrap mr-xl-n65 mr-lg-n26 mr-sm-n15"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa7f" href="../books/how-eleken-works-clients-guide" class="main-header__useful-links main-header__useful-links-size w-inline-block"><div class="main-header__book-title"><strong class="bold-text-11">How Eleken Works</strong></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" loading="eager" width="195" height="100" alt="" fetchpriority="high" class="main-header__book-img"/><div class="main-header__book-download"><div class="text-block-24">Download ebook</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="image-869"/></div></a></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Services</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa8d" href="../engagement/start-from-scratch-mvp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Design from scratch (MVP)</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa92" href="../engagement/product-redesign" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Product redesign</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa97" href="../engagement/team-extension" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Team extension</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Approach</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaa0" href="../saas-web-design" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">SaaS design</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaa5" href="../ui-ux-design-services" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX design services</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaaa" href="../web-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Web design</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="8ad628b4-cf20-96c9-6ffa-16f8cdbc6a1f" href="../ux-audit-service" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX audit</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaaf" href="../mobile-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Mobile design</div></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="62594621-be3b-34be-fb56-7e13e238da44" href="../design-system-service" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design system</div></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">SaaS Industries</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aab8" href="../industries/sales" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Sales</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aabd" href="../industries/fintech" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Fintech</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aac2" href="../industries/healthcare" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Healthcare</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aacc" href="../industries/marketing" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Marketing</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="780682f7-c673-943e-932b-02d1f4714724" href="../industries/ui-ux-design-for-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Data</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="3d320e69-f87b-4831-11a8-cba9d78e7c70" href="../industries/ui-ux-design-for-geospatial-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Geoservice</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="eb7c4bc9-cf31-2fbf-2fe1-6d08458791cd" href="../industries/ua-ux-design-for-dfp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Developer-focused</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-0"><a data-w-id="38d8bbee-0ed6-2558-4c79-a6c40eae406b" href="../industries/ui-ux-design-for-ai-based-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">AI</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li></ul></div></li><li class="main-header__nav-list-item"><a href="../pricing" class="main-header__nav-link w-nav-link">Pricing</a></li><li class="main-header__nav-list-item"><a href="../about-us" class="main-header__nav-link w-nav-link">About</a></li><li class="main-header__nav-list-item border-bottom-0"><div data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aad7" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Resources</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" loading="lazy" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-1"></div><div class="main-header__nav-toggle-list main-header__nav-toggle-list-resources"><div class="main-header__nav-item-wrap main-header__nav-item-wrap-resources"><div class="main-header__useful-links"><div class="d-flex"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow opacity-0"/><div class="main-header__nav-dropdown-item-title">Featured</div></div><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="../blog-posts/to-redesign-or-not-to-redesign-your-product" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>To redesign or not to redesign</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="../blog-posts/ux-audit-report-examples-or-best-practices-in-conducting-the-audit" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>Top 3 UX audit report examples</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="../blog-posts/how-where-and-when-to-find-a-designer-for-your-saas-app" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to find a designer for SaaS?</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="../blog-posts/mvp-benefits-examples-and-myths-around-it" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to build a minimum viable product</div></a></div></div></div></div></div><div class="main-header__nav-wrap-fluid"><ul role="list" class="main-header__nav-fluid-list w-list-unstyled"><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583d2" href="../email-courses/product-led-growth" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641dc21ead39ae3c1555614d_icon-email-course.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Email courses</div></div><p class="main-header__p">A place for SaaS founders to master design fundamentals in 7 days</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583dc" href="../blog/main" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e40dee128cf5885313_icon-blog.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon icon-blog"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Blog</div></div><p class="main-header__p">A selection of fresh insights from the front lines of product design</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583e6" href="../books.1" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e4fa8d903c70c42a35_icon-e-book.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">eBooks</div></div><p class="main-header__p">A comprehensive source of UI/UX wisdom to grow your business</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583f0" href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e415d617243d4b310e_icon-stories.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Story</div></div><p class="main-header__p">How to Choose a UI/UX Design Agency</p></div></a></li></ul></div><div class="main-header__dropdown-divider-2"></div></div></div></li></ul><a href="../contact-us" class="main-header__btn-user d-md-none d-sm-blosk button header w-button">book a trial</a></div></nav><div class="main-header__btn-burger w-nav-button"><div class="btn-burger-wrap-embet w-embed"><style>
+    .btn-burger-wrap {
+      position: relative;
+      width: 23px;
+      height: 16px;
+
+    }
+
+    .btn-burger-line-1,
+    .btn-burger-line-2,
+    .btn-burger-line-3 {
+      width: 100%;
+      height: 2px;
+      background: #ffffff;
+      position: absolute;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+    }
+
+
+    .btn-burger-line-1 {
+      top: 0;
+    }
+
+    .btn-burger-line-2 {
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+      width: 75%;
+    }
+
+    .btn-burger-line-3 {
+      bottom: 0;
+    }
+
+    .btn-burger-line-2-active {
+      opacity: 0;
+    }
+
+    .btn-burger-line-1-active {
+      top: 49%;
+      transform: rotate(-46deg);
+    }
+
+    .btn-burger-line-3-active {
+      top: 49%;
+      transform: rotate(46deg);
+    }
+  </style>
+
+  <div class="btn-burger-wrap">
+    <div class="btn-burger-line-1"></div>
+    <div class="btn-burger-line-2"></div>
+    <div class="btn-burger-line-3"></div>
+  </div></div></div><a href="../contact-us" class="main-header__btn-user d-sm-none button header w-button">Contact us</a></div></div></div><div class="wrapper wrapper--case"><section class="section"><div class="container"><div class="case-css w-embed"><style>
+.case-reach-text-block-pre p,
+.case-reach-text-block-pre ul,
+.case-reach-text-block-pre ol,
+.case-reach-text-block p,
+.case-reach-text-block ul,
+.case-reach-text-block ol,
+.case-reach-text-block blockquote,
+.case-reach-text-block h1,
+.case-reach-text-block h2,
+.case-reach-text-block h3,
+.case-reach-text-block h4,
+.case-reach-text-block h5,
+.case-reach-text-block h6,
+.case-reach-text-block-pre blockquote {
+  max-width: 792px;
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+
+
+.case-reach-text-block ul li {
+	position: relative;
+  padding: 0 0 0 35px;
+}
+
+.case-reach-text-block ul li:before {
+	content: "";
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 19px;
+  height: 13px;
+  background: url("https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/646e2db88ff5faf8d645da9d_Vectors-Wrapper.svg") center center no-repeat;
+  background-size: cover;
+}
+
+.case-reach-text-block > figure:last-child {
+    margin-bottom: 0;
+}
+
+.case-reach-text-block-pre p:last-child {
+  margin-bottom: 0;
+}
+
+.case-reach-text-block-pre .testimonial {
+	 margin: 140px 0 !important;
+}
+
+@media screen and (max-width: 1280px) {
+ .case-reach-text-block ul li:before {
+   top: 10px;
+ }
+ 
+ .case-reach-text-block-pre .testimonial {
+	 margin: 100px 0 !importan;
+ }
+}
+
+@media screen and (max-width: 992px) {
+ .case-reach-text-block ul li {
+   padding: 0 0 0 28px;
+ }
+ 
+ .case-reach-text-block ul li:before{
+   top: 6px;
+   width: 13px;
+   height: 13px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+ .case-reach-text-block-pre .testimonial {
+	 margin: 60px 0 !importan;
+ }
+}
+</style></div><div class="case-hero-wrap"><p class="case-name">Favorably</p><h1 class="case-h1">How Eleken designed an MVP of a unique referral-based platform for enterprise sales teams</h1></div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6669b36e5f0d81afa4393d67_img-01.png" loading="eager" alt="" class="case-main-img"/><div class="case-reach-text-block-pre w-richtext"><p><strong>Imagine a platform containing information about many potential customers of a particular company. All these people are somehow related. Some of them should be contacted by sales managers as soon as possible, while others already use the service, but need regular support and communication. You might think of a complex database that contains hundreds of tables and reports that require enormous manual effort from the company’s employees.</strong></p><p>But with the help of experienced UX designers, everything can be much simpler. Read the story of how Eleken designed a unique referral-based platform MVP for sales teams.</p></div><div class="case-section case-brand"><div class="row row-2-sm-grid"><div class="col d-flex"><div class="img-case-wrap img-case-wrap--shadow"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably.webp" loading="eager" width="587" alt="image" sizes="(max-width: 767px) 100vw, 587px" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably-p-500.webp 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably-p-800.webp 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably-p-1080.webp 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably-p-1600.webp 1600w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6697ec653a9cc6f80a98ba56_Favorably.webp 1644w" class="img-case shadow-none"/></div></div><div class="col d-flex"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6669b399ecf75d8a4d7f64e2_img-logo.png" loading="eager" width="587" alt="image" class="img-case img-case-01--logo"/></div></div></div><div class="case-section case-brand w-condition-invisible"><div class="row row-2-sm-grid rev"><div class="col d-flex align-center"><div data-w-id="e31ec950-7fd3-bc44-3b8d-de165abb7c53" class="video-wrapper"><img data-w-id="e31ec950-7fd3-bc44-3b8d-de165abb7c54" loading="lazy" alt="image" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64afd4e7c17b5670ad20d01d_btn-play.svg" class="video-btn-play"/><div class="code-embed-2 w-embed"><video style="width: 100%; height: 100%;" autoplay="true" loop muted>
+  <source src="favorably" type="video/mp4"/>
+</video></div></div></div><div class="col"><div class="case-logo-wrap"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6669b399ecf75d8a4d7f64e2_img-logo.png" loading="lazy" width="587" alt="image" class="img-case img-case-01--logo aspect-ratio-16-9"/></div></div></div></div><div class="case-reach-text-block w-richtext"><h2>The idea behind Favorably</h2><p>The solution structures the connections between the company’s clients unites them into a single network and consistently visualizes their relationships. Sounds revolutionary? </p><p>Well, that’s exactly how we designed Favorably, a system that helps businesses track customers’ relationships and generate leads thanks to result-driven referrals.</p><p>At the very beginning of the project, the client shared with us the main purpose of Favorably:</p><div class="w-embed"><div class="testimonial">
+    <div class="testimonial-wrap">
+      <img class="testimonial-quotation-icon" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64301a710f391d54296336bd_icon-quote-black.svg" alt="image">
+      <div class="testimonial-title">
+        <p>Favorably helps enterprise sales teams grow pipeline and revenue the easy way– via warm introduction – through software which incorporates a tested methodology to help organize and focus reps on cultivating key relationships and asking them for warm introduce.</p>
+      </div>
+      <div class="testimonial-info-wrap">
+        <img class="testimonial-avatar" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5727b526f3ae22ace0_img-card-09.webp" alt="image">
+        <div class="testimonial-info">
+          <p class="testimonial-author">Anish Parikh, CEO /</p>
+          <div class="testimonial-logo">
+            <img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6442a407689f1d7a5db66d03_logo-favorably-dark.svg" alt="image">
+          </div>
+        </div>
+        <img class="testimonial-clutch" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64b17c4b77d6a75709201dd7_logo-clutch-lg.svg" alt="image">
+      </div>
+    </div>
+  </div></div><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8de_6683cda1d230704ac33f10cb_04.png" loading="lazy" alt=""/></div></figure><p>We realized that to achieve these goals, the product needed to provide the following features:</p><ul role="list"><li>Automatically generate possible recommendations based on the client’s portfolio and key relationships</li></ul><ul role="list"><li>Regularly remind users about the necessity to develop those relationships</li></ul><ul role="list"><li>Alert users of the need to prepare for upcoming calls with key contacts</li></ul><ul role="list"><li>Track the results of calls and further actions</li></ul><ul role="list"><li>Deliver and keep statistics regarding various aspects of those actions</li></ul><p>This unique combination of features required a clear design vision and a dedicated approach to UI/UX design. So, with our expertise in product design for SaaS, Eleken was the right partner for the job.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8e4_6669b8061594124344624321_img-05.png" loading="lazy" alt=""/></div></figure><h2>Trial results and the beginning of our UX process</h2><p>During the trial period, we worked on the core MVP functionality relying on the input provided by the Favorably team. </p><p>We had to <strong>design an MVP</strong> that would help businesses generate leads and optimize the sales funnel, as well as create a system of close contacts and referrals. Simply put, a database containing information about people who know each other. The system was supposed to keep customer-related data and organize communication between people in order to connect warm contacts into a single network.</p><p>The key challenge was to present different levels of relationships between users of the platform and set a clear structure for the interface.<strong> The platform collects close contacts, key relationships,</strong> and <strong>referrals</strong> and establishes a <strong>relationship-based prospecting system.</strong></p><p>The client offered to visualize connections between key relationships with the help of <strong>mind maps.</strong> But Eleken designers, based on their experience in designing SaaS, had an alternative vision:<strong> a table </strong>consisting of tabs and subtabs. So we designed two versions of this functionality. One was based on the ideas of the Favorably team, and the second one was our own version.  </p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8fd_6683cdd8d291877067b054ed_06.png" loading="lazy" alt=""/></div></figure><p>After hearing our solid argumentation based on the best principles of UX, the client team agreed that the version suggested by Eleken was a better solution and we continued our work.</p><h2>UX research and testing</h2><p>Favorably is quite a unique solution without direct competitors and clear references. So for the UX research, we started with analyzing indirect competitors - LinkedIn, LinkedIn Business, and Apollo. However, these services involved only some part of the functionality the client wanted to implement in their product. We united our efforts with the client’s product team, and, based on potential users&#x27; portraits, determined the key features for the platform.</p><p>Based on our findings, we designed the first prototypes, and, with the help of the client&#x27;s team tested them with the potential customers. With the help of this general evaluation, the main assumptions got proven. The feedback was positive as the end-users recognized the product’s value in terms of their critical needs. So we continued designing the MVP relying on our findings and experience in implementing design best practices.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c905_666ac58ee5a523e148a0bac1_img-07.png" loading="lazy" alt=""/></div></figure><h2>Relationship-based hierarchy</h2><p>Initially, the client didn’t have a vision of the future product’s design. So we had to provide a viable structure for a product idea and find the right way to implement it. First of all, we helped the Favorably team design the product’s structure and information architecture. In particular, we focused on finding the most appropriate way to segment people based on their connections and consistently structure these groups. As a result, we decided to create a core section of close acquaintances, named <strong>Relationships.</strong> Within this group, we provided the following indicators to identify different levels of connections:</p><ul role="list"><li><strong>Relationship strengths </strong>to determine how close the connections are</li></ul><ul role="list"><li><strong>Key relationships </strong>to mark the most intimate connections</li></ul><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c91a_666ac63d21a53d386be3c7d3_img-08.png" loading="lazy" alt=""/></div></figure><p>Each relationship section shows their referrals, including <strong>actual referrals, potential referrals, prospects, no-contact referrals,</strong> and so on. Profile pages gather contacts and key information about Favorably users.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c924_666ac66e8727d5b6be875484_img-09.png" loading="lazy" alt=""/></div></figure><p>Also, a separate menu section displays the total number of all referrals.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8f6_666ac696cf37257f4b2d2e26_img-10.png" loading="lazy" alt=""/></div></figure><h2>Performance statistics</h2><p>Another vital solution was to add a success rate indicator to the section with statistical data reports. This indicator evaluates performance according to different ratios. For example, it shows the number of conducted negotiations vs. the planned ones, the received referrals vs. the requested ones, and so on.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8e9_666ac6c7e6f3309461b84387_img-11.png" loading="lazy" alt=""/></div></figure><p>This way, users can track the effectiveness of their activities over a certain period of time and consider this data to make relevant decisions in the future.</p><h2>Dashboards</h2><p>Favorably has two separate functionalities for teams and individual users. So we designed two different dashboards for them. </p><p>To allow <strong>individual users</strong> to see the stats about their activity within the platform and have a centralized data center, we designed an individual dashboard. In their personal account, users can see information related to the main product sections: their tasks, last contacts, referrals and relationships, statistics, and access to quick access buttons.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c912_666ac71e19fc170dd5c54781_img-12.png" loading="lazy" alt=""/></div></figure><p>It gives quick access to relationships and referrals and also shows the statistics about the number of outreach visits, appointments, and referrals.</p><p>The <strong>team dashboard</strong> contains the visualization of stats for team performance and individual performance. Users also have access to information about their teammates.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8f9_6683ce63bed122fdaf3adcc5_13.png" loading="lazy" alt=""/></div></figure><p>We designed it with the help of tabs that users can easily switch.</p><h2>To-do tasks section</h2><p>This solution helps users see the list of current tasks with detailed descriptions in the <strong>To-do today</strong> section. Tasks contain information regarding a person a user is supposed to get in touch with. The section displays the person’s contacts, personal information, communication history, and some additional notes about their unique qualities, hobbies, and other specifics.</p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c900_666ac7a405903151af4d7365_img-14.png" loading="lazy" alt=""/></div></figure><p>After we designed prototypes for the main MVP features, we started working on user interface details.</p><h2>Designing UI for Favorably: make it look professional</h2><p>As you already know, the main purpose of Favorably is to create a convenient network, connecting different contacts and establishing communication between them. So our designers wanted to make the interface look professional and feel familiar to the target audience.</p><p>These UI decisions helped us achieve the goal:</p><ul role="list"><li><strong>Classic interface font</strong>. We picked the well-established Helvetica Neue. The modern sans-serif typeface with a clean, smooth design, which is known for its clarity and readability, provided the feeling of a professional and comfortable work environment.</li></ul><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c90d_666ac815905d69533e8829f3_img-15.png" loading="lazy" alt=""/></div></figure><ul role="list"><li><strong>Blue is the main color.</strong> The palette we opted for combined blue color and its shades. Blue is the most common color for social media platforms and messengers, including Facebook, Twitter, Linkedin, Skype, and Vimeo. It made our platform look familiar, recognizable, and easy to perceive. </li></ul><ul role="list"><li><strong>The sidebar</strong> in a darker contrasting shade of blue contains the menu icons. Elegant icons and warm yellow, purple and green highlights add spice to the user interface and evoke pleasant feelings of a trustworthy and safe environment.</li></ul><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8d9_666ac876c304dd4550c96bd5_img-16.png" loading="lazy" alt=""/></div></figure><ul role="list"><li><strong>Lots of white space between interface components</strong> makes the interface less cluttered, allowing users to navigate freely.</li></ul><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c90a_666ac8c17aec64d01c9dcb1b_img-17.png" loading="lazy" alt=""/></div></figure><ul role="list"><li>For <strong>the logotype,</strong> we suggested around six variants, and, together with the client had chosen the best option. The logo we designed for Favorably expresses professional connections and trust through the image of a handshake. Bright blue and turquoise accents make it look catchy. For the logo text, we pickled Gilroy typeface, an elegant font with geometric touch, well-suited for logos and titles.</li></ul><figure style="max-width:1585pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c8f0_666ac99592fffcac607fd021_img-18.png" loading="lazy" alt=""/></div></figure><p>Besides, we ensured the perfect consistency in the visual architecture. As a result, the platform is well-structured, easy to navigate, and pleasant for the eye.</p><h2>Communication</h2><p>The initial idea of the product and tech requirements changed several times. But thanks to effective collaboration with the Favorably team and our flexibility, we managed to finish the project in less than three months.</p><p>We kept in touch with the development team along the way and delivered many iterations of layouts depending on the new information from the product team. Every iteration was vividly discussed and commented on in Figma and during the calls.</p><figure style="max-width:1704pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c915_666ac9bf95e492ced74070c9_img-19.png" loading="lazy" alt=""/></div></figure><p>Having great input about users and design feedback from the client’s team allowed us to streamline complex workflows with ease. The results we delivered satisfied the product team and the end-user’s needs.</p><h2>A new product is ready to conquer the market</h2><p>We designed the UX and UI of Favorably from scratch. Moreover, the Eleken team took an active part in creating core functionality. We offered several relevant design ideas that helped to shape Favorably as a product. During our three months of collaboration, we designed the user interface and user experience for the platform. And the most significant parts of the product were immediately moved to the development stage. </p><figure style="max-width:2400pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66b07b885ab56e9b4a28c91e_666ac9f45575e3eb3a81276e_img-20.png" loading="lazy" alt=""/></div></figure><p>The final result was certainly worth the effort. We managed to design a platform that combines the specifics of a convenient data-driven solution and helps businesses grow revenue and build customer trust. With great professional and modern design, Favorably MVP is more than ready to conquer the digital world, serve its users, and continue growing.</p><div class="w-embed"><div class="testimonial">
+    <div class="testimonial-wrap">
+      <img class="testimonial-quotation-icon" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64301a710f391d54296336bd_icon-quote-black.svg" alt="image">
+      <div class="testimonial-title">
+        <p>Eleken’s designs are beautiful, earning praise from the client’s high management. The team isdetail-oriented in their process andefficientenabling them to improve and globalizethe product in a short period of time. Moreover, they’re responsive and communicative through Microsoft Teams.</p>
+      </div>
+      <div class="testimonial-info-wrap">
+        <img class="testimonial-avatar" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5727b526f3ae22ace0_img-card-09.webp" alt="image">
+        <div class="testimonial-info">
+          <p class="testimonial-author">Anish Parikh, CEO/</p>
+          <div class="testimonial-logo">
+            <img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6442a407689f1d7a5db66d03_logo-favorably-dark.svg" alt="image">
+          </div>
+        </div>
+        <img class="testimonial-clutch" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64b17c4b77d6a75709201dd7_logo-clutch-lg.svg" alt="image">
+      </div>
+    </div>
+  </div></div></div></div></section><section class="section"><div class="container"><div class="case-call-action__case-row f2wf-columns-2"><div id="w-node-_85dc46f1-687a-73c0-21f4-8778b2612a33-cb338120" class="case-call-action__text-hoder"><h2 class="case-call-action__title">Let&#x27;s design <span class="text-span-187">something special</span></h2><p class="case-call-action__text">If it feels like our UI/UX design company is a good match, but you still have questions about our work process, we can give you a free 3-day trial working with one of our designers.</p><a href="../contact-us" data-w-id="85dc46f1-687a-73c0-21f4-8778b2612a3a" class="btn-primary w-inline-block"><div class="btn-primary__text">Let’s talk</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c9404f75631ce7b2c923b0_Arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="image" class="btn-primary__icon"/></a></div><div id="w-node-_85dc46f1-687a-73c0-21f4-8778b2612a3e-cb338120" class="case-call-action__image-holder"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6490229b2c99011dfec4b7c4_img-person-17.webp" loading="lazy" alt="image" class="image-927"/></div></div></div></section></div><div class="case-popup w-condition-invisible"><div class="case-popup-video-holder"><div class="case-video-holder"><div class="btn-close-popup"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/621e09549a12c080477b3136_close.svg" loading="lazy" alt="image" class="icon-close-popup"/></div><div class="video-embet-datawisp w-embed"><div id="player"></div></div></div></div><div class="popup-bg"></div></div><footer class="main-footer-2"><div class="main-footer__container main-footer__container--sm"><div class="main-footer__wrapper"><div class="main-footer__left"><div class="main-footer__left-wrap"><a aria-label="main page" href="../index.html" class="main-footer__logo w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="lazy" alt="" class="main-footer__logo-img"/></a><address class="main-footer__address"><p class="main-footer__address-text">Kyiv, Ukraine, <br/></p><p class="main-footer__address-text d-sm-block">Dehtiarivska str. 33B </p></address></div><div class="main-footer__left-wrap"><address class="main-footer__address"><p class="main-footer__address-text">Eleken Design Ltd<br/></p><p class="main-footer__address-text">920-736 Granville ST<br/></p><p class="main-footer__address-text">Vancouver BC V6Z 1G3<br/></p><p class="main-footer__address-text">Canada<br/></p></address></div></div><div class="main-footer__right"><div class="main-footer__row"><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../engagement/start-from-scratch-mvp" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="../engagement/product-redesign" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="../engagement/team-extension" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Approach</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../saas-web-design" class="main-footer__list-link">SaaS design</a></li><li class="main-footer__list-item"><a href="../ui-ux-design-services" class="main-footer__list-link">UI/UX design services</a></li><li class="main-footer__list-item"><a href="../web-app-design" class="main-footer__list-link">Web design</a></li><li class="main-footer__list-item"><a href="../ux-audit-service" class="main-footer__list-link">UI/UX audit</a></li><li class="main-footer__list-item"><a href="../mobile-app-design" class="main-footer__list-link">Mobile app design</a></li><li class="main-footer__list-item"><a href="../design-system-service" class="main-footer__list-link">Design system</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Company</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../cases" class="main-footer__list-link">Case studies</a></li><li class="main-footer__list-item"><a href="../pricing" class="main-footer__list-link">Pricing</a></li><li class="main-footer__list-item"><a href="../about-us" class="main-footer__list-link">About</a></li><li class="main-footer__list-item"><a href="../blog/main" class="main-footer__list-link">Blog</a></li><li class="main-footer__list-item"><a href="../contact-us" class="main-footer__list-link">Contact us</a></li></ul></div><div class="main-footer__col d-md-none d-sm-block"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="favorably#" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="favorably#" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="favorably#" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>SaaS niches</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../industries/sales" class="main-footer__list-link">Sales</a></li><li class="main-footer__list-item"><a href="../industries/fintech" class="main-footer__list-link">Fintech</a></li><li class="main-footer__list-item"><a href="../industries/healthcare" class="main-footer__list-link">Healthcare</a></li><li class="main-footer__list-item"><a href="../industries/marketing" class="main-footer__list-link">Marketing</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-data-products" class="main-footer__list-link">Data</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-geospatial-data-products" class="main-footer__list-link">Geoservice</a></li><li class="main-footer__list-item"><a href="../industries/ua-ux-design-for-dfp" class="main-footer__list-link">Developer-focused</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-ai-based-products" class="main-footer__list-link">AI</a></li></ul></div><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Email courses</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../email-courses/user-onboarding" class="main-footer__list-link">Create Best SaaS User Onboarding Experience</a></li><li class="main-footer__list-item"><a href="../email-courses/aha-moment" class="main-footer__list-link">How to Spark an Aha Moment</a></li><li class="main-footer__list-item"><a href="../email-courses/how-to-define-and-design-an-mvp" class="main-footer__list-link">How to Define and Design an MVP?</a></li></ul></div><div class="main-footer__col d-sm-flex _w-100"><div class="div-block-1003"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Stories</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-footer__list-link">How to choose an UI/UX Agency</a></li></ul></div><div class="div-block-1004"><div class="main-footer__wrap-list-title mt-lg mt-sm-0"><div class="main-footer__list-title"><strong>Comparison</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../eleken-vs-toptal" class="main-footer__list-link">Eleken vs Toptal</a></li><li class="main-footer__list-item"><a href="../eleken-vs-in-house-designer" class="main-footer__list-link">Eleken vs. In-house designer</a></li><li class="main-footer__list-item"><a href="../eleken-vs-traditional-agency" class="main-footer__list-link">Eleken vs Traditional Agency</a></li></ul></div></div></div><div class="main-footer__row-vertical d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">eBooks</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/a-non-boring-guide-to-how-ux-research-is-supposed-to-work" class="main-footer__list-link">A Non-Boring Guide to How UX Research Is Supposed to Work</a></li><li class="main-footer__list-item"><a href="../books/the-ux-design-crash-course-for-product-owners" class="main-footer__list-link">The UX Design Crash Course for Product Owners</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-get-along-with-designers-and-work-well-together" class="main-footer__list-link">How to Get Along with Designers and Work Well Together</a></li><li class="main-footer__list-item"><a href="../books/how-eleken-works-clients-guide" class="main-footer__list-link">How We Work: Client&#x27;s Guide</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-succeed-with-your-remote-design-team" class="main-footer__list-link">How to Succeed with Your Remote Design Team</a></li><li class="main-footer__list-item"><a href="../books/improving-your-saas-bottom-line-how-design-affects-your-growth-metrics" class="main-footer__list-link">How Design Impacts Your Growth Metrics</a></li></ul></div></div></div><div class="main-footer__row-vertical mb-0"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">Policies</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../editorial-process" class="main-footer__list-link">Editorial Process</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../advertising-policy" class="main-footer__list-link">Advertising policy</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../team-of-experts" class="main-footer__list-link">Team of Experts</a></li></ul></div></div></div></div></div><div class="main-footer__bottom"><div class="main-footer__bottom-wrap"><p class="main-footer__copy">2023 Copyright Eleken. All rights reserved.</p><ul role="list" class="main-footer__user-llist w-list-unstyled"><li class="main-footer__user-item"><a href="../privacy-policy" class="main-footer__user-link">Privacy</a></li></ul></div><ul role="list" class="main-footer__list-socials w-list-unstyled"><li class="main-footer__list-socials-item"><a aria-label="dribbble" href="https://dribbble.com/eleken" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6d6fed9011b354a63a_icon-dribbble.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="behance" href="https://www.behance.net/elekenagency" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee2e39077fe8d223a_icon-behance.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="youtube" href="https://www.youtube.com/@eleken.agency/videos" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ec14539bbfa770694_icon-youtube.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="facebook" href="https://www.facebook.com/eleken.agency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ce41c11a2661e237a_icon-facebook.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="linkedin" href="https://www.linkedin.com/company/eleken/mycompany/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee41c11587f1e23c1_icon-linkedin.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="instagram" href="https://www.instagram.com/elekenagency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6dc145391264770693_icon-Instagram.svg" loading="lazy" alt=""/></a></li></ul></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5e8b3356a5a8f5321855bbe7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.6568e74973c68f74.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.8cfd049725a28598.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.5202ea46.c84429a6b71e1f7a.js" type="text/javascript"></script><!-- Google Tag Manager [NEW CODE SENT BY DENIS] -->
+<script type="text/javascript" fs-cc-categories="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFSGD9L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- NEW Google Tag Manager (noscript) CODE SENT BY DENIS 👇 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFSGD9L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Begin microsoft clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "p0ht6b04za");
+</script>
+<!-- End microsoft clarity -->
+
+<!-- Meta Pixel Code -->
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+      n.callMethod ?
+      n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '485203327048064');
+  fbq('track', 'PageView');
+</script>
+<!-- End Meta Pixel Code -->
+
+
+<!-- BEGIN Meta Pixel Code 2 -->
+<script>!function () {var reb2b = window.reb2b = window.reb2b || [];if (reb2b.invoked) return;reb2b.invoked = true;reb2b.methods = ["identify", "collect"];reb2b.factory = function (method) {return function () {var args = Array.prototype.slice.call(arguments);args.unshift(method);reb2b.push(args);return reb2b;};};for (var i = 0; i < reb2b.methods.length; i++) {var key = reb2b.methods[i];reb2b[key] = reb2b.factory(key);}reb2b.load = function (key) {var script = document.createElement("script");script.type = "text/javascript";script.async = true;script.src = "https://s3-us-west-2.amazonaws.com/b2bjsstore/b/" + key + "/reb2b.js.gz";var first = document.getElementsByTagName("script")[0];first.parentNode.insertBefore(script, first);};reb2b.SNIPPET_VERSION = "1.0.1";reb2b.load("ZQOQRJH25262");}();</script>
+<!-- END Meta Pixel Code 2 -->
+
+<!-- Ortto eleken capture code -->
+<script async type="text/javascript" fs-cc-categories="marketing">
+    window.ap3c = window.ap3c || {};
+    var ap3c = window.ap3c;
+    ap3c.cmd = ap3c.cmd || [];
+    ap3c.cmd.push(function() {
+        ap3c.init('Y2ud8yly673x38EDZWxla2Vu', 'https://capture-api.autopilotapp.com/');
+        ap3c.track({v: 0});
+    });
+    ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+    var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn2l.ink/app.js";
+    t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  _linkedin_partner_id = "4526676";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  (function (l) {
+    if (!l) {
+      window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+      window.lintrk.q = []
+    }
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript"; b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+  })(window.lintrk);
+</script>
+
+<script defer type="text/javascript">
+  window.lintrk('track', { conversion_id: 11306884 });
+
+  function sendLinkedInConversion() {
+    _linkedin_partner_id = "4526676";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    (function (l) {
+      if (!l) {
+        window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+        window.lintrk.q = []
+      }
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript"; b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  }
+
+  const targetId = "selected-_7z7hcxx78";
+
+  const observer = new MutationObserver(function (mutationsList) {
+    for (let mutation of mutationsList) {
+
+      if (mutation.type === "childList" && mutation.addedNodes.length > 0) {
+        const addedNodes = Array.from(mutation.addedNodes);
+        for (let node of addedNodes) {
+          if (node.nodeType === Node.ELEMENT_NODE && node.id === targetId) {
+            sendLinkedInConversion();
+            window.lintrk('track', { conversion_id: 11306884 });
+            fbq('track', 'CompleteRegistration');
+            fbq('track', 'Lead');
+          }
+        }
+      }
+    }
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+</script>
+
+<!-- Vector.co Tracking Pixel [Added for analytics/remarketing] -->
+<script>
+    !function(e,r){try{if(e.vector)return void console.log("Vector snippet included more than once.");var t={};t.q=t.q||[];for(var o=["load","identify","on"],n=function(e){return function(){var r=Array.prototype.slice.call(arguments);t.q.push([e,r])}},c=0;c<o.length;c++){var a=o[c];t[a]=n(a)}if(e.vector=t,!t.loaded){var i=r.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://cdn.vector.co/pixel.js";var l=r.getElementsByTagName("script")[0];l.parentNode.insertBefore(i,l),t.loaded=!0}}catch(e){console.error("Error loading Vector:",e)}}(window,document);
+    vector.load("6bfb1fdc-dea3-42ad-9cd1-7bd07539c7a7");
+</script>
+
+
+<script defer type="text/javascript">
+
+function addCheckboxListener() {
+  const checkboxFS = document.querySelectorAll(".w-checkbox-input");
+  checkboxFS.forEach((el) => {
+    const label = el.parentNode;
+    el.addEventListener("change", function () {
+      if (el.checked) {
+        label.classList.add('fs-cc-active-checkbox');
+      } else {
+        label.classList.remove('fs-cc-active-checkbox');
+      }
+    });
+  });
+}
+
+addCheckboxListener();
+
+  function removeTransformOnResize() {
+    const nav = document.querySelector('.main-header__nav');
+    const screenWidth = window.innerWidth;
+
+    if (screenWidth >= 768) {
+      nav.style.transform = '';
+    } else {
+      nav.style.transform = 'translateY(0px) translateX(0px)';
+    }
+  }
+
+  window.addEventListener('resize', removeTransformOnResize);
+
+  const headers = document.querySelectorAll('.main-header');
+  let lastScrollPosition = 0;
+
+  function handleScroll(elements) {
+    const currentScrollPosition = window.pageYOffset;
+    const scrollDifference = currentScrollPosition - lastScrollPosition;
+
+    for (let i = 0; i < elements.length; i++) {
+      const el = elements[i];
+
+      if (currentScrollPosition > 50) {
+        if (scrollDifference > 0) {
+          el.style.opacity = '0';
+          el.style.top = '-15%';
+        } else {
+          el.style.opacity = '1';
+          el.style.top = '16px';
+        }
+      } else {
+        el.style.opacity = '1';
+        el.style.top = '16px';
+      }
+    }
+
+    lastScrollPosition = currentScrollPosition;
+  }
+
+  window.addEventListener('scroll', function () {
+    handleScroll(headers);
+  });
+
+  function btnToggle() {
+    const btns = document.querySelectorAll('.btn-burger-wrap');
+
+    btns.forEach(btn => {
+      const line1 = btn.querySelector('.btn-burger-line-1');
+      const line2 = btn.querySelector('.btn-burger-line-2');
+      const line3 = btn.querySelector('.btn-burger-line-3');
+
+      function toggleBtn() {
+        line1.classList.toggle('btn-burger-line-1-active');
+        line2.classList.toggle('btn-burger-line-2-active');
+        line3.classList.toggle('btn-burger-line-3-active');
+      }
+
+      btn.addEventListener('click', toggleBtn);
+
+      const mediaQuery = window.matchMedia('(min-width: 768px)');
+      function handleTabletChange(e) {
+        if (e.matches) {
+          line1.classList.toggle('btn-burger-line-1-active', false);
+          line2.classList.toggle('btn-burger-line-2-active', false);
+          line3.classList.toggle('btn-burger-line-3-active', false);
+        }
+      }
+      mediaQuery.addListener(handleTabletChange);
+    });
+  }
+
+  btnToggle();
+</script>
+
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const gclid = params.get('gclid');
+  
+  if (gclid && gclid.length >= 20 && gclid.match(/^[a-zA-Z0-9_-]+$/)) {
+    localStorage.setItem('gclid', gclid);
+  }
+})();
+
+document.addEventListener("DOMContentLoaded", function() {
+  const gclidFields = document.querySelectorAll('input[name="gclid"]');
+  const savedGclid = localStorage.getItem('gclid') || '';
+  
+  gclidFields.forEach(function(field) {
+    field.value = savedGclid;
+  });
+});
+</script>
+<!-- medium-zoom.js -->
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.3/dist/medium-zoom.min.js"></script> 
+
+<script>
+    function popupVideo() {
+      const play = document.querySelector('.video-wrapper');
+      const closePopup = document.querySelector('.btn-close-popup');
+      const videoBg = document.querySelector('.popup-bg');
+      const popup = document.querySelector('.case-popup');
+
+      if (!play || !closePopup || !videoBg || !popup) {
+        console.error('One or more elements are missing');
+        return;
+      }
+
+      let tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      let firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      let player;
+      window.onYouTubeIframeAPIReady = function() {
+        player = new YT.Player('player', {
+          videoId: '',
+          playerVars: {
+            'playsinline': 1
+          },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      function onPlayerReady(event) {
+        play.addEventListener('click', () => {
+          event.target.playVideo();
+          popup.style.display = 'block';
+          setTimeout(() => {
+            popup.style.opacity = 1;
+          }, 0);
+        });
+      }
+
+      function closeHandler() {
+        popup.style.opacity = 0;
+        setTimeout(() => {
+          popup.style.display = 'none';
+        }, 500);
+        stopVideo();
+      }
+
+      let done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          closePopup.addEventListener('click', () => {
+            closeHandler();
+          });
+
+          videoBg.addEventListener('click', () => {
+            closeHandler();
+          });
+
+          done = true;
+        }
+      }
+
+      function stopVideo() {
+        player.stopVideo();
+      }
+
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+          closeHandler();
+        }
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      popupVideo();
+    });
+  </script>
+
+<script defer>
+if($(window).width() > 991){
+const images = Array.from(document.querySelectorAll(".case-reach-text-block figure img"));
+images.forEach(img => {
+  mediumZoom(img, {
+    margin: 0,
+    background: "#fff",
+    scrollOffset: 40,
+    template: null,
+    container: {
+      	top: 50,
+        bottom: 50,
+      },
+  });
+  });
+};
+if($(window).width() <= 991){
+const images = Array.from(document.querySelectorAll(".case-reach-text-block figure img"));
+images.forEach(img => {
+  mediumZoom(img, {
+    margin: 0, 
+    background: "#fff",
+    scrollOffset: 0, 
+    container: null,
+    template: null
+  });
+  });
+};
+
+function adjustStyles() {
+	const caseReachTextBlock = document.querySelector('.case-reach-text-block');
+  if (!caseReachTextBlock) return;
+
+  const childElements = Array.from(caseReachTextBlock.children);
+
+  childElements.forEach(element => {
+    const caseBrandSection = element.querySelector('.case-brand');
+
+    if (element.tagName === 'H2' && element === caseReachTextBlock.firstElementChild) {
+      if (caseBrandSection) {
+        caseBrandSection.style.paddingBottom = '0';
+      }
+    }
+
+    if (element.tagName === 'H2') {
+      const previousSibling = element.previousElementSibling;
+      if (previousSibling && (previousSibling.tagName === 'FIGURE' || previousSibling.tagName === 'IMG')) {
+        element.style.marginTop = '0';
+      } else {
+        element.style.marginTop = '';
+      }
+    }
+
+    const wEmbed = element.classList.contains('w-embed') ? element : null;
+    if (wEmbed) {
+      if (wEmbed.nextElementSibling && wEmbed.nextElementSibling.tagName === 'FIGURE') {
+        const testimonial = wEmbed.querySelector('.testimonial');
+        if (testimonial) {
+          testimonial.style.marginBottom = '0';
+        }
+      }
+
+      if (wEmbed.previousElementSibling && wEmbed.previousElementSibling.tagName === 'FIGURE') {
+        const testimonial = wEmbed.querySelector('.testimonial');
+        if (testimonial) {
+          testimonial.style.marginTop = '0';
+        }
+      }
+
+      if (wEmbed.nextElementSibling && wEmbed.nextElementSibling.tagName === 'H2') {
+        const testimonial2 = wEmbed.querySelector('.testimonial');
+        if (testimonial2) {
+          testimonial2.style.marginBottom = '0';
+        }
+      }
+    }
+  });
+
+
+  if (caseReachTextBlock && caseReachTextBlock.firstElementChild.tagName === 'H2') {
+    const caseBrandElements = document.querySelectorAll('.case-brand');
+
+    caseBrandElements.forEach(element => {
+      element.style.paddingBottom = '0';
+    });
+  }
+}
+
+adjustStyles() 
+
+function toUppercase() {
+    const figureImage = document.querySelectorAll('figure');
+
+      figureImage.forEach(item => {
+        const figcaption = item.querySelector('figcaption');
+
+        if (figcaption) {
+          const textFigcaption = figcaption.textContent.toLocaleLowerCase();
+          if (textFigcaption === 'before' || textFigcaption === 'after') {
+            figcaption.style.textTransform = 'uppercase';
+          }
+        }
+   });
+ }
+ 
+toUppercase();
+</script>
+
+<script defer>
+function videoPlayer() {
+    const videoContainers = document.querySelectorAll('.video-wrap');
+    let currentlyPlayingVideo = null;
+
+    videoContainers.forEach(container => {
+        const video = container.querySelector('.video');
+        const playButton = container.querySelector(".btn-play");
+        const pauseButton = container.querySelector(".btn-pause");
+        const videoOverlay = container.querySelector(".video-overlay");
+
+        let isFirstClick = true;
+        let hideTimeout;
+
+        playButton.style.display = "block";
+        pauseButton.style.display = "none";
+        
+        video.setAttribute("controlslist", "nodownload");
+
+
+        function togglePlay() {
+            if (currentlyPlayingVideo && currentlyPlayingVideo !== video) {
+                currentlyPlayingVideo.pause();
+                currentlyPlayingVideo.parentElement.querySelector('.btn-play').style.display = 'block';
+                currentlyPlayingVideo.parentElement.querySelector('.btn-pause').style.display = 'none';
+            }
+
+            if (isFirstClick) {
+                video.currentTime = 0;
+                video.muted = false;
+                video.play();
+                isFirstClick = false;
+                currentlyPlayingVideo = video;
+                hideOverlay();
+            } else {
+                if (video.paused || video.ended) {
+                    video.muted = false;
+                    video.play();
+                    currentlyPlayingVideo = video;
+                } else {
+                    video.pause();
+                }
+            }
+
+            updateButtons();
+        }
+
+        function updateButtons() {
+            if (video.paused || video.ended) {
+                playButton.style.display = "block";
+                pauseButton.style.display = "none";
+            } else {
+                playButton.style.display = "none";
+                pauseButton.style.display = "block";
+            }
+        }
+
+        function showButton() {
+            if (!video.paused && !isFirstClick) {
+                pauseButton.style.display = "block";
+            }
+            clearTimeout(hideTimeout);
+            hideTimeout = setTimeout(() => {
+                if (!video.paused && !isFirstClick && !pauseButton.matches(':hover')) {
+                    pauseButton.style.display = "none";
+                }
+            }, 2500);
+        }
+
+        function hideButton(e) {
+            if (!container.contains(e.relatedTarget) && !video.paused && !isFirstClick) {
+                pauseButton.style.display = "none";
+            }
+        }
+
+        function resetHideTimeout(e) {
+            if (!pauseButton.matches(':hover')) {
+                showButton();
+            }
+        }
+
+        function nativeControlListener() {
+            if (!isFirstClick) {
+                updateButtons();
+                showButton();
+            }
+        }
+
+        function hideOverlay() {
+            if (videoOverlay) {
+                videoOverlay.style.display = 'none';
+            }
+        }
+
+        playButton.addEventListener("click", togglePlay);
+        pauseButton.addEventListener("click", togglePlay);
+
+        video.addEventListener("play", nativeControlListener);
+        video.addEventListener("pause", nativeControlListener);
+        video.addEventListener("ended", nativeControlListener);
+
+        container.addEventListener("mouseover", showButton);
+        container.addEventListener("mouseout", hideButton);
+        container.addEventListener("mousemove", resetHideTimeout);
+
+        pauseButton.addEventListener("mouseover", showButton);
+        pauseButton.addEventListener("mouseout", hideButton);
+    });
+}
+
+
+  document.addEventListener("DOMContentLoaded", () => {
+    videoPlayer();
+  });
+ </script></body></html>

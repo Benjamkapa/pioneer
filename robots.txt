@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*_page=
+
+Sitemap: https://www.eleken.co/sitemap.xml

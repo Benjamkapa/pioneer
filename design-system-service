@@ -1,0 +1,873 @@
+<!DOCTYPE html><!-- Last Published: Sat Jul 05 2025 18:59:21 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.eleken.co" data-wf-page="66449f15aee498b37b01c0a2" data-wf-site="5e8b3356a5a8f5321855bbe7" lang="en-US"><head><meta charset="utf-8"/><title>Design System Service – Eleken</title><meta content="Have big plans on scaling your SaaS? We can support you in creating and shaping the design system." name="description"/><meta content="Design System Service – Eleken" property="og:title"/><meta content="Have big plans on scaling your SaaS? We can support you in creating and shaping the design system." property="og:description"/><meta content="Design System Service – Eleken" property="twitter:title"/><meta content="Have big plans on scaling your SaaS? We can support you in creating and shaping the design system." property="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.shared.ccdbd16e9.min.css" rel="stylesheet" type="text/css"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.66449f15aee498b37b01c0a2-245080e12.min.css" rel="stylesheet" type="text/css"/><style>@media (min-width:992px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab4ec"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50e"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab51e"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab52f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab540"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab552"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab553"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab555"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab589"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab593"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59a"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59f"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5a4"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b7"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b8"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5ba"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5c7"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5d4"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5e3"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab716"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab730"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab735"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab73b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab74b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab75b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab76d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab77d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab78d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}}@media (max-width:991px) and (min-width:768px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab4ec"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50e"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab51e"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab52f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab540"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab552"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab553"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab555"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab589"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab593"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59a"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59f"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5a4"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b7"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b8"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5ba"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5c7"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5d4"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5e3"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab716"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab730"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab735"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab73b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab74b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab75b"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab76d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab77d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="fe215031-dcff-3bef-378c-69a80b5ab78d"] {-webkit-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 70PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}}</style><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f5772b19e21646ddb8bf065_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f57734d2a640600bb91c08f_webclip.png" rel="apple-touch-icon"/><link href="design-system-service" rel="canonical"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '485203327048064');fbq('track', 'PageView');</script><meta name="facebook-domain-verification" content="io1art9rwuq7x631alwajwzelf6e3v" />
+<meta name="google-site-verification" content="V3_aGXWAx0_wIFaBvqHUIWFIeMMXLxJf3iqUNAFPlCs" />
+<meta name="google-site-verification" content="J7nIBJizYNb3a93ruG01jj9Z1whW-5CrFajmdGMCx78" />
+
+<link rel="preload" as="image" href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" />
+
+<!--begin site performance for assets -->
+<link rel="preconnect" href="https://assets.website-files.com">
+<link rel="dns-prefetch" href="https://assets.website-files.com">
+<!--end site performance for assets-->
+
+<!-- Finsweet Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+
+<script defer id="jetboost-script" type="text/javascript"> window.JETBOOST_SITE_ID = "cm06j37qg00in0r4fb2px54ky"; (function(d) { var s = d.createElement("script"); s.src = "https://cdn.jetboost.io/jetboost.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })(document); </script>
+
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="4NY8Ssng8Yr/NkQ/LqGSXg" async></script>
+
+
+<style>
+    html,
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: antialiased;
+        overflow-x: hidden;
+    }
+  
+  	img {
+  	  height: auto;
+  	}
+  
+    .no-scroll {
+      overflow: hidden !important;
+    }
+
+    .no-horizontal {
+      overflow-x: hidden;
+    }
+
+    .w-slider-dot {
+      background: #D6D2CD;
+      height: 8px;
+      width: 8px;
+    }
+
+    .w-slider-dot.w-active {
+      background: #FF8E5E;
+      height: 8px;
+      width: 8px;
+    }
+  
+  	.fs-cc-prefs_close-icon {
+      width: 24.78px !important;
+      height: 24.78px !important;
+      color: #BCBCBC !important;
+	}
+
+    .fs-cc-active-checkbox {
+      background-color: #ff8e5e !important;
+    }
+
+
+ 
+
+    .button-primary {
+      display: inline-flex
+    }
+  
+  	.w-editor-bem-KitDropDown_List {
+  		z-index: 10;
+  	}
+  
+  
+  	@media only screen and (max-width: 767px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 87px !important; 
+     	}
+  	}
+  
+   
+  	@media only screen and (max-width: 479px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 73px !important; 
+     	}
+  	}
+  
+  	 @media only screen and (min-width: 768px) {
+      .main-header__nav-dropdown-toggle-icon,
+      .main-header__nav-dropdown-toggle-title {
+        transition: all 0.3s ease;
+       }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-icon {
+        transform: rotate(-90deg);
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-title {
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-trigger {
+        position: relative;
+      }
+
+      .main-header__nav-dropdown-trigger:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        bottom: -50px;
+        padding-top: 50px;
+      }
+
+      .main-header__nav-toggle-list {
+        transition: all 0.3s ease;
+        visibility: hidden;
+        opacity: 0;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-toggle-list {
+        visibility: visible;
+        opacity: 1;
+        height: auto;
+      }
+    }
+  
+  	
+
+    @media screen and (max-width: 992px) {
+      .services {
+        max-width: 100vw;
+        overflow-y: auto;
+        overflow-x: hidden;
+        max-height: calc(100vh + 230px);
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+</style>
+
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. -->
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_1.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_2.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_3.js"></script>
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. --><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemPage",
+  "mainEntity": {
+    "@type": "Service",
+    "serviceType": "Design System Service",
+    "provider": {
+      "@type": "Organization",
+      "name": "Eleken",
+      "url": "https://www.eleken.co",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg"
+      }
+    },
+    "url": "https://www.eleken.co/design-system-service",
+    "description": "Have big plans on scaling your SaaS? We can support you in creating and shaping the design system.",
+    "areaServed": {
+      "@type": "Place",
+      "name": "Global"
+    }
+  }
+}
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+
+html, body {
+    overflow-x: visible !important;
+}
+
+.wrapper {
+  contain: paint !important;
+}
+</style>
+
+<style>
+:root {
+	/* ----------- Colors ----------- */
+	--list-bg-color: #fff;
+  --list-text-color: #1D1E22; /* Use "inherit" to take on parent text color */
+  --select-field-arrow-color: #1D1E22; /* This is the select field arrow color */
+  --border-color-active: #F6F4F2; /* Active State */
+  --border-color-hover: #6A6868; /* Select Field could be the same as your form field border color */
+  --list-item-bg-color: #6A6868; /* Select Field Hover/Focus State */
+  
+  /* ----------- Spacing ----------- */
+  --select-field-padding-left: 12px; /* Match the padding values for your form fields */
+  --select-field-padding-right: 12px; /* Match the padding values for your form fields */
+  --list-padding-top-bottom: 15; /* This is the top and bottom padding for the dropdown list */
+  --list-max-height: auto;
+  --list-min-width: 100%; /* You can set this to "Auto" as well */
+  --list-item-padding-left: 18px; 
+  --list-item-padding-right: 18px;
+  --list-item-min-height: 50px; /* This is the height of each list item in the dropdown */
+  --list-item-line-height: 50px; /* This is the height of each list item in the dropdown */
+  						
+           /* ^^^  Make sure both "line-height" and "min-height" are the same! ^^^  */
+}
+
+
+
+
+.nice-select {
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+  clear: both;
+  padding-left: var(--select-field-padding-left);
+  padding-right: var(--select-field-padding-right);
+  position: relative;
+  text-align: left !important;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  white-space: nowrap; 
+}
+
+
+.nice-select:hover {
+  border-color: var(--border-color-hover); 
+}
+
+
+.nice-select:active, .nice-select.open, .nice-select:focus {
+  border-color: var(--border-color-active);
+}
+
+
+.nice-select:after {
+  border-bottom: 2px solid var(--select-field-arrow-color);
+  border-right: 2px solid var(--select-field-arrow-color);
+  content: '';
+  display: block;
+  height: 5px;
+  margin-top: -4px;
+  pointer-events: none;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  -webkit-transform-origin: 66% 66%;
+  -ms-transform-origin: 66% 66%;
+  transform-origin: 66% 66%;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  width: 5px; 
+}
+
+
+.nice-select.open:after {
+    -webkit-transform: rotate(-135eg);
+  -ms-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+
+
+.nice-select.open .list {
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-transform: scale(1) translateY(0);
+  -ms-transform: scale(1) translateY(0);
+  transform: scale(1) translateY(0); 
+}
+
+
+.nice-select.disabled {
+  border-color: #ededed;
+  color: #999;
+  pointer-events: none; 
+}
+
+
+.nice-select.disabled:after {
+  border-color: #cccccc; 
+}
+
+
+.nice-select.wide {
+  width: 100%; 
+}
+
+
+.nice-select.wide .list {
+  left: 0 !important;
+  right: 0 !important; 
+}
+
+
+.nice-select.right {
+  float: right; 
+}
+
+
+.nice-select.right .list {
+  left: auto;
+  right: 0; 
+}
+
+
+.nice-select.small {
+  font-size: 12px;
+  height: 36px;
+  line-height: 34px; 
+}
+
+
+.nice-select.small:after {
+  height: 4px;
+  width: 4px; 
+}
+
+
+.nice-select.small .option {
+  line-height: 34px;
+  min-height: 34px; 
+}
+
+
+.nice-select .list {
+  background-color: var(--list-bg-color);
+  color: var(--list-text-color);
+  border-radius: 0px;
+  box-shadow: 0 7px 20px 0px rgba(68, 68, 68, 0.11);
+  border-color: 3px solid #ededed;
+  box-sizing: border-box;
+  margin-top: 4px;
+  opacity: 0;
+  overflow: hidden;
+  padding: var(--list-padding-top-bottom) 0px;
+  pointer-events: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: var(--list-max-height);
+  -webkit-transform-origin: 50% 0;
+  -ms-transform-origin: 50% 0;
+  transform-origin: 50% 0;
+  -webkit-transform: scale(0.75) translateY(-21px);
+  -ms-transform: scale(0.75) translateY(-21px);
+  transform: scale(0.75) translateY(-21px);
+  -webkit-transition: all 0.2s cubic-bezier(0.5, 0, 0, 1.25), opacity 0.15s ease-out;
+  transition: all 0.2s cubic-bezier(0.5, 0, 0, 1.25), opacity 0.15s ease-out;
+  z-index: 9; 
+}
+
+
+.nice-select .list:hover .option:not(:hover) {
+  background-color: transparent !important; 
+}
+
+
+.nice-select .option {
+  cursor: pointer;
+  font-weight: 400;
+  line-height: var(--list-item-line-height);
+  list-style: none;
+  min-height: var(--list-item-min-height);
+  outline: none;
+  padding-left: var(--list-item-padding-left);
+  padding-right: var(--list-item-padding-right);
+  text-align: left;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.nice-select .option:first-child {
+	display: none;
+}
+
+span.current {
+	color: var(--list-text-color);
+}
+
+.nice-select .option:hover, .nice-select .option.focus, .nice-select .option.selected.focus {
+  background-color: var(--list-item-bg-color);
+}
+
+.nice-select .option.selected {
+  font-weight: bold; 
+}
+
+.nice-select .option.disabled {
+  background-color: transparent;
+  color: #999;
+  cursor: default; 
+}
+
+.no-csspointerevents .nice-select .list {
+display: none; 
+}
+
+.no-csspointerevents .nice-select.open .list {
+display: block; 
+}
+</style>
+
+<style>
+  .slick-list {
+  	overflow: visible !important;
+  }
+  
+  .slick-track {
+  	display: flex;
+    align-items: end;
+  }
+  
+  .slick-disabled {
+  	opacity: 60%;
+  }
+  
+  
+  .slick-prev, .slick-next {
+  	top: auto;
+    width: 25px;
+    bottom: 0;
+  	cursor: pointer;
+  }
+  
+  .slick-prev {
+    left: 39%;
+
+  }
+
+  .slick-next {
+  	right: 39%;
+  }
+  
+ .slick-prev svg, .slick-next svg {
+   	width: 100%;
+  }
+  
+  .slick-next:before, .slick-prev:before {
+  	display: none;
+  } 
+  
+    @media screen and (min-width: 568px) {
+ 	  .slick-prev {
+    	left: 45%;
+      }
+
+  	  .slick-next {
+  		right: 45%;
+  	  }
+ 	}
+
+ 
+  
+  @media screen and (max-width: 992px) {
+   .slick-track  {
+     display: flex;
+     align-items: end;
+     flex-direction: row-reverse;
+     justify-content: flex-end;
+   }
+ }
+</style></head><body><div data-animation="default" data-collapse="small" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="main-header w-nav"><div class="main-header__container main-header__container--sm w-container"><div class="main-header__row"><a href="index.html" class="main-header__logo w-nav-brand"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="eager" alt="" class="eleken-logo"/></a><nav role="navigation" class="main-header__nav w-nav-menu"><div class="main-header__nav-container"><ul role="list" class="main-header__nav-list"><li class="main-header__nav-list-item"><a href="cases" class="main-header__nav-link w-nav-link">Case studies</a></li><li class="main-header__nav-list-item"><div data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa77" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Services</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" loading="lazy" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-3"></div><ul role="list" class="main-header__nav-toggle-list w-list-unstyled"><li class="main-header__nav-item-wrap mr-xl-n65 mr-lg-n26 mr-sm-n15"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa7f" href="books/how-eleken-works-clients-guide" class="main-header__useful-links main-header__useful-links-size w-inline-block"><div class="main-header__book-title"><strong class="bold-text-11">How Eleken Works</strong></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" loading="eager" width="195" height="100" alt="" fetchpriority="high" class="main-header__book-img"/><div class="main-header__book-download"><div class="text-block-24">Download ebook</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="image-869"/></div></a></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Services</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa8d" href="engagement/start-from-scratch-mvp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Design from scratch (MVP)</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa92" href="engagement/product-redesign" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Product redesign</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aa97" href="engagement/team-extension" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Team extension</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Approach</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaa0" href="saas-web-design" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">SaaS design</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaa5" href="ui-ux-design-services" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX design services</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaaa" href="web-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Web design</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="8ad628b4-cf20-96c9-6ffa-16f8cdbc6a1f" href="ux-audit-service" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX audit</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aaaf" href="mobile-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Mobile design</div></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="62594621-be3b-34be-fb56-7e13e238da44" href="design-system-service" aria-current="page" class="main-header__nav-dropdown-item-link w-inline-block w--current"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design system</div></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">SaaS Industries</li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aab8" href="industries/sales" class="main-header__nav-dropdown-item-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Sales</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aabd" href="industries/fintech" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Fintech</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aac2" href="industries/healthcare" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Healthcare</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aacc" href="industries/marketing" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Marketing</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="780682f7-c673-943e-932b-02d1f4714724" href="industries/ui-ux-design-for-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Data</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="3d320e69-f87b-4831-11a8-cba9d78e7c70" href="industries/ui-ux-design-for-geospatial-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Geoservice</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="eb7c4bc9-cf31-2fbf-2fe1-6d08458791cd" href="industries/ua-ux-design-for-dfp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Developer-focused</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-0"><a data-w-id="38d8bbee-0ed6-2558-4c79-a6c40eae406b" href="industries/ui-ux-design-for-ai-based-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">AI</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li></ul></div></li><li class="main-header__nav-list-item"><a href="pricing" class="main-header__nav-link w-nav-link">Pricing</a></li><li class="main-header__nav-list-item"><a href="about-us" class="main-header__nav-link w-nav-link">About</a></li><li class="main-header__nav-list-item border-bottom-0"><div data-w-id="e4375372-2993-1f6a-c521-a3bbfe23aad7" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Resources</div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" loading="lazy" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-1"></div><div class="main-header__nav-toggle-list main-header__nav-toggle-list-resources"><div class="main-header__nav-item-wrap main-header__nav-item-wrap-resources"><div class="main-header__useful-links"><div class="d-flex"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow opacity-0"/><div class="main-header__nav-dropdown-item-title">Featured</div></div><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="blog-posts/to-redesign-or-not-to-redesign-your-product" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>To redesign or not to redesign</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="blog-posts/ux-audit-report-examples-or-best-practices-in-conducting-the-audit" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>Top 3 UX audit report examples</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="blog-posts/how-where-and-when-to-find-a-designer-for-your-saas-app" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to find a designer for SaaS?</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="34bf5a19-d6fe-7aba-f004-1b8722189400" href="blog-posts/mvp-benefits-examples-and-myths-around-it" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to build a minimum viable product</div></a></div></div></div></div></div><div class="main-header__nav-wrap-fluid"><ul role="list" class="main-header__nav-fluid-list w-list-unstyled"><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583d2" href="email-courses/product-led-growth" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641dc21ead39ae3c1555614d_icon-email-course.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Email courses</div></div><p class="main-header__p">A place for SaaS founders to master design fundamentals in 7 days</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583dc" href="blog/main" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e40dee128cf5885313_icon-blog.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon icon-blog"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Blog</div></div><p class="main-header__p">A selection of fresh insights from the front lines of product design</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583e6" href="books.1" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e4fa8d903c70c42a35_icon-e-book.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">eBooks</div></div><p class="main-header__p">A comprehensive source of UI/UX wisdom to grow your business</p></div></a></li><li class="main-header__nav-fluid-item"><a data-w-id="a3de863a-c684-8986-49a8-4c5a74c583f0" href="articles/how-to-choose-a-ui-ux-design-agency" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e415d617243d4b310e_icon-stories.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Story</div></div><p class="main-header__p">How to Choose a UI/UX Design Agency</p></div></a></li></ul></div><div class="main-header__dropdown-divider-2"></div></div></div></li></ul><a href="contact-us" class="main-header__btn-user d-md-none d-sm-blosk button header w-button">book a trial</a></div></nav><div class="main-header__btn-burger w-nav-button"><div class="btn-burger-wrap-embet w-embed"><style>
+    .btn-burger-wrap {
+      position: relative;
+      width: 23px;
+      height: 16px;
+
+    }
+
+    .btn-burger-line-1,
+    .btn-burger-line-2,
+    .btn-burger-line-3 {
+      width: 100%;
+      height: 2px;
+      background: #ffffff;
+      position: absolute;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+    }
+
+
+    .btn-burger-line-1 {
+      top: 0;
+    }
+
+    .btn-burger-line-2 {
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+      width: 75%;
+    }
+
+    .btn-burger-line-3 {
+      bottom: 0;
+    }
+
+    .btn-burger-line-2-active {
+      opacity: 0;
+    }
+
+    .btn-burger-line-1-active {
+      top: 49%;
+      transform: rotate(-46deg);
+    }
+
+    .btn-burger-line-3-active {
+      top: 49%;
+      transform: rotate(46deg);
+    }
+  </style>
+
+  <div class="btn-burger-wrap">
+    <div class="btn-burger-line-1"></div>
+    <div class="btn-burger-line-2"></div>
+    <div class="btn-burger-line-3"></div>
+  </div></div></div><a href="contact-us" class="main-header__btn-user d-sm-none button header w-button">Contact us</a></div></div></div><div class="wrapper overflow-visible"><main class="main"><section class="hero section"><div class="container"><strong class="h1 d-block"><div class="decor-flex"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Design </div><div class="text-title-decor-wrap"><div class="d-inline">system</div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab4d9" data-is-ix2-target="1" class="text-lottie-anim crown-up-right crown-up-right-4" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64494a4bb26d896eb999bce6_crown-01.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div></div></div><div class="text-title-wrap overflow-hidden"><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab4dc" data-is-ix2-target="1" class="text-lottie-anim wave" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ba65cf8862d2188313c9f_wave-11.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">services</div></div><div class="d-inline"> for SaaS</div></div><div class="text-title-wrap overflow-hidden"><div class="d-inline">companies</div></div></div></strong><p class="p">Design system is the only way to scale <span class="text-span-397">your product consistently</span></p><div class="hero-btn-wrap"><a href="contact-us" data-w-id="cdecf57e-0f84-50cd-3e5a-91782d0a27ed" class="btn-primary w-inline-block"><div class="btn-primary__text">Start your system<br/></div><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64300233722c1a4e2578c955_icon-arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="icon arrow" class="btn-primary__icon"/></a></div></div></section><section data-w-id="fe215031-dcff-3bef-378c-69a80b5ab4ec" class="section pb-xs"><div class="container"><div class="wrap-cont"><div class="row row-2-grid-md"><div class="col"><h2 class="h3">As the business scales, <span class="text-span-400">the degree of chaos increases:</span></h2><ul role="list" class="list mb-0 w-list-unstyled"><li class="list-item mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66212a971bbc0bda106c26f6_icon-cross-05.svg" loading="lazy" alt="" class="list-icon"/><div class="list-arrow-text">The number of features goes up.</div></li><li class="list-item mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66212a971bbc0bda106c26f6_icon-cross-05.svg" loading="lazy" alt="" class="list-icon"/><div class="list-arrow-text">Designers circle back to the same <span class="text-span-401">problems.</span></div></li><li class="list-item mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66212a971bbc0bda106c26f6_icon-cross-05.svg" loading="lazy" alt="" class="list-icon"/><div class="list-arrow-text">User experience suffers from <span class="text-span-402">inconsistency.</span></div></li></ul></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab506-7b01c0a2" class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab507" data-is-ix2-target="1" class="lottie-mess-anim" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634faf2fa0ce1238c404cdf_mess.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="2.0020019204587935" data-duration="1.6"></div></div></div></div><h2 class="h3 m-0 text-center">There’s a tool to eliminate roadblocks and <span class="text-span-399">ensure a smooth design process.</span></h2></div></section><section class="section"><div class="container"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50e" class="header-wrap d-flex align-y-center direction-col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/646ccae06b6fe7807ba01e25_icon-arrow-08.svg" loading="lazy" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab50f" alt="" class="image-988 mt-0"/><strong class="h1 d-block"><div class="decor-flex display-sm-block"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Design system brings </div></div><div class="text-title-wrap overflow-hidden"><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab517" data-is-ix2-target="1" class="text-lottie-anim circle" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64369328702aadd6f24c066b_circle-01.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">order</div></div><div class="d-inline"> to chaos</div></div></div></strong></div><div class="row row-3-grid-md"><div class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab51e" class="card bg-white d-flex"><div class="card-header d-flex"><strong class="h3 mb-0"><div class="decor-flex display-sm-block"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Create designs </div></div><div class="text-title-wrap overflow-hidden"><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab527" data-is-ix2-target="1" class="text-lottie-anim line line--sm" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64494a4bb26d89858d99bcf0_line-05.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">5x</div></div><div class="d-inline"> faster</div></div></div></strong></div><p class="p mb-0 mt-auto">Reusing existing elements reduces design time from hours to minutes.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab52e-7b01c0a2" class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab52f" class="card bg-white d-flex"><div class="card-header d-flex"><strong class="h3 mb-0"><div class="decor-flex display-sm-block"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Foster </div><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab537" data-is-ix2-target="1" class="text-lottie-anim crown-up-right crown-up-right-5" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/646ba23cbfa30d3682be607b_crowm-04.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">team </div></div></div><div class="text-title-wrap overflow-hidden"><div class="d-inline">collaboration</div></div></div></strong></div><p class="p mb-0 mt-auto">Design system unifies teams, enhancing communication and teamwork.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab53f-7b01c0a2" class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab540" class="card bg-white d-flex"><div class="card-header d-flex"><strong class="h3 mb-0"><div class="decor-flex display-sm-block"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Improve </div><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab548" data-is-ix2-target="1" class="text-lottie-anim line" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63e1000f5d60223404ecd531_FAQ-3.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">user </div></div></div><div class="text-title-wrap overflow-hidden"><div class="d-inline">experience</div></div></div></strong></div><p class="p mb-0 mt-auto">Usability gets better when similar interface components look and function in a similar way.</p></div></div></div></div></section><section class="section section-points"><div class="container"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab552" class="header-wrap"><h2 data-w-id="fe215031-dcff-3bef-378c-69a80b5ab553" class="h1 h1-sm text-center">We deliver quickly without compromising quality</h2></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab555" class="points-scroll-wrap"><div class="points-scroll vh-lg top-sm"><div class="point-items"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab558-7b01c0a2" class="point-item bg-white"><p class="mb-0">Research</p></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d55c0a4473c68764050f8_icon-arrow-05.svg" loading="lazy" alt="" class="image-1111"/><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab55c-7b01c0a2" class="point-item point-item-border point-item-2"><p class="mb-0">Asset collection</p></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d55c0a4473c68764050f8_icon-arrow-05.svg" loading="lazy" alt="" class="image-1111"/><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab560-7b01c0a2" class="point-item point-item-border point-item-3"><p class="mb-0">Component creation</p></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d55c0a4473c68764050f8_icon-arrow-05.svg" loading="lazy" alt="" class="image-1111"/><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab564-7b01c0a2" class="point-item point-item-border point-item-4"><p class="mb-0">Documentation</p></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d55c0a4473c68764050f8_icon-arrow-05.svg" loading="lazy" alt="" class="image-1111"/><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab568-7b01c0a2" class="point-item point-item-border point-item-5"><p class="mb-0">Maintenance</p></div></div><div class="points-wrap"><div class="point-wrap point-wrap-1"><div class="row row-2-grid-md"><div class="col"><div class="wrap-text-item"><h3 class="h3">1.  Research and planning</h3><p class="p opacity-60 mb-0">We will start by understanding<br/>the needs of your company and users to <span class="text-span-404">define the scope and goals</span>of the design system. </p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab579-7b01c0a2" class="col"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">I found it impressive how much they knew about my problem space. They clearly understand the problem they are solving and how to connect with their clients.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660e8d8ec36a3ce8fcee4cba_avatar-30.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Nikayla Cottone, Head of Product</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660e8db5a9eea743c1e46fd8_image%205.webp" loading="lazy" alt="image logo" class="logo-nik"/></div></div></div></div></div><div class="point-wrap point-wrap-2"><div class="row row-2-grid-md"><div class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab589" class="wrap-text-item"><h3 class="h3">2. Asset collection</h3><p class="p opacity-60 mb-0">Then, we&#x27;ll gather all current design assets, including colors, fonts, icons, and UI components, to find and fix any inconsistencies.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab58e-7b01c0a2" class="col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7719ca8198198c8e7ec_img-design-system-01.webp" loading="lazy" sizes="(max-width: 1439px) 100vw, 1380.0001220703125px" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7719ca8198198c8e7ec_img-design-system-01-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7719ca8198198c8e7ec_img-design-system-01-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7719ca8198198c8e7ec_img-design-system-01-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7719ca8198198c8e7ec_img-design-system-01.webp 1380w" alt="A computer screen with a color scheme on it" class="image-1116"/></div></div></div><div class="point-wrap point-wrap-3"><div class="row row-2-grid-md"><div class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab593" class="wrap-text-item"><h3 class="h3">3. Component creation</h3><p class="p opacity-60 mb-0">Our next step is to design reusable<br/>UI components and patterns that align with the design system&#x27;s principles.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab59a-7b01c0a2" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59a" class="col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7728f93b60e19bd6ddb_img-design-system-02.webp" loading="lazy" sizes="(max-width: 1439px) 100vw, 1380.0001220703125px" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7728f93b60e19bd6ddb_img-design-system-02-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7728f93b60e19bd6ddb_img-design-system-02-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7728f93b60e19bd6ddb_img-design-system-02-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7728f93b60e19bd6ddb_img-design-system-02.webp 1380w" alt="" class="image-1117"/></div></div></div><div class="point-wrap point-wrap-4"><div class="row row-2-grid-md"><div class="col"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab59f" class="wrap-text-item"><h3 class="h3">4. Documentation</h3><p class="p opacity-60 mb-0">Finally, we will write detailed rules and guidelines explaining each design element’s anatomy and use cases.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab5a4-7b01c0a2" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5a4" class="col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7710210e3a584fbc2bd_img-design-system-03.webp" loading="lazy" sizes="(max-width: 1439px) 100vw, 1380.0001220703125px" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7710210e3a584fbc2bd_img-design-system-03-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7710210e3a584fbc2bd_img-design-system-03-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7710210e3a584fbc2bd_img-design-system-03-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7710210e3a584fbc2bd_img-design-system-03.webp 1380w" alt="" class="image-1118"/></div></div></div><div class="point-wrap point-wrap-5"><div class="row row-2-grid-md"><div class="col"><div class="wrap-text-item"><h3 class="h3">5. Maintenance</h3><p class="p opacity-60 mb-0">We will stay as long as you need us providing ongoing maintenance and updates to keep the design system relevant as your organization evolves.</p></div></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab5ae-7b01c0a2" class="col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7715284d058c7b70d77_img-design-system-04.webp" loading="lazy" sizes="(max-width: 1439px) 100vw, 1380.0001220703125px" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7715284d058c7b70d77_img-design-system-04-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7715284d058c7b70d77_img-design-system-04-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7715284d058c7b70d77_img-design-system-04-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623b7715284d058c7b70d77_img-design-system-04.webp 1380w" alt="" class="image-1119"/></div></div></div></div></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b0" class="point-trigger-in point-trigger-in-1"></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b1" class="point-trigger-in point-trigger-in-2"></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b2" class="point-trigger-in point-trigger-in-3"></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b3" class="point-trigger-in point-trigger-in-4"></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b4" class="point-trigger-in point-trigger-in-5"></div></div></div></section><section class="section"><div class="container"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b7" class="header-wrap d-flex align-y-center direction-col"><h2 data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5b8" class="h1">Explore our latest design system support projects</h2></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5ba" class="case-item"><div class="col d-flex flex-col align-bottom"><div class="case-item-info"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623bfe244f7b91fac18b0ff_logo-pay-up.svg" loading="lazy" alt="" class="case-item-logo case-item-logo--payup"/><h3 class="case-item-title">PayUp Design case study</h3><p class="case-item-text">Supercharging the growth of a financial platform with a consistent design system</p><a href="cases/pay-up" class="button-primary d-inline-flex align-self-left mb-0 w-inline-block"><div>read case study</div></a></div></div><div class="col position-relative"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01-p-1600.webp 1600w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c5bfb54cf9a0555c4882_img-case-card-01.webp 1830w" alt="" class="case-item-img-wrap"/></div></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5c7" class="case-item"><div class="col d-flex flex-col align-bottom"><div class="case-item-info"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623bfe2ca3e7be3c3ddf6ec_logo-tm.svg" loading="lazy" alt="" class="case-item-logo case-item-logo--tm"/><h3 class="case-item-title">TextMagic case study</h3><p class="case-item-text">Designing a CX platform to support the product expansion strategy</p><a href="cases/textmagic" class="button-primary d-inline-flex align-self-left mb-0 w-inline-block"><div>read case study</div></a></div></div><div class="col position-relative"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02-p-1600.webp 1600w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c260b5257a2bc77758a7_img-case-card-02.webp 1698w" alt="" class="case-item-img-wrap"/></div></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5d4" class="case-item mb-0"><div class="col d-flex flex-col align-bottom"><div class="case-item-info"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623bfe290c35209b32b385f_logo-cylynx.svg" loading="lazy" alt="" class="case-item-logo case-item-logo--cylynx"/><h3 class="case-item-title">Cylynx case study</h3><p class="case-item-text">MVP design for a no-code graph visualization platform</p><a href="cases/cylynx" class="button-primary d-inline-flex align-self-left mb-0 w-inline-block"><div>read case study</div></a></div></div><div class="col position-relative"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c2609ae8cfb6e728850c_img-case-card-03.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c2609ae8cfb6e728850c_img-case-card-03-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c2609ae8cfb6e728850c_img-case-card-03-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c2609ae8cfb6e728850c_img-case-card-03-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623c2609ae8cfb6e728850c_img-case-card-03.webp 1657w" alt="" class="case-item-img-wrap"/></div></div></div></section><section class="section-reviews section"><div class="container"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab5e3" class="header-wrap d-flex align-top"><h2 class="h1 h1-sm text-left"><span class="text-span-407">We’ve helped 100+</span> SaaS apps in 9 years</h2><div class="clutch-wrap-link"><div class="code-embed w-embed w-script"><style>
+.clutch-widget{
+  width: 200px;
+  margin: 0 0 -5px;
+}
+</style>
+
+<script defer type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
+<div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2" data-height="50" data-darkbg="1" data-clutchcompany-id="166066"></div></div></div></div><div class="slick-testimonial"><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">Having one designer and main point of contact working on our products was a huge time- and money-saver.</p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/644a479527bdbf2ac92d6259_img-card-12.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Ed Erenberg, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63f5f2c84d5012e576dddd9e_Line3_logo05.svg" loading="lazy" alt="image logo" class="logo-cheerity"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">We really enjoyed working with Eleken on our SASS application. They are committed and dedicated people. Their understanding of user experience, customer mindset, and best practices are excellent.</p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/644024b869f11746789edd0c_img-avatar-02.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anupama Panchal, CTO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/644024b869f1172eb29edd12_logo-clientjoy-dark.svg" loading="lazy" alt="image logo" class="logo-nworx"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">What impressed us the most about Eleken is their ability to delve deep into a complex product and deliver exceptional design solutions.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64da3a27308913f8ee445fe3_avatar-20.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">David Fischer, Director</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64da3a1e7d4d2853b4f021df_logo-g.svg" loading="lazy" alt="image logo" class="logo-g"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">Their commitment to transparent communication, proactive problem-solving, and adaptability showcased a level of professionalism that set them apart.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e54c502c0f06545f92d2c_avatar-34.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anita Os, CEO Gotechiez</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e54e86cb092c1abffab73_logo-g-02.svg" loading="lazy" alt="image logo" class="logo-g-02"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">I found their designers are very independent, can work without too much oversight and are great at onboarding onto the project.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e5314b5fbe18a31315335_avatar-33.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Huzaifah Jeewa, Head of Engineering</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e5335f70ebdb599036fa6_logo-risale.svg" loading="lazy" alt="image logo" class="logo-risale"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">They were able to really listen to us and learn about our business, to be open to the changes that we brought. Next to the fact that design skills are top-notch.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e57bd89e0abcd99c8b8_img-card-07.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Pieter Kinds, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64a42d213eafd10d40174364_logo-freightender.svg" loading="lazy" alt="image logo" class="logo-freightender"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">Eleken is very fast and efficient.<br/></p><p class="testimonial-sm__text">Whenever we ask them for something, they have it ready by the next day. If we can’t provide immediate feedback, they keep working on other things to avoid wasting time waiting.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5727b526f3ae22ace0_img-card-09.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anish Parikh, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6442a407689f1d7a5db66d03_logo-favorably-dark.svg" loading="lazy" alt="image logo" class="logo-favorably"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">The designs helped us better envision our product and give clear and actionable requirements to our developers.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6605a798c041baec1c0ebc90_img-avatar-25.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Mathew Beechener, Product Manager</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6605a7569582020eb25c9422_logo-lexo.svg" loading="lazy" alt="image logo" class="logo-lexo"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">The team has stayed on track by effectively utilizing communication tools for daily interaction.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64de1c8cd2c8f0b9ffca8c4f_avatar-21.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Raphael Zaugg, CTO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6617c0533db7c7466015df20_logo-involi-02.svg" loading="lazy" alt="image logo" class="logo-involi"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">The value proposition is very high with Eleken — their rates are fair and their team is excellent.<br/></p><p class="testimonial-sm__text">As a startup, we have been working towards product market fit. This involves demonstrations to potential users and investors. The improvements to our UI have led to new business as well as interest from investors.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e56c1954b7851aa0cbb_img-card-08.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Jamie Conklin, VP Product</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d38854a4210d5fd_logo-astraea-dark.svg" loading="lazy" alt="image logo" class="logo-astraea"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">Eleken is very fast and efficient.<br/></p><p class="testimonial-sm__text">Whenever we ask them for something, they have it ready by the next day. If we can’t provide immediate feedback, they keep working on other things to avoid wasting time waiting.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5727b526f3ae22ace0_img-card-09.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anish Parikh, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6442a407689f1d7a5db66d03_logo-favorably-dark.svg" loading="lazy" alt="image logo" class="logo-favorably"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">They create nice designs with amazing responsiveness and eagerness to improve.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/646f640965753f487c87ff79_img-avatar-15.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Evgeny Bogdanov,<span class="text-span-371"> Software Manager</span></p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64d4f07fc147334752dc228f_logo-gamaya-dark.svg" loading="lazy" alt="image logo" class="logo-gamaya"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">They were able to dive into our product/styles/logic very quickly. Their ability to produce good and easy-to-use UI solutions is very strong.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b0ec51b80ec661f65392a_img-testimonial-01.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Irene Avdus, Product Manager</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6623bfe2ca3e7be3c3ddf6ec_logo-tm.svg" loading="lazy" alt="image logo" class="logo-text-magic logo-text-magic--sm"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">We were impressed with their responsiveness and ability to work independently when necessary. They also understand the requirements and did their own research as well as look at ours.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64468a8baa318e6e9cffab06_img-card-11.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Oliver Dix, Co-Founder</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e508537d6e7aa80ab0cde_logo-prift-03.svg" loading="lazy" alt="image logo" class="logo-prift"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">We were so pleased with our designer&#x27;s work that we decided to continue the relationship with Eleken indefinitely.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6527baea02d77560c9faf37b_avatar-22.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Claire Tsukuda, Co-Founder &amp; CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6527bafa2546312f949bd88c_logo-kipsi.svg" loading="lazy" alt="image logo" class="logo-kipsi"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">I&#x27;m always impressed with how quickly they can turn around high quality work.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660e8ec71631fb4c6c0618fd_avatar-40.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Ben Tautfest, Director of Design &amp; Research</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/656896b908a7734c8e1988df_bwell%20logo.webp" loading="lazy" alt="image logo" class="logo-bwell"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">They have very high-quality UX design services and the cost relative to what you get is an absolute no-brainer.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d459de45329a802054857_avatar-28.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Yasmin Bashirova, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt-p-500.png 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt-p-800.png 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt-p-1080.png 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt-p-1600.png 1600w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d61eee32ea015dc490d10_logo-wrapt.webp 2209w" alt="image logo" class="logo-wrapt"/></div></div></div><div class="slick-testimonial-slide"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">Design has been a thought partner for us as we attempt to answer key strategic questions about how the product should look.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64649d917594894b57619ecc_img-avatar-17.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Tanay Kothari,  CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6526a1e8afe073529a66c5bf_logo-floret.svg" loading="lazy" alt="image logo" class="logo-floret"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">The UI is much cleaner and more intuitive than it was before. Our design planning and prioritization is also much smoother.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d459d27ec7aae18444287_avatar-29.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Schaun Wheeler, Co-founder</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d45e448224f451bbe7770_logo-aampe.svg" loading="lazy" alt="image logo" class="logo-aamp"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">The talent Eleken has is unique. It&#x27;s very difficult to find UI/UX designers who can take on a complex process for a niche B2B industry.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e512b894ed105da81b432_avatar-32.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Gerard Bonell Prinetto, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e51a1f117fde89e28d45d_logo-draing.svg" loading="lazy" alt="image logo" class="logo-draying"/></div></div></div><div class="slick-testimonial-slide mr-0"><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">We have seen significant streamlining of our design process with Eleken. Things get done very quickly and it takes a minimal amount of communication.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660e8d8ec36a3ce8fcee4cba_avatar-30.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Nikayla Cottone, Head of Product</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660e8db5a9eea743c1e46fd8_image%205.webp" loading="lazy" alt="image logo" class="logo-nik"/></div></div><div class="testimonial-sm _w-100 mb-lg"><p class="testimonial-sm__text">They were professional to the core and ensured that they deliver no matter what.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e566b18363061583c1f_img-card-05.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Hariraj Vijayakumar, CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6453c61def2690aa7733681a_logo-nworx-dark.svg" loading="lazy" alt="image logo" class="logo-nworx"/></div></div><div class="testimonial-sm _w-100"><p class="testimonial-sm__text">It never occurred to me that you could find such high-quality, full-time UX designers at such a reasonable price. To find this combination has been amazing.<br/></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d459da2f6c748464fcd3f_avatar-27.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Andy Nadler, Co-Founder <span class="text-span-370">and Product Manager</span></p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660d45e4a06256859f666cd3_logo-wicked-reports.svg" loading="lazy" alt="image logo" class="logo-wicked-reports"/></div></div></div></div><div class="slick-testimonial-buttons"><div class="slick-testimonial-prev"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/67d9bd5c0ee72012e02f263c_left.svg" loading="lazy" alt=""/></div><div class="slick-testimonial-next"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/67d9bd5c2d1b57f9f227e34d_rigth.svg" loading="lazy" alt=""/></div></div></div></section><section class="case-call-action"><div class="container"><div class="case-call-action__case-row case-call-action__case-row--7-5"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab716-7b01c0a2" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab716" class="header-wrap pb-0 text-left pb-sm text-sm-center p-xs-0"><strong class="h2"><div class="decor-flex"><div class="text-title-wrap overflow-hidden"><div class="d-inline">Ready to get started </div></div><div class="text-title-wrap overflow-hidden"><div class="d-inline">with a </div><div class="text-title-decor-wrap"><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab720" data-is-ix2-target="1" class="text-lottie-anim circle" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64494a4bb26d8985d099bcec_circle-12.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="1.6"></div><div class="d-inline">design</div></div><div class="d-inline"> system</div></div></div></strong><p class="p">We know it&#x27;s not easy to pick the perfect <span class="text-span-412">designer. So, we let you try our service for</span> free with a three-day trial.</p><a href="contact-us" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab72a" class="btn-primary w-inline-block"><div class="btn-primary__text"><strong>Book a free trial</strong></div><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64300233722c1a4e2578c955_icon-arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, null, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="icon arrow" class="btn-primary__icon"/></a></div><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab72f-7b01c0a2" class="case-call-action__image-holder"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6490229b2c99011dfec4b7c4_img-person-17.webp" loading="lazy" width="474" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab730" alt="A black and white drawing of a man using a computer" class="image-948"/></div></div></div></section><section class="section-faq section"><div class="container"><div class="row row-2-grid-md"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab734-7b01c0a2" class="col"><h2 data-w-id="fe215031-dcff-3bef-378c-69a80b5ab735" class="h1 h1-sm text-sm-center">Have <span class="text-span-356">questions?</span></h2></div><div class="col"><div class="acordion-wrapper"><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab73b" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>What is a design system?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab747-7b01c0a2"><p class="p p-acc">A design system is like a detailed guidebook that covers every aspect of design, explaining how and when to use different design elements such as colors, fonts, and more. It helps ensure everything looks and feels consistent across different parts of an application.</p></div></div></nav></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab74a" style="width:0%" class="text-border-anim height-2 bg-black"></div><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab74b" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>What does a design system include?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab757-7b01c0a2"><p class="p p-acc mb-0">It includes things like standard colors, fonts, buttons, templates for common design patterns, and other design elements, as well as rules for how these elements should be used.</p></div></div></nav></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab75a" style="width:0%" class="text-border-anim height-2 bg-black"></div><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab75b" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>How long does it take to create a design system?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab767-7b01c0a2"><p class="p p-acc">The time may vary depending on various factors, such as the size and complexity of your specific project, the scope of the design system, and the existing design infrastructure.</p><p class="p p-acc mb-0">Generally, creating a basic design system can take anywhere from a few weeks to a few months.</p></div></div></nav></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab76c" style="width:0%" class="text-border-anim height-2 bg-black"></div><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab76d" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>Can you create a design system from scratch?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab779-7b01c0a2"><p class="p p-acc">Sure! Our design system services include both creating from scratch as well as working with the existing design system, supporting and complimenting it.</p></div></div></nav></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab77c" style="width:0%" class="text-border-anim height-2 bg-black"></div><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab77d" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>Does the design system need coding?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab789-7b01c0a2"><p class="p p-acc">No, a design system does not necessarily require coding. Its primary focus is providing guidelines and assets for designers to create consistent and cohesive user interfaces. At our design system agency, we organize and structure all design elements used in your product, along with rules on how to use them, in a Figma file that we share with you.</p></div></div></nav></div><div data-w-id="fe215031-dcff-3bef-378c-69a80b5ab78c" style="width:0%" class="text-border-anim height-2 bg-black"></div><div data-hover="false" data-delay="0" data-w-id="fe215031-dcff-3bef-378c-69a80b5ab78d" class="accordion w-dropdown"><div class="accordion-toggle w-dropdown-toggle"><div class="accordion-toggle-row"><div class="accordion-title-wrap"><h3 class="p mb-0 braking"><strong>What is the difference between a UI kit and a design system?</strong></h3></div><div class="accordion-icon-wap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660549b66c50ce3f2c604316_icon-accordion-02.svg" loading="lazy" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)" alt="image" class="accordion-icon minus-1"/><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66054669c383a94fe4433c33_icon-accordion.svg" loading="lazy" alt="image" class="accordion-icon minus-2"/></div></div></div><nav style="height:0px" class="dropdown-list w-dropdown-list"><div class="accordion-content-wrap"><div id="w-node-fe215031-dcff-3bef-378c-69a80b5ab799-7b01c0a2"><p class="p p-acc mb-0">A UI kit is like a collection of pre-made design elements, such as buttons, icons, and forms, that designers can use to create interfaces quickly. A design system is a more comprehensive set of guidelines, principles, and components that not only includes UI elements but also provides rules for how, where, and when to use those elements to maintain consistency and improve user experience across an entire product.</p></div></div></nav></div></div></div></div></div></section></main></div><footer class="main-footer-2"><div class="main-footer__container main-footer__container--sm"><div class="main-footer__wrapper"><div class="main-footer__left"><div class="main-footer__left-wrap"><a aria-label="main page" href="index.html" class="main-footer__logo w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="lazy" alt="" class="main-footer__logo-img"/></a><address class="main-footer__address"><p class="main-footer__address-text">Kyiv, Ukraine, <br/></p><p class="main-footer__address-text d-sm-block">Dehtiarivska str. 33B </p></address></div><div class="main-footer__left-wrap"><address class="main-footer__address"><p class="main-footer__address-text">Eleken Design Ltd<br/></p><p class="main-footer__address-text">920-736 Granville ST<br/></p><p class="main-footer__address-text">Vancouver BC V6Z 1G3<br/></p><p class="main-footer__address-text">Canada<br/></p></address></div></div><div class="main-footer__right"><div class="main-footer__row"><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="engagement/start-from-scratch-mvp" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="engagement/product-redesign" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="engagement/team-extension" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Approach</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="saas-web-design" class="main-footer__list-link">SaaS design</a></li><li class="main-footer__list-item"><a href="ui-ux-design-services" class="main-footer__list-link">UI/UX design services</a></li><li class="main-footer__list-item"><a href="web-app-design" class="main-footer__list-link">Web design</a></li><li class="main-footer__list-item"><a href="ux-audit-service" class="main-footer__list-link">UI/UX audit</a></li><li class="main-footer__list-item"><a href="mobile-app-design" class="main-footer__list-link">Mobile app design</a></li><li class="main-footer__list-item"><a href="design-system-service" aria-current="page" class="main-footer__list-link w--current">Design system</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Company</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="cases" class="main-footer__list-link">Case studies</a></li><li class="main-footer__list-item"><a href="pricing" class="main-footer__list-link">Pricing</a></li><li class="main-footer__list-item"><a href="about-us" class="main-footer__list-link">About</a></li><li class="main-footer__list-item"><a href="blog/main" class="main-footer__list-link">Blog</a></li><li class="main-footer__list-item"><a href="contact-us" class="main-footer__list-link">Contact us</a></li></ul></div><div class="main-footer__col d-md-none d-sm-block"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="design-system-service#" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="design-system-service#" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="design-system-service#" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>SaaS niches</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="industries/sales" class="main-footer__list-link">Sales</a></li><li class="main-footer__list-item"><a href="industries/fintech" class="main-footer__list-link">Fintech</a></li><li class="main-footer__list-item"><a href="industries/healthcare" class="main-footer__list-link">Healthcare</a></li><li class="main-footer__list-item"><a href="industries/marketing" class="main-footer__list-link">Marketing</a></li><li class="main-footer__list-item"><a href="industries/ui-ux-design-for-data-products" class="main-footer__list-link">Data</a></li><li class="main-footer__list-item"><a href="industries/ui-ux-design-for-geospatial-data-products" class="main-footer__list-link">Geoservice</a></li><li class="main-footer__list-item"><a href="industries/ua-ux-design-for-dfp" class="main-footer__list-link">Developer-focused</a></li><li class="main-footer__list-item"><a href="industries/ui-ux-design-for-ai-based-products" class="main-footer__list-link">AI</a></li></ul></div><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Email courses</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="email-courses/user-onboarding" class="main-footer__list-link">Create Best SaaS User Onboarding Experience</a></li><li class="main-footer__list-item"><a href="email-courses/aha-moment" class="main-footer__list-link">How to Spark an Aha Moment</a></li><li class="main-footer__list-item"><a href="email-courses/how-to-define-and-design-an-mvp" class="main-footer__list-link">How to Define and Design an MVP?</a></li></ul></div><div class="main-footer__col d-sm-flex _w-100"><div class="div-block-1003"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Stories</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="articles/how-to-choose-a-ui-ux-design-agency" class="main-footer__list-link">How to choose an UI/UX Agency</a></li></ul></div><div class="div-block-1004"><div class="main-footer__wrap-list-title mt-lg mt-sm-0"><div class="main-footer__list-title"><strong>Comparison</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="eleken-vs-toptal" class="main-footer__list-link">Eleken vs Toptal</a></li><li class="main-footer__list-item"><a href="eleken-vs-in-house-designer" class="main-footer__list-link">Eleken vs. In-house designer</a></li><li class="main-footer__list-item"><a href="eleken-vs-traditional-agency" class="main-footer__list-link">Eleken vs Traditional Agency</a></li></ul></div></div></div><div class="main-footer__row-vertical d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">eBooks</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="books/a-non-boring-guide-to-how-ux-research-is-supposed-to-work" class="main-footer__list-link">A Non-Boring Guide to How UX Research Is Supposed to Work</a></li><li class="main-footer__list-item"><a href="books/the-ux-design-crash-course-for-product-owners" class="main-footer__list-link">The UX Design Crash Course for Product Owners</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="books/how-to-get-along-with-designers-and-work-well-together" class="main-footer__list-link">How to Get Along with Designers and Work Well Together</a></li><li class="main-footer__list-item"><a href="books/how-eleken-works-clients-guide" class="main-footer__list-link">How We Work: Client&#x27;s Guide</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="books/how-to-succeed-with-your-remote-design-team" class="main-footer__list-link">How to Succeed with Your Remote Design Team</a></li><li class="main-footer__list-item"><a href="books/improving-your-saas-bottom-line-how-design-affects-your-growth-metrics" class="main-footer__list-link">How Design Impacts Your Growth Metrics</a></li></ul></div></div></div><div class="main-footer__row-vertical mb-0"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">Policies</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="editorial-process" class="main-footer__list-link">Editorial Process</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="advertising-policy" class="main-footer__list-link">Advertising policy</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="team-of-experts" class="main-footer__list-link">Team of Experts</a></li></ul></div></div></div></div></div><div class="main-footer__bottom"><div class="main-footer__bottom-wrap"><p class="main-footer__copy">2023 Copyright Eleken. All rights reserved.</p><ul role="list" class="main-footer__user-llist w-list-unstyled"><li class="main-footer__user-item"><a href="privacy-policy" class="main-footer__user-link">Privacy</a></li></ul></div><ul role="list" class="main-footer__list-socials w-list-unstyled"><li class="main-footer__list-socials-item"><a aria-label="dribbble" href="https://dribbble.com/eleken" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6d6fed9011b354a63a_icon-dribbble.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="behance" href="https://www.behance.net/elekenagency" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee2e39077fe8d223a_icon-behance.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="youtube" href="https://www.youtube.com/@eleken.agency/videos" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ec14539bbfa770694_icon-youtube.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="facebook" href="https://www.facebook.com/eleken.agency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ce41c11a2661e237a_icon-facebook.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="linkedin" href="https://www.linkedin.com/company/eleken/mycompany/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee41c11587f1e23c1_icon-linkedin.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="instagram" href="https://www.instagram.com/elekenagency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6dc145391264770693_icon-Instagram.svg" loading="lazy" alt=""/></a></li></ul></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5e8b3356a5a8f5321855bbe7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.6568e74973c68f74.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.148d3795dd38d54f.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.8cfd049725a28598.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.7d6ed723a5264309.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.fd1710d95fd296dd.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.d970d899.265a66ec0cd2577e.js" type="text/javascript"></script><!-- Google Tag Manager [NEW CODE SENT BY DENIS] -->
+<script type="text/javascript" fs-cc-categories="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFSGD9L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- NEW Google Tag Manager (noscript) CODE SENT BY DENIS 👇 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFSGD9L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Begin microsoft clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "p0ht6b04za");
+</script>
+<!-- End microsoft clarity -->
+
+<!-- Meta Pixel Code -->
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+      n.callMethod ?
+      n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '485203327048064');
+  fbq('track', 'PageView');
+</script>
+<!-- End Meta Pixel Code -->
+
+
+<!-- BEGIN Meta Pixel Code 2 -->
+<script>!function () {var reb2b = window.reb2b = window.reb2b || [];if (reb2b.invoked) return;reb2b.invoked = true;reb2b.methods = ["identify", "collect"];reb2b.factory = function (method) {return function () {var args = Array.prototype.slice.call(arguments);args.unshift(method);reb2b.push(args);return reb2b;};};for (var i = 0; i < reb2b.methods.length; i++) {var key = reb2b.methods[i];reb2b[key] = reb2b.factory(key);}reb2b.load = function (key) {var script = document.createElement("script");script.type = "text/javascript";script.async = true;script.src = "https://s3-us-west-2.amazonaws.com/b2bjsstore/b/" + key + "/reb2b.js.gz";var first = document.getElementsByTagName("script")[0];first.parentNode.insertBefore(script, first);};reb2b.SNIPPET_VERSION = "1.0.1";reb2b.load("ZQOQRJH25262");}();</script>
+<!-- END Meta Pixel Code 2 -->
+
+<!-- Ortto eleken capture code -->
+<script async type="text/javascript" fs-cc-categories="marketing">
+    window.ap3c = window.ap3c || {};
+    var ap3c = window.ap3c;
+    ap3c.cmd = ap3c.cmd || [];
+    ap3c.cmd.push(function() {
+        ap3c.init('Y2ud8yly673x38EDZWxla2Vu', 'https://capture-api.autopilotapp.com/');
+        ap3c.track({v: 0});
+    });
+    ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+    var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn2l.ink/app.js";
+    t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  _linkedin_partner_id = "4526676";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  (function (l) {
+    if (!l) {
+      window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+      window.lintrk.q = []
+    }
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript"; b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+  })(window.lintrk);
+</script>
+
+<script defer type="text/javascript">
+  window.lintrk('track', { conversion_id: 11306884 });
+
+  function sendLinkedInConversion() {
+    _linkedin_partner_id = "4526676";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    (function (l) {
+      if (!l) {
+        window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+        window.lintrk.q = []
+      }
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript"; b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  }
+
+  const targetId = "selected-_7z7hcxx78";
+
+  const observer = new MutationObserver(function (mutationsList) {
+    for (let mutation of mutationsList) {
+
+      if (mutation.type === "childList" && mutation.addedNodes.length > 0) {
+        const addedNodes = Array.from(mutation.addedNodes);
+        for (let node of addedNodes) {
+          if (node.nodeType === Node.ELEMENT_NODE && node.id === targetId) {
+            sendLinkedInConversion();
+            window.lintrk('track', { conversion_id: 11306884 });
+            fbq('track', 'CompleteRegistration');
+            fbq('track', 'Lead');
+          }
+        }
+      }
+    }
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+</script>
+
+<!-- Vector.co Tracking Pixel [Added for analytics/remarketing] -->
+<script>
+    !function(e,r){try{if(e.vector)return void console.log("Vector snippet included more than once.");var t={};t.q=t.q||[];for(var o=["load","identify","on"],n=function(e){return function(){var r=Array.prototype.slice.call(arguments);t.q.push([e,r])}},c=0;c<o.length;c++){var a=o[c];t[a]=n(a)}if(e.vector=t,!t.loaded){var i=r.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://cdn.vector.co/pixel.js";var l=r.getElementsByTagName("script")[0];l.parentNode.insertBefore(i,l),t.loaded=!0}}catch(e){console.error("Error loading Vector:",e)}}(window,document);
+    vector.load("6bfb1fdc-dea3-42ad-9cd1-7bd07539c7a7");
+</script>
+
+
+<script defer type="text/javascript">
+
+function addCheckboxListener() {
+  const checkboxFS = document.querySelectorAll(".w-checkbox-input");
+  checkboxFS.forEach((el) => {
+    const label = el.parentNode;
+    el.addEventListener("change", function () {
+      if (el.checked) {
+        label.classList.add('fs-cc-active-checkbox');
+      } else {
+        label.classList.remove('fs-cc-active-checkbox');
+      }
+    });
+  });
+}
+
+addCheckboxListener();
+
+  function removeTransformOnResize() {
+    const nav = document.querySelector('.main-header__nav');
+    const screenWidth = window.innerWidth;
+
+    if (screenWidth >= 768) {
+      nav.style.transform = '';
+    } else {
+      nav.style.transform = 'translateY(0px) translateX(0px)';
+    }
+  }
+
+  window.addEventListener('resize', removeTransformOnResize);
+
+  const headers = document.querySelectorAll('.main-header');
+  let lastScrollPosition = 0;
+
+  function handleScroll(elements) {
+    const currentScrollPosition = window.pageYOffset;
+    const scrollDifference = currentScrollPosition - lastScrollPosition;
+
+    for (let i = 0; i < elements.length; i++) {
+      const el = elements[i];
+
+      if (currentScrollPosition > 50) {
+        if (scrollDifference > 0) {
+          el.style.opacity = '0';
+          el.style.top = '-15%';
+        } else {
+          el.style.opacity = '1';
+          el.style.top = '16px';
+        }
+      } else {
+        el.style.opacity = '1';
+        el.style.top = '16px';
+      }
+    }
+
+    lastScrollPosition = currentScrollPosition;
+  }
+
+  window.addEventListener('scroll', function () {
+    handleScroll(headers);
+  });
+
+  function btnToggle() {
+    const btns = document.querySelectorAll('.btn-burger-wrap');
+
+    btns.forEach(btn => {
+      const line1 = btn.querySelector('.btn-burger-line-1');
+      const line2 = btn.querySelector('.btn-burger-line-2');
+      const line3 = btn.querySelector('.btn-burger-line-3');
+
+      function toggleBtn() {
+        line1.classList.toggle('btn-burger-line-1-active');
+        line2.classList.toggle('btn-burger-line-2-active');
+        line3.classList.toggle('btn-burger-line-3-active');
+      }
+
+      btn.addEventListener('click', toggleBtn);
+
+      const mediaQuery = window.matchMedia('(min-width: 768px)');
+      function handleTabletChange(e) {
+        if (e.matches) {
+          line1.classList.toggle('btn-burger-line-1-active', false);
+          line2.classList.toggle('btn-burger-line-2-active', false);
+          line3.classList.toggle('btn-burger-line-3-active', false);
+        }
+      }
+      mediaQuery.addListener(handleTabletChange);
+    });
+  }
+
+  btnToggle();
+</script>
+
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const gclid = params.get('gclid');
+  
+  if (gclid && gclid.length >= 20 && gclid.match(/^[a-zA-Z0-9_-]+$/)) {
+    localStorage.setItem('gclid', gclid);
+  }
+})();
+
+document.addEventListener("DOMContentLoaded", function() {
+  const gclidFields = document.querySelectorAll('input[name="gclid"]');
+  const savedGclid = localStorage.getItem('gclid') || '';
+  
+  gclidFields.forEach(function(field) {
+    field.value = savedGclid;
+  });
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.15.0/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>  
+  var b = document.querySelector("html");
+
+  b.setAttribute("itemtype", "https://schema.org/FAQPage");
+  b.setAttribute("itemscope", "itemscope");
+
+  $(document).ready(function () {
+    var match = document.cookie.match('(?:^|;)\\s*_ga=([^;]*)');
+    var raw = (match) ? decodeURIComponent(match[1]) : null;
+    var input = document.getElementById("customerid");
+    if (raw) {
+      match = raw.match(/(\d+\.\d+)$/);
+    }
+    var gacid = (match) ? match[1] : null;
+    if (gacid) {
+      input.value = gacid;
+    }
+  });
+
+  var $form = $("form");
+  
+  $.validator.addMethod("letters", function (value, element) {
+    return this.optional(element) || value == value.match(/^[a-zA-Z\s]*$/);
+  });
+
+  $form.validate({
+    rules: {
+      contactname: {
+        required: true,
+        minlength: 2,
+        letters: true
+      },
+      canwehelp: {
+        required: true,
+        minlength: 3,
+        letters: false
+      },
+      youremail: {
+        required: true,
+        email: true
+      },
+      wherehear: {
+        required: true,
+      }
+    },
+    messages: {
+      contactname: "Please specify your name",
+      youremail: "Please specify a valid email address",
+      canwehelp: "Please tell us about your product",
+      wherehear: "Please specify how did you hear about us"
+    }
+  });
+
+  $(document).ready(function () {
+    $('select').niceSelect();
+  });
+</script>
+
+
+
+<script>
+  $(document).ready(function () {
+    $('.slick-testimonial').slick({
+      infinite: false,
+      slidesToShow: 2,
+      slidesToScroll: 1,
+      arrows: true,
+      nextArrow: '.slick-testimonial-next',
+      prevArrow: '.slick-testimonial-prev',
+      responsive: [{
+        breakpoint: 769,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 568,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          centerMode: true,
+          centerPadding: '10px',
+        }
+      }
+      ]
+    });
+  });
+</script>
+<!-- END Sliders-------------------- --></body></html>

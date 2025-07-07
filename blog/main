@@ -1,0 +1,722 @@
+<!DOCTYPE html><!-- Last Published: Sat Jul 05 2025 18:59:21 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.eleken.co" data-wf-page="649592a9b6cb41f30c8dfb47" data-wf-site="5e8b3356a5a8f5321855bbe7" lang="en-US"><head><meta charset="utf-8"/><title>SaaS UI/UX Design Blog — Eleken</title><meta content="Discover some of the latest case studies and design stories about our design process, SaaS business, product, and UI/UX design on Eleken&#x27;s blog." name="description"/><meta content="SaaS UI/UX Design Blog — Eleken" property="og:title"/><meta content="Discover some of the latest case studies and design stories about our design process, SaaS business, product, and UI/UX design on Eleken&#x27;s blog." property="og:description"/><meta content="SaaS UI/UX Design Blog — Eleken" property="twitter:title"/><meta content="Discover some of the latest case studies and design stories about our design process, SaaS business, product, and UI/UX design on Eleken&#x27;s blog." property="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.shared.ccdbd16e9.min.css" rel="stylesheet" type="text/css"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.649592a9b6cb41f30c8dfb47-4a22e7cc2.min.css" rel="stylesheet" type="text/css"/><style>@media (min-width:992px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eeace"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb07"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb37"] {opacity:1;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb79"] {opacity:1;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eec01"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0f"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}</style><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f5772b19e21646ddb8bf065_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f57734d2a640600bb91c08f_webclip.png" rel="apple-touch-icon"/><link href="main" rel="canonical"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '485203327048064');fbq('track', 'PageView');</script><meta name="facebook-domain-verification" content="io1art9rwuq7x631alwajwzelf6e3v" />
+<meta name="google-site-verification" content="V3_aGXWAx0_wIFaBvqHUIWFIeMMXLxJf3iqUNAFPlCs" />
+<meta name="google-site-verification" content="J7nIBJizYNb3a93ruG01jj9Z1whW-5CrFajmdGMCx78" />
+
+<link rel="preload" as="image" href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" />
+
+<!--begin site performance for assets -->
+<link rel="preconnect" href="https://assets.website-files.com">
+<link rel="dns-prefetch" href="https://assets.website-files.com">
+<!--end site performance for assets-->
+
+<!-- Finsweet Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+
+<script defer id="jetboost-script" type="text/javascript"> window.JETBOOST_SITE_ID = "cm06j37qg00in0r4fb2px54ky"; (function(d) { var s = d.createElement("script"); s.src = "https://cdn.jetboost.io/jetboost.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })(document); </script>
+
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="4NY8Ssng8Yr/NkQ/LqGSXg" async></script>
+
+
+<style>
+    html,
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: antialiased;
+        overflow-x: hidden;
+    }
+  
+  	img {
+  	  height: auto;
+  	}
+  
+    .no-scroll {
+      overflow: hidden !important;
+    }
+
+    .no-horizontal {
+      overflow-x: hidden;
+    }
+
+    .w-slider-dot {
+      background: #D6D2CD;
+      height: 8px;
+      width: 8px;
+    }
+
+    .w-slider-dot.w-active {
+      background: #FF8E5E;
+      height: 8px;
+      width: 8px;
+    }
+  
+  	.fs-cc-prefs_close-icon {
+      width: 24.78px !important;
+      height: 24.78px !important;
+      color: #BCBCBC !important;
+	}
+
+    .fs-cc-active-checkbox {
+      background-color: #ff8e5e !important;
+    }
+
+
+ 
+
+    .button-primary {
+      display: inline-flex
+    }
+  
+  	.w-editor-bem-KitDropDown_List {
+  		z-index: 10;
+  	}
+  
+  
+  	@media only screen and (max-width: 767px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 87px !important; 
+     	}
+  	}
+  
+   
+  	@media only screen and (max-width: 479px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 73px !important; 
+     	}
+  	}
+  
+  	 @media only screen and (min-width: 768px) {
+      .main-header__nav-dropdown-toggle-icon,
+      .main-header__nav-dropdown-toggle-title {
+        transition: all 0.3s ease;
+       }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-icon {
+        transform: rotate(-90deg);
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-title {
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-trigger {
+        position: relative;
+      }
+
+      .main-header__nav-dropdown-trigger:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        bottom: -50px;
+        padding-top: 50px;
+      }
+
+      .main-header__nav-toggle-list {
+        transition: all 0.3s ease;
+        visibility: hidden;
+        opacity: 0;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-toggle-list {
+        visibility: visible;
+        opacity: 1;
+        height: auto;
+      }
+    }
+  
+  	
+
+    @media screen and (max-width: 992px) {
+      .services {
+        max-width: 100vw;
+        overflow-y: auto;
+        overflow-x: hidden;
+        max-height: calc(100vh + 230px);
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+</style>
+
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. -->
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_1.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_2.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_3.js"></script>
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+
+<style>
+	video {
+  	width: 100%  !important;
+	}
+  
+  #player {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+    border-radius: 16px;
+	}
+ </style>
+ 
+<style>
+
+	.slick-track {
+  	display: flex;
+  }
+  
+  .slick-list {
+  	overflow: visible !important;
+  }
+  
+  .slick-disabled svg path {
+  	stroke: #ccc1b6;
+  }
+  
+  .slick-prev, .slick-next {
+    width: 40px;
+    height: 40px;
+  }
+  
+ 	.slider-case .slick-prev,
+  .slider-case .slick-next {
+     top: -50px;
+  }
+  
+  .slider-md .slick-prev,
+  .slider-md .slick-next {
+  	top: -96px;
+  }
+  
+  .slider-fresh-blog-buttons {
+    display: flex;
+    gap: 16px;
+  }
+  
+  .slider-fresh-blog-buttons .slick-prev,
+  .slider-fresh-blog-buttons .slick-next {
+   	position: static !important;
+    transform: none !important;;
+   }
+   
+   .slider-fresh-prev svg { 
+   		transform: rotate(0deg) !important;
+   }
+   
+   .slider-fresh-next svg {
+   		transform: rotate(180deg);
+   }
+  
+ 	.slick-prev {
+    right: 62px;
+    left: auto !important;
+  }
+  
+  .slick-next {
+     right: 5px;
+  }
+  
+ .slick-prev svg, .slick-next svg {
+   	width: 100%;
+  }
+  
+  .slick-prev svg {
+  	transform: rotate(180deg);
+  }
+  
+  .slick-next:before, .slick-prev:before {
+  	display: none;
+  } 
+ 
+  .slick-slide {
+      margin: 0 12px;
+  }
+
+  .slick-list {
+      margin: 0 -12px;
+  }
+  
+  @media only screen and (max-width: 750px) {
+  
+    .slick-slide {
+      margin: 0 8px;
+  }
+
+  .slick-list {
+      margin: 0 -8px;
+  	}
+  }
+  
+  @media only screen and (max-width: 479px) {
+   .slider-md .slick-prev,
+   .slider-md .slick-next {
+ 	 	 top: -71px;
+    }
+  }
+</style></head><body class="body-white"><div data-animation="default" data-collapse="small" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="main-header main-header--blog w-nav"><div class="main-header__container main-header__container--blog w-container"><div class="main-header__row"><a href="../index.html" class="main-header__logo w-nav-brand"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" alt="" class="eleken-logo"/></a><nav role="navigation" class="main-header__nav w-nav-menu"><div class="main-header__nav-container"><ul role="list" class="main-header__nav-list"><li class="main-header__nav-list-item"><a href="../cases" class="main-header__nav-link w-nav-link">Case studies</a></li><li class="main-header__nav-list-item"><div data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79801" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Services</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-3"></div><ul role="list" class="main-header__nav-toggle-list w-list-unstyled"><li class="main-header__nav-item-wrap mr-xl-n65 mr-lg-n26 mr-sm-n15"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79809" href="../books/how-eleken-works-clients-guide" class="main-header__useful-links main-header__useful-links-size w-inline-block"><div class="main-header__book-title"><strong class="bold-text-11">How Eleken Works</strong></div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" alt="" class="main-header__book-img"/><div class="main-header__book-download"><div class="text-block-24">Download ebook</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="image-869"/></div></a></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Services</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79817" href="../engagement/start-from-scratch-mvp" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design from scratch (MVP)</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7981c" href="../engagement/product-redesign" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Product redesign</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79821" href="../engagement/team-extension" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Team Extension</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Approach</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7982a" href="../saas-web-design" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">SaaS design</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7982f" href="../ui-ux-design-services" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX design services</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79834" href="../web-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Web design</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79839" href="../ux-audit-service" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX audit</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7983e" href="../mobile-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Mobile design</div></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79843" href="../design-system-service" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design system</div></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">SaaS Industries</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7984c" href="../industries/sales" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Sales</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79851" href="../industries/fintech" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Fintech</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79856" href="../industries/healthcare" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Healthcare</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7985b" href="../industries/marketing" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Marketing</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79860" href="../industries/ui-ux-design-for-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Data</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79865" href="../industries/ui-ux-design-for-geospatial-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Geoservice</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7986a" href="../industries/ua-ux-design-for-dfp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Developer-focused</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7986f" href="../industries/ui-ux-design-for-ai-based-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">AI</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li></ul></div></li><li class="main-header__nav-list-item"><a href="../pricing" class="main-header__nav-link w-nav-link">Pricing</a></li><li class="main-header__nav-list-item"><a href="../about-us" class="main-header__nav-link w-nav-link">About</a></li><li class="main-header__nav-list-item border-bottom-0"><div data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7987a" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Resources</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-1"></div><div class="main-header__nav-toggle-list main-header__nav-toggle-list-resources"><div class="main-header__nav-item-wrap main-header__nav-item-wrap-resources"><div class="main-header__useful-links"><div class="d-flex"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow opacity-0"/><div class="main-header__nav-dropdown-item-title">Featured</div></div><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="../blog-posts/to-redesign-or-not-to-redesign-your-product" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>To redesign or not to redesign</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="../blog-posts/ux-audit-report-examples-or-best-practices-in-conducting-the-audit" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>Top 3 UX audit report examples</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="../blog-posts/how-where-and-when-to-find-a-designer-for-your-saas-app" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to find a designer for SaaS?</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="../blog-posts/mvp-benefits-examples-and-myths-around-it" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to build a minimum viable product</div></a></div></div></div></div></div><div class="main-header__nav-wrap-fluid"><ul role="list" class="main-header__nav-fluid-list w-list-unstyled"><li class="main-header__nav-fluid-item"><a href="../email-courses/product-led-growth" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641dc21ead39ae3c1555614d_icon-email-course.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Email courses</div></div><p class="main-header__p">A place for SaaS founders to master design fundamentals in 7 days</p></div></a></li><li class="main-header__nav-fluid-item"><a href="main" aria-current="page" class="main-header__nav-fluid-link w-inline-block w--current"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e40dee128cf5885313_icon-blog.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon icon-blog"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Blog</div></div><p class="main-header__p">A selection of fresh insights from the front lines of product design</p></div></a></li><li class="main-header__nav-fluid-item"><a href="../books.1" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e4fa8d903c70c42a35_icon-e-book.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">eBooks</div></div><p class="main-header__p">A comprehensive source of UI/UX wisdom to grow your business</p></div></a></li><li class="main-header__nav-fluid-item"><a href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e415d617243d4b310e_icon-stories.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Story</div></div><p class="main-header__p">How to Choose a UI/UX Design Agency</p></div></a></li></ul></div><div class="main-header__dropdown-divider-2"></div></div></div></li></ul><a href="../contact-us" class="main-header__btn-user d-md-none d-sm-blosk bg-purpule w-button">book a trial</a></div></nav><div class="main-header__btn-burger w-nav-button"><div class="btn-burger-wrap-embet w-embed"><style>
+    .btn-burger-wrap {
+      position: relative;
+      width: 23px;
+      height: 16px;
+
+    }
+
+    .btn-burger-line-1,
+    .btn-burger-line-2,
+    .btn-burger-line-3 {
+      width: 100%;
+      height: 2px;
+      background: #ffffff;
+      position: absolute;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+    }
+
+
+    .btn-burger-line-1 {
+      top: 0;
+    }
+
+    .btn-burger-line-2 {
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+      width: 75%;
+    }
+
+    .btn-burger-line-3 {
+      bottom: 0;
+    }
+
+    .btn-burger-line-2-active {
+      opacity: 0;
+    }
+
+    .btn-burger-line-1-active {
+      top: 49%;
+      transform: rotate(-46deg);
+    }
+
+    .btn-burger-line-3-active {
+      top: 49%;
+      transform: rotate(46deg);
+    }
+  </style>
+
+  <div class="btn-burger-wrap">
+    <div class="btn-burger-line-1"></div>
+    <div class="btn-burger-line-2"></div>
+    <div class="btn-burger-line-3"></div>
+  </div></div></div><a href="../contact-us" class="main-header__btn-user d-sm-none bg-purple button header w-button">Contact us</a></div></div></div><div class="wrapper wrapper--md"><main class="main"><section class="section blogs-hero"><div class="container"><div class="blog-title-wrap"><div id="w-node-_84bde6ed-ff4e-8dc0-aef5-7bdf6e3f6282-0c8dfb47" class="col"><h1 class="h2 h2--blog">SaaS UI/UX design blog</h1><p id="w-node-bb458262-03ca-5e1c-8835-89bced9eeac0-0c8dfb47" class="p p--sm mb-0">Resources to help you design, fix <span class="text-span-409">or scale your product</span></p></div><div class="col"><ul role="list" class="blog-navigation position-relative pt-md flex-wrap-sm"><li class="blog-navigation-item"><a href="blog-all" class="blog-navigation-link blog-navigation-link--all p-xs line-haigth-sm">All topics</a></li><li class="blog-navigation-item"><a href="../category/design-process" class="blog-navigation-link blog-navigation-link--brown-2 p-xs line-haigth-sm">design process</a></li><li class="blog-navigation-item"><a href="../category/saas-business" class="blog-navigation-link blog-navigation-link--brown-3 p-xs line-haigth-sm">SaaS business</a></li><li class="blog-navigation-item"><a href="../category/product-design" class="blog-navigation-link blog-navigation-link--purple-2 p-xs line-haigth-sm">Product design</a></li><li class="blog-navigation-item"><a href="../category/design-team" class="blog-navigation-link blog-navigation-link--brown-4 p-xs line-haigth-sm">Design team</a></li></ul></div></div><div class="blog-main-row"><div class="col d-flex flex-col align-between"><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card pos-relative w-dyn-item"><div class="blog-heading pos-absolute"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeacc" href="../blog-posts/how-where-and-when-to-find-a-designer-for-your-saas-app" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--lg"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeace" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e24755ca2e4add395498_How%2C%20Where%2C%20and%20When%20to%20Find%20a%20Designer.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e24755ca2e4add395498_How%2C%20Where%2C%20and%20When%20to%20Find%20a%20Designer-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e24755ca2e4add395498_How%2C%20Where%2C%20and%20When%20to%20Find%20a%20Designer-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e24755ca2e4add395498_How%2C%20Where%2C%20and%20When%20to%20Find%20a%20Designer-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e24755ca2e4add395498_How%2C%20Where%2C%20and%20When%20to%20Find%20a%20Designer.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">2 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div><h2 class="blog-card-title blog-card-title--lg">How, Where, and When to Find a Designer for Your SaaS App</h2><p class="blog-card-text pr-lg">Looking for a designer that has the stomach to design an effective SaaS application? Read tips on how, where, and when to find a SaaS designer.</p></a></div></div></div><div class="d-sm-none"><a data-w-id="9b7caead-7201-2c6b-1d51-71ee1f42e065" href="blog-all" class="btn-link w-inline-block"><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64415f9db3e24a1adbd73aac_Arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="btn-link__icon"/><div class="btn-link__text">Load ALL articles</div></a></div></div><div class="col"><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card blog-card--horizontal w-dyn-item"><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeadb" href="../blog-posts/product-management-organization-structure-which-one-to-choose" class="blog-card-link d-grid-row w-inline-block"><div class="blog-card-text-wrap"><div class="blog-heading mb-lg"><div>article</div></div><h3 class="blog-card-title blog-card-title--sm mb-sm">Product Management Organization Structure: Which One to Choose?</h3><div class="blog-info justify-md-left"><p class="mb-0">25 Oct</p><p class="mb-0">,</p><p class="mb-0">2024</p></div></div><div class="blog-card-img-wrap blog-card-img-wrap--sm"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7c088ec601b40be82a93e_167.%20Product%20Management%20Organization%20Structure.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7c088ec601b40be82a93e_167.%20Product%20Management%20Organization%20Structure-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7c088ec601b40be82a93e_167.%20Product%20Management%20Organization%20Structure-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7c088ec601b40be82a93e_167.%20Product%20Management%20Organization%20Structure-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7c088ec601b40be82a93e_167.%20Product%20Management%20Organization%20Structure.png 1280w" class="blog-card-img mb-0"/></div></a></div></div></div><div class="blog-card blog-card--horizontal border-top-none"><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeae7" href="../books/improving-your-saas-bottom-line-how-design-affects-your-growth-metrics" class="blog-card-link d-grid-row w-inline-block"><div class="blog-card-text-wrap"><div class="blog-heading mb-lg bg-brown mb-xs"><div>Ebook</div></div><h3 class="blog-card-title blog-card-title--sm mb-0">Improving Your SaaS Bottom Line: How Design Affects Your Growth Metrics</h3></div><div class="blog-card-img-wrap blog-card-img-wrap--sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66473e493916fc4fd3ce418d_improving-metrics.webp" loading="lazy" width="207" sizes="(max-width: 479px) 100vw, 206.9965362548828px" alt="The picture of the cover of the Eleken&#x27;s How Design Affects Your Growth Metrics ebook " srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66473e493916fc4fd3ce418d_improving-metrics-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66473e493916fc4fd3ce418d_improving-metrics-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66473e493916fc4fd3ce418d_improving-metrics.webp 1190w" class="blog-card-img blog-card-img--book"/></div></a></div><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card blog-card--horizontal border-top-none w-dyn-item"><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeaf3" href="../blog-posts/linear-app-case-study" class="blog-card-link d-grid-row w-inline-block"><div class="blog-card-text-wrap"><div class="blog-heading mb-lg"><div>article</div></div><h2 class="blog-card-title blog-card-title--sm mb-sm">Linear App Built $400M Issue Tracker With Next to No Marketing — Here&#x27;s How</h2><div class="blog-info justify-md-left"><p class="mb-0">2 Jun</p><p class="mb-0">,</p><p class="mb-0">2025</p></div></div><div class="blog-card-img-wrap blog-card-img-wrap--sm"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c7fe350c372830b3dc455_6627e7033ff19f62367ae969_Linear%2520app-1.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c7fe350c372830b3dc455_6627e7033ff19f62367ae969_Linear%2520app-1-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c7fe350c372830b3dc455_6627e7033ff19f62367ae969_Linear%2520app-1-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c7fe350c372830b3dc455_6627e7033ff19f62367ae969_Linear%2520app-1-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c7fe350c372830b3dc455_6627e7033ff19f62367ae969_Linear%2520app-1.png 1280w" class="blog-card-img mb-0"/></div></a></div></div></div><div class="blog-card blog-card--horizontal border-top-none d-none"><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeaff" href="main#" class="blog-card-link d-grid-row w-inline-block"><div class="blog-card-text-wrap"><div class="blog-heading mb-lg bg-gray"><div>story</div></div><h3 class="blog-card-title blog-card-title--sm mb-0">Improving your SaaS bottom Line: How Design Affects</h3></div><div class="blog-card-img-wrap blog-card-img-wrap--sm blog-card-img-wrap--article"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64b53b42a296921df406c7e2_art-img-05.svg" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb07" alt="" class="blog-card-img"/></div></a></div></div></div></div></section><section class="section blogs-hero"><div class="container"><div class="row row-4-grid-md d-sm-flex"><div class="title-wrap d-flex"><h2 class="h2 h2--blog mb-0">Fresh</h2><div class="wrap-slider-buttons"><div class="w-embed"><div class="slider-fresh-blog-buttons">
+ <button type="button" class="slick-next slider-fresh-next">
+     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle     cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904   26.332" stroke="#737373"/></svg>
+ </button>
+ <button type="button" class="slick-prev slider-fresh-prev">
+     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle     cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904   26.332" stroke="#737373"/></svg>
+ </button>
+
+</div></div></div></div><div id="w-node-bb458262-03ca-5e1c-8835-89bced9eeb10-0c8dfb47" class="blog-card-wrap overflow-hidden overflow-sm-visible w-dyn-list"><div role="list" class="blog-card-list slider-fresh-blog w-dyn-items"><div role="listitem" class="blog-card blog-card--vertical w-dyn-item"><div class="blog-heading-wrap"><div class="blog-heading"><div>article</div></div><div class="blog-info justify-rigth"><p class="mb-0">2 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb16" href="../blog-posts/empty-state-ux" class="blog-card-link w-inline-block"><h4 class="blog-card-title">Empty state UX: Real-world examples and design rules that actually work</h4><p class="blog-card-text">Learn how to turn blank screens into UX wins. See real empty state examples, design tips, and pitfalls to avoid based on insights from real SaaS products.</p></a></div><div role="listitem" class="blog-card blog-card--vertical w-dyn-item"><div class="blog-heading-wrap"><div class="blog-heading"><div>article</div></div><div class="blog-info justify-rigth"><p class="mb-0">1 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb16" href="../blog-posts/drag-and-drop-ui" class="blog-card-link w-inline-block"><h4 class="blog-card-title">Mastering Drag-and-Drop UI: Visual Inspirations and Best Practices</h4><p class="blog-card-text">Master drag and drop UI design with expert-backed tips, SaaS examples, tools, and visual best practices to streamline your product.</p></a></div><div role="listitem" class="blog-card blog-card--vertical w-dyn-item"><div class="blog-heading-wrap"><div class="blog-heading"><div>article</div></div><div class="blog-info justify-rigth"><p class="mb-0">27 Jun</p><p class="mb-0">,</p><p class="mb-0">2025</p></div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb16" href="../blog-posts/search-bar-examples" class="blog-card-link w-inline-block"><h4 class="blog-card-title">Search Bar Examples: 30 Designs That Get UX Right</h4><p class="blog-card-text">Explore 30 search bar examples that balance form and function. Learn UX tactics that turn simple inputs into powerful product experiences.</p></a></div><div role="listitem" class="blog-card blog-card--vertical w-dyn-item"><div class="blog-heading-wrap"><div class="blog-heading"><div>article</div></div><div class="blog-info justify-rigth"><p class="mb-0">25 Jun</p><p class="mb-0">,</p><p class="mb-0">2025</p></div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb16" href="../blog-posts/design-thinking-consulting" class="blog-card-link w-inline-block"><h4 class="blog-card-title">16 Best Design Thinking Consulting Agencies to Hire in 2025</h4><p class="blog-card-text">Explore top design thinking consulting firms for 2025. Find the best partners to drive innovation, solve complex problems, and build user-centered solutions.</p></a></div></div></div></div></div></section><section class="section blogs-hero"><div class="container"><div class="header-wrap text-left"><h2 class="h2 h2--blog">Popular now</h2></div><div class="block-wrap mb-md-0"><div class="row row-2-grid-md d-md-none"><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card pos-relative w-dyn-item"><div class="blog-heading pos-absolute"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb29" href="../blog-posts/why-mvp-design-matters-or-how-to-build-an-mvp-your-users-will-love" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--video"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP.png 1280w" class="blog-card-img mb-0"/></div><div class="blog-info mb-lg"><p class="mb-0">21 Aug</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h3 class="blog-card-title blog-card-title--lg">Why MVP Design Matters or How to Build an MVP Your Users Will Love</h3><p class="blog-card-text">Should you have any questions regarding MVP design - read this article to find out why MVP UI/UX design is important and how to build the best design for your MVP</p></a></div></div></div><div class="blog-card pos-relative"><div class="blog-heading pos-absolute bg-green"><div>Video</div></div><a href="main#" class="blog-card-link w-inline-block"><div id="video-wrapper-1" data-video-id="GavZUg7qHM8" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb36" class="video-wrapper video-wrapper--folder video-wrapper-4 w-node-bb458262-03ca-5e1c-8835-89bced9eeb36-0c8dfb47"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660419daa0ce51249e76544f_icon-play-2.svg" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb37" alt="" class="video-btn-play"/><div data-poster-url="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-transcode.mp4,https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="video-background w-background-video w-background-video-atom"><video id="bb458262-03ca-5e1c-8835-89bced9eeb38-video" autoplay="" loop="" style="background-image:url(https://www.eleken.co/blog/&quot;https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7%2F662a52d150c6d6f52d8f08fb_Everybody%20hates%20redesign_7sek-transcode.webm" data-wf-ignore="true"/></video></div></div><h3 class="blog-card-title blog-card-title--lg">Why Everybody Hates Redesigns: The Legacy Apps Paradox</h3><p class="blog-card-text">Learn about the key responsibilities and skills of a UX designer to know what to expect when hiring this specialist in your team.</p></a></div></div></div><div class="row row-3-grid-md d-md-none"><div class="blog-card pos-relative"><div class="blog-heading pos-absolute bg-gray"><div>story</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb42" href="../articles/how-to-choose-a-ui-ux-design-agency" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap bg-purple blog-card-img-wrap--xs"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64b53b42a296921df406c7e2_art-img-05.svg" loading="lazy" alt="" class="blog-card-img image-1120 mb-0"/></div><h3 class="blog-card-title">How to Choose a UI/UX Design Agency</h3><p class="blog-card-text">Learn about the key responsibilities and skills of a UX designer to know what to expect when hiring this specialist in your team.</p></a></div><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card pos-relative w-dyn-item"><div data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb4c" class="blog-heading pos-absolute"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb4f" href="../blog-posts/gmail-redesign" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xs"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off.png 1280w" class="blog-card-img mb-0"/></div><div class="blog-info mb-lg"><p class="mb-0">5 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div><h3 class="blog-card-title">Gmail Redesign: Learn How to Improve Your App Without Pissing Everybody Off</h3><p class="blog-card-text">People hate SaaS redesigns. But the recent Gmail revamp has gone almost unnoticed, and it sounds like a huge redesign success. How on Earth did Google do that?</p></a></div></div></div><div class="blog-card pos-relative"><div class="blog-heading pos-absolute bg-brown"><div>Ebook</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb5b" href="../books/how-to-get-along-with-designers-and-work-well-together" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--ebook"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/65a131ffae8fed3f0ae46f9c_img-banner-book-01.webp" loading="lazy" alt="An Eleken&#x27;s cover for the ebook with a text How to get along with designers and work well together " class="blog-card-img image-1121"/></div><h3 class="blog-card-title">How to Get Along with Designers and Work Well Together</h3><p class="blog-card-text">Find out how designers see a perfect product manager — and how to become the one</p></a></div></div><div class="slider-md d-lg-none d-md-block"><div class="slider-md-slide"><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card pos-relative w-dyn-item"><div class="blog-heading pos-absolute"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb6a" href="../blog-posts/why-mvp-design-matters-or-how-to-build-an-mvp-your-users-will-love" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7bd4effecafaed6d11f4f_275.%20Why%20MVP%20Design%20Matters%20or%20How%20to%20Build%20an%20MVP.png 1280w" class="blog-card-img mb-0"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">21 Aug</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h3 class="blog-card-title blog-card-title--lg">Why MVP Design Matters or How to Build an MVP Your Users Will Love</h3><p class="blog-card-text">Should you have any questions regarding MVP design - read this article to find out why MVP UI/UX design is important and how to build the best design for your MVP</p></a></div></div></div></div><div class="slider-md-slide"><div class="blog-card pos-relative"><div class="blog-heading pos-absolute bg-green"><div>Video</div></div><a href="main#" class="blog-card-link w-inline-block"><div id="video-wrapper-1" data-video-id="GavZUg7qHM8" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb78" class="blog-card-img-wrap blog-card-img-wrap--xs w-node-bb458262-03ca-5e1c-8835-89bced9eeb78-0c8dfb47"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/660419daa0ce51249e76544f_icon-play-2.svg" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb79" alt="" class="video-btn-play"/><div data-poster-url="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-transcode.mp4,https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-transcode.webm" data-autoplay="false" data-loop="true" data-wf-ignore="true" class="video-background w-background-video w-background-video-atom"><video id="bb458262-03ca-5e1c-8835-89bced9eeb7a-video" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-transcode.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/662a52d150c6d6f52d8f08fb_Everybody hates redesign_7sek-transcode.webm" data-wf-ignore="true"/></video></div></div><h3 class="blog-card-title blog-card-title--lg">Why Everybody Hates Redesigns: The Legacy Apps Paradox</h3><p class="blog-card-text">Learn about the key responsibilities and skills of a UX designer to know what to expect when hiring this specialist in your team.</p></a></div></div><div class="slider-md-slide"><div class="blog-card pos-relative d-lg-none d-md-block"><div class="blog-heading pos-absolute bg-gray"><div>story</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb84" href="main#" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap bg-purple blog-card-img-wrap--xs"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64b53b42a296921df406c7e2_art-img-05.svg" loading="lazy" alt="" class="blog-card-img image-1120"/></div><h3 class="blog-card-title blog-card-title--lg">How to Choose a UI/UX Design Agency</h3><p class="blog-card-text">Learn about the key responsibilities and skills of a UX designer to know what to expect when hiring this specialist in your team.</p></a></div></div><div class="slider-md-slide"><div class="blog-card-wrap d-lg-none d-md-block w-dyn-list"><div role="list" class="blog-card-list d-block w-dyn-items"><div role="listitem" class="blog-card pos-relative w-dyn-item"><div data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb8f" class="blog-heading pos-absolute"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb92" href="../blog-posts/gmail-redesign" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xs"><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abe5fde146f7684d0a1279_20.%20Gmail%20Redesign_%20Learn%20How%20to%20Improve%20Your%20App%20Without%20Pissing%20Everybody%20Off.png 1280w" class="blog-card-img mb-0"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">5 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div><h3 class="blog-card-title blog-card-title--lg">Gmail Redesign: Learn How to Improve Your App Without Pissing Everybody Off</h3><p class="blog-card-text">People hate SaaS redesigns. But the recent Gmail revamp has gone almost unnoticed, and it sounds like a huge redesign success. How on Earth did Google do that?</p></a></div></div></div></div><div class="slider-md-slide"><div class="blog-card pos-relative d-lg-none d-md-block"><div class="blog-heading pos-absolute bg-brown"><div>Ebook</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eeb9f" href="main#" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--ebook"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/65a131ffae8fed3f0ae46f9c_img-banner-book-01.webp" loading="lazy" alt="An Eleken&#x27;s cover for the ebook with a text How to get along with designers and work well together " class="blog-card-img image-1121"/></div><h3 class="blog-card-title blog-card-title--lg">To Redesign or Not to Redesign Your Product: A Solution to Resolve Your Doubts</h3><p class="blog-card-text">Looking for a UX designer and don’t know where to start? Find out about their skills, portfolio requirements, interview process, and how to hire UX designers in this article.</p></a></div></div></div></div></section><section class="section section-case-slider"><div class="container"><div class="slider-case"><div class="slider-case-slide"><a href="../cases/datawisp" class="slider-case-link w-inline-block"><div class="slider-case-col"><h2 class="blog-card-title blog-card-title--lg mb-lg">Datawisp closed a $3.6M <span class="text-span-410">seed funding with an MVP</span></h2><div data-w-id="bb458262-03ca-5e1c-8835-89bced9eebb0" class="btn-link"><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64415f9db3e24a1adbd73aac_Arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="btn-link__icon"/><div class="btn-link__text">Read the full case study</div></div><div class="slider-case-testimonial d-sm-none"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">User feedback has changed from &quot;this looks complicated&quot; to &quot;this looks easy&quot;, and our software went from a prototype, to actual, real, usable software.</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5663641454b11d01cd_img-card-06.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Moritz Uehling, CTO <br/></p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64371acf48730f7671b09101_logo-datawisp-black.svg" loading="lazy" alt="image logo" class="logo-datawisp"/></div></div></div></div><div class="slider-case-col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c969c087a25cdc6126a545_datawist-without-shadows.webp" loading="lazy" width="420" sizes="(max-width: 479px) 100vw, 420.0000305175781px" alt="" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c969c087a25cdc6126a545_datawist-without-shadows-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c969c087a25cdc6126a545_datawist-without-shadows-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c969c087a25cdc6126a545_datawist-without-shadows.webp 920w" class="slider-case-slide-img"/><div class="slider-case-slide--sm"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">User feedback has changed from &quot;this looks complicated&quot; to &quot;this looks easy&quot;, and our software went from a prototype, to actual, real, usable software.</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641b4e5663641454b11d01cd_img-card-06.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Moritz Uehling, CTO <br/></p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64371acf48730f7671b09101_logo-datawisp-black.svg" loading="lazy" alt="image logo" class="logo-datawisp"/></div></div></div></div></a></div><div class="slider-case-slide"><a href="../cases/floret" class="slider-case-link w-inline-block"><div class="slider-case-col"><h2 class="blog-card-title blog-card-title--lg mb-lg">How Floret went from product idea to a $2.3 million investment round</h2><div data-w-id="bb458262-03ca-5e1c-8835-89bced9eebc9" class="btn-link"><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64415f9db3e24a1adbd73aac_Arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="btn-link__icon"/><div class="btn-link__text">Read the full case study</div></div><div class="slider-case-testimonial d-sm-none"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">“The team at Eleken are true professionals and I felt as though we were immediately getting value from our collaboration.”</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64649d917594894b57619ecc_img-avatar-17.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Tanay Kothari,  CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6526a1e8afe073529a66c5bf_logo-floret.svg" loading="lazy" alt="image logo" class="logo-floret"/></div></div></div></div><div class="slider-case-col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3e604a76f7a9c32fade_img-slide-case-02.webp" loading="lazy" width="598" sizes="(max-width: 767px) 100vw, 597.9948120117188px" alt="A screenshot of a promotion calendar " srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3e604a76f7a9c32fade_img-slide-case-02-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3e604a76f7a9c32fade_img-slide-case-02-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3e604a76f7a9c32fade_img-slide-case-02-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3e604a76f7a9c32fade_img-slide-case-02.webp 1196w" class="slider-case-slide-img"/><div class="slider-case-slide--sm"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">“The team at Eleken are true professionals and I felt as though we were immediately getting value from our collaboration.”</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64649d917594894b57619ecc_img-avatar-17.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Tanay Kothari,  CEO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6526a1e8afe073529a66c5bf_logo-floret.svg" loading="lazy" alt="image logo" class="logo-floret"/></div></div></div></div></a></div><div class="slider-case-slide"><a href="../cases/gotechiez" class="slider-case-link w-inline-block"><div class="slider-case-col"><h2 class="blog-card-title blog-card-title--lg mb-lg">Gotechiez turns its innovative developer skills assessment product idea into reality</h2><div data-w-id="bb458262-03ca-5e1c-8835-89bced9eebe1" class="btn-link"><img src="https://cdn.prod.website-files.com/642fc7dca0adeb5c4b9a50d9/64415f9db3e24a1adbd73aac_Arrow.svg" loading="lazy" style="-webkit-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, -50%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" alt="" class="btn-link__icon"/><div class="btn-link__text">Read the full case study</div></div><div class="slider-case-testimonial d-sm-none"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">“Their commitment to transparent communication, and proactive problem-solving showcased a level of professionalism that set them apart. ”</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap mb-sm"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e54c502c0f06545f92d2c_avatar-34.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anupama Panchal, CTO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d4e975203658e845f7c2_logo-goTechiez.svg" loading="lazy" alt="image logo" class="logo-clientjoy"/></div></div></div></div><div id="w-node-bb458262-03ca-5e1c-8835-89bced9eebf2-0c8dfb47" class="slider-case-col"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3d6c753a53522be3deb_img-slide-case-03.webp" loading="lazy" width="598" sizes="(max-width: 767px) 100vw, 597.9948120117188px" alt="" srcset="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3d6c753a53522be3deb_img-slide-case-03-p-500.webp 500w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3d6c753a53522be3deb_img-slide-case-03-p-800.webp 800w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3d6c753a53522be3deb_img-slide-case-03-p-1080.webp 1080w, https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d3d6c753a53522be3deb_img-slide-case-03.webp 1196w" class="slider-case-slide-img"/><div class="slider-case-slide--sm"><div class="testimonial-sm _w-100 bg-purple"><p class="testimonial-sm__text"><span class="text-span-244">“Their commitment to transparent communication, and proactive problem-solving showcased a level of professionalism that set them apart. ”</span></p><div class="testimonial-sm__footer"><div class="testimonial-sm__info flex-direction-col-sm"><div class="testimonial-sm__img-wrap"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661e54c502c0f06545f92d2c_avatar-34.webp" loading="lazy" alt="image" class="testimonial-sm__holder-img mr-0"/></div><div class="testimonial-sm__name-holder"><p class="testimonial-sm__name">Anupama Panchal, CTO</p></div></div><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6634d4e975203658e845f7c2_logo-goTechiez.svg" loading="lazy" alt="image logo" class="logo-clientjoy"/></div></div></div></div></a></div></div></div></section><section class="section blogs-hero"><div class="container"><div class="header-wrap text-left"><h2 class="h2 h2--blog">Editor’s picks</h2></div><div class="blog-card-wrap d-md-none w-dyn-list"><div role="list" class="blog-card-list blog-card-list--gap w-dyn-items"><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eebff" href="../blog-posts/onboarding-new-designers" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec01" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a85a83287855de270e649b_Onboarding%20New%20Designers%20Shouldn%27t%20Be%20a%20Problem.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a85a83287855de270e649b_Onboarding%20New%20Designers%20Shouldn%27t%20Be%20a%20Problem-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a85a83287855de270e649b_Onboarding%20New%20Designers%20Shouldn%27t%20Be%20a%20Problem-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a85a83287855de270e649b_Onboarding%20New%20Designers%20Shouldn%27t%20Be%20a%20Problem-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a85a83287855de270e649b_Onboarding%20New%20Designers%20Shouldn%27t%20Be%20a%20Problem.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg"><p class="mb-0">23 Aug</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h4 class="blog-card-title">Onboarding New Designers Shouldn&#x27;t Be a Problem: Here&#x27;s How to Onboard Your Remote Team</h4><p class="blog-card-text">Want to get your new designers on track as fast as possible? Learn our tips for remote UX designers onboarding.
+</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eebff" href="../blog-posts/scaling-your-startup-how-it-looks-from-the-product-design-perspective" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec01" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7ab56cedbad575c89ec61_Scaling%20Your%20Startup.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7ab56cedbad575c89ec61_Scaling%20Your%20Startup-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7ab56cedbad575c89ec61_Scaling%20Your%20Startup-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7ab56cedbad575c89ec61_Scaling%20Your%20Startup-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7ab56cedbad575c89ec61_Scaling%20Your%20Startup.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg"><p class="mb-0">27 Sep</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h4 class="blog-card-title">Scaling Your Startup - How It Looks from the Product Design Perspective</h4><p class="blog-card-text">Learn what pitfalls might wait for you when scaling a product team and expanding the product and how to overcome them.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eebff" href="../blog-posts/how-to-manage-a-design-team-5-tips-based-on-true-stories" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec01" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7de944017cfab7c858dcb_COVER_How%20to%20Manage%20a%20Design%20Team.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7de944017cfab7c858dcb_COVER_How%20to%20Manage%20a%20Design%20Team-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7de944017cfab7c858dcb_COVER_How%20to%20Manage%20a%20Design%20Team-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7de944017cfab7c858dcb_COVER_How%20to%20Manage%20a%20Design%20Team-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7de944017cfab7c858dcb_COVER_How%20to%20Manage%20a%20Design%20Team.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg"><p class="mb-0">5 Jul</p><p class="mb-0">,</p><p class="mb-0">2025</p></div><h4 class="blog-card-title">How to Manage a Design Team: 5 Tips Based on True Stories</h4><p class="blog-card-text">Moving from designing to managing designers for the first time? Here are effective pieces of advice from the design team lead for a successful career start.</p></a></div></div></div><div class="blog-card-wrap d-lg-none d-md-block w-dyn-list"><div role="list" class="blog-card-list blog-card-list--gap slider-md w-dyn-items"><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0d" href="../blog-posts/how-to-increase-customer-retention-and-get-more-profit-from-your-saas" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--lg"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0f" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abd01f480a17e27ce6ac0e_16.%20How%20to%20Increase%20Customer%20Retention.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abd01f480a17e27ce6ac0e_16.%20How%20to%20Increase%20Customer%20Retention-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abd01f480a17e27ce6ac0e_16.%20How%20to%20Increase%20Customer%20Retention-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abd01f480a17e27ce6ac0e_16.%20How%20to%20Increase%20Customer%20Retention-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abd01f480a17e27ce6ac0e_16.%20How%20to%20Increase%20Customer%20Retention.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">19 Sep</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h4 class="blog-card-title blog-card-title--lg">How to Increase Customer Retention and Get More Profit From Your SaaS</h4><p class="blog-card-text">With most of the revenue coming from repeat purchases, it&#x27;s vital for SaaS companies to keep customers coming back. Learn how to boost user retention with our UX tips.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0d" href="../blog-posts/ltv-calculator-saas" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--lg"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0f" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6839a3bd45bd3da1c7aa7634_cover.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6839a3bd45bd3da1c7aa7634_cover-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6839a3bd45bd3da1c7aa7634_cover-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6839a3bd45bd3da1c7aa7634_cover-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6839a3bd45bd3da1c7aa7634_cover.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">3 Jun</p><p class="mb-0">,</p><p class="mb-0">2025</p></div><h4 class="blog-card-title blog-card-title--lg">LTV Calculator for SaaS</h4><p class="blog-card-text">Explore LTV calculation SaaS, why it matters, how to do it right, and how your results can drive smarter product, pricing, and growth decisions.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0d" href="../blog-posts/the-difference-between-wireframe-mockup-and-prototype-and-their-roles-in-the-design-process" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--lg"><img alt="" loading="lazy" data-w-id="bb458262-03ca-5e1c-8835-89bced9eec0f" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7db221137222a6c0ab17b_The%20Difference%20Between%20Wireframe%20Mockup%20and%20Prototype%20and%20Their%20Roles%20in%20the%20Design%20Process.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7db221137222a6c0ab17b_The%20Difference%20Between%20Wireframe%20Mockup%20and%20Prototype%20and%20Their%20Roles%20in%20the%20Design%20Process-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7db221137222a6c0ab17b_The%20Difference%20Between%20Wireframe%20Mockup%20and%20Prototype%20and%20Their%20Roles%20in%20the%20Design%20Process-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7db221137222a6c0ab17b_The%20Difference%20Between%20Wireframe%20Mockup%20and%20Prototype%20and%20Their%20Roles%20in%20the%20Design%20Process-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7db221137222a6c0ab17b_The%20Difference%20Between%20Wireframe%20Mockup%20and%20Prototype%20and%20Their%20Roles%20in%20the%20Design%20Process.png 1280w" class="blog-card-img"/></div><div class="blog-info mb-lg justify-md-left"><p class="mb-0">22 Aug</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h4 class="blog-card-title blog-card-title--lg">The Difference Between Wireframe Mockup and Prototype and Their Roles in the Design Process</h4><p class="blog-card-text">Are prototypes wireframes and mockups the same? Read the article to learn their use and their place in the product design process. </p></a></div></div></div><div class="blog-btn-wrap pb-0"><a href="blog-all" class="button-primary d-inline-flex mb-0 bg-purple">Load ALL articles</a></div></div></section></main></div><footer class="main-footer-2"><div class="main-footer__container main-footer__container--sm"><div class="main-footer__wrapper"><div class="main-footer__left"><div class="main-footer__left-wrap"><a aria-label="main page" href="../index.html" class="main-footer__logo w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="lazy" alt="" class="main-footer__logo-img"/></a><address class="main-footer__address"><p class="main-footer__address-text">Kyiv, Ukraine, <br/></p><p class="main-footer__address-text d-sm-block">Dehtiarivska str. 33B </p></address></div><div class="main-footer__left-wrap"><address class="main-footer__address"><p class="main-footer__address-text">Eleken Design Ltd<br/></p><p class="main-footer__address-text">920-736 Granville ST<br/></p><p class="main-footer__address-text">Vancouver BC V6Z 1G3<br/></p><p class="main-footer__address-text">Canada<br/></p></address></div></div><div class="main-footer__right"><div class="main-footer__row"><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../engagement/start-from-scratch-mvp" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="../engagement/product-redesign" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="../engagement/team-extension" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Approach</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../saas-web-design" class="main-footer__list-link">SaaS design</a></li><li class="main-footer__list-item"><a href="../ui-ux-design-services" class="main-footer__list-link">UI/UX design services</a></li><li class="main-footer__list-item"><a href="../web-app-design" class="main-footer__list-link">Web design</a></li><li class="main-footer__list-item"><a href="../ux-audit-service" class="main-footer__list-link">UI/UX audit</a></li><li class="main-footer__list-item"><a href="../mobile-app-design" class="main-footer__list-link">Mobile app design</a></li><li class="main-footer__list-item"><a href="../design-system-service" class="main-footer__list-link">Design system</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Company</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../cases" class="main-footer__list-link">Case studies</a></li><li class="main-footer__list-item"><a href="../pricing" class="main-footer__list-link">Pricing</a></li><li class="main-footer__list-item"><a href="../about-us" class="main-footer__list-link">About</a></li><li class="main-footer__list-item"><a href="main" aria-current="page" class="main-footer__list-link w--current">Blog</a></li><li class="main-footer__list-item"><a href="../contact-us" class="main-footer__list-link">Contact us</a></li></ul></div><div class="main-footer__col d-md-none d-sm-block"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="main#" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="main#" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="main#" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>SaaS niches</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../industries/sales" class="main-footer__list-link">Sales</a></li><li class="main-footer__list-item"><a href="../industries/fintech" class="main-footer__list-link">Fintech</a></li><li class="main-footer__list-item"><a href="../industries/healthcare" class="main-footer__list-link">Healthcare</a></li><li class="main-footer__list-item"><a href="../industries/marketing" class="main-footer__list-link">Marketing</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-data-products" class="main-footer__list-link">Data</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-geospatial-data-products" class="main-footer__list-link">Geoservice</a></li><li class="main-footer__list-item"><a href="../industries/ua-ux-design-for-dfp" class="main-footer__list-link">Developer-focused</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-ai-based-products" class="main-footer__list-link">AI</a></li></ul></div><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Email courses</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../email-courses/user-onboarding" class="main-footer__list-link">Create Best SaaS User Onboarding Experience</a></li><li class="main-footer__list-item"><a href="../email-courses/aha-moment" class="main-footer__list-link">How to Spark an Aha Moment</a></li><li class="main-footer__list-item"><a href="../email-courses/how-to-define-and-design-an-mvp" class="main-footer__list-link">How to Define and Design an MVP?</a></li></ul></div><div class="main-footer__col d-sm-flex _w-100"><div class="div-block-1003"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Stories</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-footer__list-link">How to choose an UI/UX Agency</a></li></ul></div><div class="div-block-1004"><div class="main-footer__wrap-list-title mt-lg mt-sm-0"><div class="main-footer__list-title"><strong>Comparison</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../eleken-vs-toptal" class="main-footer__list-link">Eleken vs Toptal</a></li><li class="main-footer__list-item"><a href="../eleken-vs-in-house-designer" class="main-footer__list-link">Eleken vs. In-house designer</a></li><li class="main-footer__list-item"><a href="../eleken-vs-traditional-agency" class="main-footer__list-link">Eleken vs Traditional Agency</a></li></ul></div></div></div><div class="main-footer__row-vertical d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">eBooks</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/a-non-boring-guide-to-how-ux-research-is-supposed-to-work" class="main-footer__list-link">A Non-Boring Guide to How UX Research Is Supposed to Work</a></li><li class="main-footer__list-item"><a href="../books/the-ux-design-crash-course-for-product-owners" class="main-footer__list-link">The UX Design Crash Course for Product Owners</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-get-along-with-designers-and-work-well-together" class="main-footer__list-link">How to Get Along with Designers and Work Well Together</a></li><li class="main-footer__list-item"><a href="../books/how-eleken-works-clients-guide" class="main-footer__list-link">How We Work: Client&#x27;s Guide</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-succeed-with-your-remote-design-team" class="main-footer__list-link">How to Succeed with Your Remote Design Team</a></li><li class="main-footer__list-item"><a href="../books/improving-your-saas-bottom-line-how-design-affects-your-growth-metrics" class="main-footer__list-link">How Design Impacts Your Growth Metrics</a></li></ul></div></div></div><div class="main-footer__row-vertical mb-0"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">Policies</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../editorial-process" class="main-footer__list-link">Editorial Process</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../advertising-policy" class="main-footer__list-link">Advertising policy</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../team-of-experts" class="main-footer__list-link">Team of Experts</a></li></ul></div></div></div></div></div><div class="main-footer__bottom"><div class="main-footer__bottom-wrap"><p class="main-footer__copy">2023 Copyright Eleken. All rights reserved.</p><ul role="list" class="main-footer__user-llist w-list-unstyled"><li class="main-footer__user-item"><a href="../privacy-policy" class="main-footer__user-link">Privacy</a></li></ul></div><ul role="list" class="main-footer__list-socials w-list-unstyled"><li class="main-footer__list-socials-item"><a aria-label="dribbble" href="https://dribbble.com/eleken" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6d6fed9011b354a63a_icon-dribbble.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="behance" href="https://www.behance.net/elekenagency" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee2e39077fe8d223a_icon-behance.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="youtube" href="https://www.youtube.com/@eleken.agency/videos" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ec14539bbfa770694_icon-youtube.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="facebook" href="https://www.facebook.com/eleken.agency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ce41c11a2661e237a_icon-facebook.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="linkedin" href="https://www.linkedin.com/company/eleken/mycompany/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee41c11587f1e23c1_icon-linkedin.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="instagram" href="https://www.instagram.com/elekenagency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6dc145391264770693_icon-Instagram.svg" loading="lazy" alt=""/></a></li></ul></div></div></footer><div class="div-block-858-copy"><div class="div-block-863"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/622f8e67f1080f7587574340_Vector.svg" loading="lazy" alt="" class="classsss"/></div><div class="div-block-871"><p class="stopthewar">Stop the War. <span>Support Ukraine 🇺🇦 </span><a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly" target="_blank" class="link-13">Donate to Come Back Alive foundation</a></p></div></div><div style="display:none;opacity:0" class="case-popup"><div class="case-popup-video-holder"><div class="case-video-holder"><div data-w-id="d064a78b-9530-aa18-17ed-90bfc29de8bc" class="btn-close-popup"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/621e09549a12c080477b3136_close.svg" loading="lazy" alt="" class="icon-close-popup"/></div><div class="video-embet-datawisp w-embed"><div id="player"></div></div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5e8b3356a5a8f5321855bbe7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.6568e74973c68f74.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.8cfd049725a28598.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.12f66a7a1043bbab.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.c5b52073.96305e3631a7721d.js" type="text/javascript"></script><!-- Google Tag Manager [NEW CODE SENT BY DENIS] -->
+<script type="text/javascript" fs-cc-categories="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFSGD9L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- NEW Google Tag Manager (noscript) CODE SENT BY DENIS 👇 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFSGD9L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Begin microsoft clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "p0ht6b04za");
+</script>
+<!-- End microsoft clarity -->
+
+<!-- Meta Pixel Code -->
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+      n.callMethod ?
+      n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '485203327048064');
+  fbq('track', 'PageView');
+</script>
+<!-- End Meta Pixel Code -->
+
+
+<!-- BEGIN Meta Pixel Code 2 -->
+<script>!function () {var reb2b = window.reb2b = window.reb2b || [];if (reb2b.invoked) return;reb2b.invoked = true;reb2b.methods = ["identify", "collect"];reb2b.factory = function (method) {return function () {var args = Array.prototype.slice.call(arguments);args.unshift(method);reb2b.push(args);return reb2b;};};for (var i = 0; i < reb2b.methods.length; i++) {var key = reb2b.methods[i];reb2b[key] = reb2b.factory(key);}reb2b.load = function (key) {var script = document.createElement("script");script.type = "text/javascript";script.async = true;script.src = "https://s3-us-west-2.amazonaws.com/b2bjsstore/b/" + key + "/reb2b.js.gz";var first = document.getElementsByTagName("script")[0];first.parentNode.insertBefore(script, first);};reb2b.SNIPPET_VERSION = "1.0.1";reb2b.load("ZQOQRJH25262");}();</script>
+<!-- END Meta Pixel Code 2 -->
+
+<!-- Ortto eleken capture code -->
+<script async type="text/javascript" fs-cc-categories="marketing">
+    window.ap3c = window.ap3c || {};
+    var ap3c = window.ap3c;
+    ap3c.cmd = ap3c.cmd || [];
+    ap3c.cmd.push(function() {
+        ap3c.init('Y2ud8yly673x38EDZWxla2Vu', 'https://capture-api.autopilotapp.com/');
+        ap3c.track({v: 0});
+    });
+    ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+    var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn2l.ink/app.js";
+    t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  _linkedin_partner_id = "4526676";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  (function (l) {
+    if (!l) {
+      window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+      window.lintrk.q = []
+    }
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript"; b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+  })(window.lintrk);
+</script>
+
+<script defer type="text/javascript">
+  window.lintrk('track', { conversion_id: 11306884 });
+
+  function sendLinkedInConversion() {
+    _linkedin_partner_id = "4526676";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    (function (l) {
+      if (!l) {
+        window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+        window.lintrk.q = []
+      }
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript"; b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  }
+
+  const targetId = "selected-_7z7hcxx78";
+
+  const observer = new MutationObserver(function (mutationsList) {
+    for (let mutation of mutationsList) {
+
+      if (mutation.type === "childList" && mutation.addedNodes.length > 0) {
+        const addedNodes = Array.from(mutation.addedNodes);
+        for (let node of addedNodes) {
+          if (node.nodeType === Node.ELEMENT_NODE && node.id === targetId) {
+            sendLinkedInConversion();
+            window.lintrk('track', { conversion_id: 11306884 });
+            fbq('track', 'CompleteRegistration');
+            fbq('track', 'Lead');
+          }
+        }
+      }
+    }
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+</script>
+
+<!-- Vector.co Tracking Pixel [Added for analytics/remarketing] -->
+<script>
+    !function(e,r){try{if(e.vector)return void console.log("Vector snippet included more than once.");var t={};t.q=t.q||[];for(var o=["load","identify","on"],n=function(e){return function(){var r=Array.prototype.slice.call(arguments);t.q.push([e,r])}},c=0;c<o.length;c++){var a=o[c];t[a]=n(a)}if(e.vector=t,!t.loaded){var i=r.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://cdn.vector.co/pixel.js";var l=r.getElementsByTagName("script")[0];l.parentNode.insertBefore(i,l),t.loaded=!0}}catch(e){console.error("Error loading Vector:",e)}}(window,document);
+    vector.load("6bfb1fdc-dea3-42ad-9cd1-7bd07539c7a7");
+</script>
+
+
+<script defer type="text/javascript">
+
+function addCheckboxListener() {
+  const checkboxFS = document.querySelectorAll(".w-checkbox-input");
+  checkboxFS.forEach((el) => {
+    const label = el.parentNode;
+    el.addEventListener("change", function () {
+      if (el.checked) {
+        label.classList.add('fs-cc-active-checkbox');
+      } else {
+        label.classList.remove('fs-cc-active-checkbox');
+      }
+    });
+  });
+}
+
+addCheckboxListener();
+
+  function removeTransformOnResize() {
+    const nav = document.querySelector('.main-header__nav');
+    const screenWidth = window.innerWidth;
+
+    if (screenWidth >= 768) {
+      nav.style.transform = '';
+    } else {
+      nav.style.transform = 'translateY(0px) translateX(0px)';
+    }
+  }
+
+  window.addEventListener('resize', removeTransformOnResize);
+
+  const headers = document.querySelectorAll('.main-header');
+  let lastScrollPosition = 0;
+
+  function handleScroll(elements) {
+    const currentScrollPosition = window.pageYOffset;
+    const scrollDifference = currentScrollPosition - lastScrollPosition;
+
+    for (let i = 0; i < elements.length; i++) {
+      const el = elements[i];
+
+      if (currentScrollPosition > 50) {
+        if (scrollDifference > 0) {
+          el.style.opacity = '0';
+          el.style.top = '-15%';
+        } else {
+          el.style.opacity = '1';
+          el.style.top = '16px';
+        }
+      } else {
+        el.style.opacity = '1';
+        el.style.top = '16px';
+      }
+    }
+
+    lastScrollPosition = currentScrollPosition;
+  }
+
+  window.addEventListener('scroll', function () {
+    handleScroll(headers);
+  });
+
+  function btnToggle() {
+    const btns = document.querySelectorAll('.btn-burger-wrap');
+
+    btns.forEach(btn => {
+      const line1 = btn.querySelector('.btn-burger-line-1');
+      const line2 = btn.querySelector('.btn-burger-line-2');
+      const line3 = btn.querySelector('.btn-burger-line-3');
+
+      function toggleBtn() {
+        line1.classList.toggle('btn-burger-line-1-active');
+        line2.classList.toggle('btn-burger-line-2-active');
+        line3.classList.toggle('btn-burger-line-3-active');
+      }
+
+      btn.addEventListener('click', toggleBtn);
+
+      const mediaQuery = window.matchMedia('(min-width: 768px)');
+      function handleTabletChange(e) {
+        if (e.matches) {
+          line1.classList.toggle('btn-burger-line-1-active', false);
+          line2.classList.toggle('btn-burger-line-2-active', false);
+          line3.classList.toggle('btn-burger-line-3-active', false);
+        }
+      }
+      mediaQuery.addListener(handleTabletChange);
+    });
+  }
+
+  btnToggle();
+</script>
+
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const gclid = params.get('gclid');
+  
+  if (gclid && gclid.length >= 20 && gclid.match(/^[a-zA-Z0-9_-]+$/)) {
+    localStorage.setItem('gclid', gclid);
+  }
+})();
+
+document.addEventListener("DOMContentLoaded", function() {
+  const gclidFields = document.querySelectorAll('input[name="gclid"]');
+  const savedGclid = localStorage.getItem('gclid') || '';
+  
+  gclidFields.forEach(function(field) {
+    field.value = savedGclid;
+  });
+});
+</script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  $(document).ready(function () {
+    $('.slider-case').slick({
+      infinite: false,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      arrows: true,
+  nextArrow:  '<button type="button" class="slick-next"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+      prevArrow: '<button type="button" class="slick-prev"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+      responsive: [{
+        breakpoint: 769,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 568,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          centerMode: true,
+          centerPadding: '8px',
+        }
+      }
+      ]
+    });
+    
+    $('.slider-fresh-blog').slick({
+      infinite: false,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      arrows: true,
+     	nextArrow: '.slider-fresh-next',
+      prevArrow: '.slider-fresh-prev',
+
+      responsive: [{
+        breakpoint: 769,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 751,
+        settings: {
+          slidesToShow: 1.2,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 568,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          centerMode: true,
+          centerPadding: '8px',
+        }
+      }
+      ]
+    });
+   
+   
+    $('.slider-md').each(function() {
+    $(this).slick({
+        infinite: false,
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        arrows: true,
+        nextArrow: '<button type="button" class="slick-next"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+        prevArrow: '<button type="button" class="slick-prev"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+        responsive: [
+            {
+                breakpoint: 750,
+                settings: {
+                    slidesToShow: 1.3,
+                    slidesToScroll: 1,
+                    centerMode: true,
+                    centerPadding: '8px',
+                }
+            },
+            {
+                breakpoint: 479,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    centerMode: true,
+                    centerPadding: '8px',
+                }
+            }
+        ]
+    });
+});
+
+  });
+</script>
+<!-- END Sliders-------------------- -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    let firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    let player;
+
+    window.onYouTubeIframeAPIReady = function() {
+        player = new YT.Player('player', {
+            height: '390',
+            width: '640',
+            videoId: '', 
+            playerVars: {
+                'autoplay': 1,
+                'playsinline': 1
+            }
+        });
+    };
+
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+        wrapper.addEventListener('click', function() {
+            const videoId = this.getAttribute('data-video-id');
+            if (player && player.loadVideoById) {
+                player.loadVideoById({videoId: videoId});
+            }
+ 
+            const popup = document.querySelector('.case-popup');
+            if (popup) {
+                popup.style.display = 'block';
+                popup.style.opacity = 1;
+            }
+        });
+    });
+    
+
+  function closePopup() {
+     if (player && player.stopVideo) {
+        player.stopVideo();
+      }
+
+      const popup = document.querySelector('.case-popup');
+      if (popup) {
+          popup.style.display = 'none';
+          popup.style.opacity = 0;
+       }
+   }
+
+  document.querySelector('.btn-close-popup').addEventListener('click', function() {
+    closePopup();
+   });
+
+    document.addEventListener('keydown', function(event) {
+       if (event.key === "Escape") {
+           closePopup();
+       }
+   });
+});
+</script></body></html>

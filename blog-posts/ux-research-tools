@@ -1,0 +1,2774 @@
+<!DOCTYPE html><!-- Last Published: Sat Jul 05 2025 18:59:21 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.eleken.co" data-wf-page="6368f41dd4338656edaa8377" data-wf-site="5e8b3356a5a8f5321855bbe7" lang="en-US" data-wf-collection="6368f41dd433865719aa82cd" data-wf-item-slug="ux-research-tools"><head><meta charset="utf-8"/><title>Key UX Research Tools That Top Designers Use</title><meta content="Examine a list of the top 10 UX research tools suggested by experienced designers to make your research a success." name="description"/><meta content="Key UX Research Tools That Top Designers Use" property="og:title"/><meta content="Examine a list of the top 10 UX research tools suggested by experienced designers to make your research a success." property="og:description"/><meta content="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1.png" property="og:image"/><meta content="Key UX Research Tools That Top Designers Use" property="twitter:title"/><meta content="Examine a list of the top 10 UX research tools suggested by experienced designers to make your research a success." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.shared.ccdbd16e9.min.css" rel="stylesheet" type="text/css"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/css/eleken.6368f41dd4338656edaa8377-5e4107a00.min.css" rel="stylesheet" type="text/css"/><style>@media (min-width:992px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6"] {-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}@media (max-width:479px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="11797e08-fb28-0c73-ee88-16f750706f0c"] {opacity:0;}}</style><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f5772b19e21646ddb8bf065_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5f57734d2a640600bb91c08f_webclip.png" rel="apple-touch-icon"/><link href="ux-research-tools" rel="canonical"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '485203327048064');fbq('track', 'PageView');</script><meta name="facebook-domain-verification" content="io1art9rwuq7x631alwajwzelf6e3v" />
+<meta name="google-site-verification" content="V3_aGXWAx0_wIFaBvqHUIWFIeMMXLxJf3iqUNAFPlCs" />
+<meta name="google-site-verification" content="J7nIBJizYNb3a93ruG01jj9Z1whW-5CrFajmdGMCx78" />
+
+<link rel="preload" as="image" href="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" />
+
+<!--begin site performance for assets -->
+<link rel="preconnect" href="https://assets.website-files.com">
+<link rel="dns-prefetch" href="https://assets.website-files.com">
+<!--end site performance for assets-->
+
+<!-- Finsweet Cookie Consent -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="informational"></script>
+
+<script defer id="jetboost-script" type="text/javascript"> window.JETBOOST_SITE_ID = "cm06j37qg00in0r4fb2px54ky"; (function(d) { var s = d.createElement("script"); s.src = "https://cdn.jetboost.io/jetboost.js"; s.async = 1; d.getElementsByTagName("head")[0].appendChild(s); })(document); </script>
+
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="4NY8Ssng8Yr/NkQ/LqGSXg" async></script>
+
+
+<style>
+    html,
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: antialiased;
+        overflow-x: hidden;
+    }
+  
+  	img {
+  	  height: auto;
+  	}
+  
+    .no-scroll {
+      overflow: hidden !important;
+    }
+
+    .no-horizontal {
+      overflow-x: hidden;
+    }
+
+    .w-slider-dot {
+      background: #D6D2CD;
+      height: 8px;
+      width: 8px;
+    }
+
+    .w-slider-dot.w-active {
+      background: #FF8E5E;
+      height: 8px;
+      width: 8px;
+    }
+  
+  	.fs-cc-prefs_close-icon {
+      width: 24.78px !important;
+      height: 24.78px !important;
+      color: #BCBCBC !important;
+	}
+
+    .fs-cc-active-checkbox {
+      background-color: #ff8e5e !important;
+    }
+
+
+ 
+
+    .button-primary {
+      display: inline-flex
+    }
+  
+  	.w-editor-bem-KitDropDown_List {
+  		z-index: 10;
+  	}
+  
+  
+  	@media only screen and (max-width: 767px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 87px !important; 
+     	}
+  	}
+  
+   
+  	@media only screen and (max-width: 479px)  {
+  		.w-nav-overlay [data-nav-menu-open] {
+      		top: 73px !important; 
+     	}
+  	}
+  
+  	 @media only screen and (min-width: 768px) {
+      .main-header__nav-dropdown-toggle-icon,
+      .main-header__nav-dropdown-toggle-title {
+        transition: all 0.3s ease;
+       }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-icon {
+        transform: rotate(-90deg);
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-dropdown-toggle-title {
+        opacity: 60%;
+      }
+
+      .main-header__nav-dropdown-trigger {
+        position: relative;
+      }
+
+      .main-header__nav-dropdown-trigger:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        bottom: -50px;
+        padding-top: 50px;
+      }
+
+      .main-header__nav-toggle-list {
+        transition: all 0.3s ease;
+        visibility: hidden;
+        opacity: 0;
+      }
+
+      .main-header__nav-dropdown-toggle:hover .main-header__nav-toggle-list {
+        visibility: visible;
+        opacity: 1;
+        height: auto;
+      }
+    }
+  
+  	
+
+    @media screen and (max-width: 992px) {
+      .services {
+        max-width: 100vw;
+        overflow-y: auto;
+        overflow-x: hidden;
+        max-height: calc(100vh + 230px);
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+</style>
+
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. -->
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_1.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_2.js"></script>
+
+<script type='text/javascript' src="https://websitespeedycdn.b-cdn.net/speedyscripts/ecmrx_6355/ecmrx_6355_3.js"></script>
+
+<!-- This Script is the exclusive property of Website Speedy, Copyright © 2024. All rights reserved. --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css" integrity="sha512-rd0qOHVMOcez6pLWPVFIv7EfSdGKLt+eafXh4RO/12Fgr41hDQxfGvoi1Vy55QIVcQEujUE1LQrATCLl2Fs+ag==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"
+    integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
+    integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemPage",
+  "name": "10 UX Research Tools You&#39;ll Ever Need, Recommended by Expert Designers",
+  "url": "https://www.eleken.co/blog-posts/ux-research-tools",
+  "mainEntity": {
+    "@type": "Article",
+    "headline": "10 UX Research Tools You&#39;ll Ever Need, Recommended by Expert Designers",
+    "author": {
+      "@type": "Person",
+      "name": "Dana Yatsenko"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Eleken"
+    },
+    "datePublished": "Apr 24, 2025",
+    "image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1.png",
+    "description": "Examine a list of the top 10 UX research tools suggested by experienced designers to make your research a success.",
+    "mainEntityOfPage": "https://www.eleken.co/blog-posts/ux-research-tools"
+  }
+}
+</script>
+
+<style>
+body,
+html,
+body {
+  overflow-x: visible !important;
+}
+
+@media screen and (min-width: 768px) {
+  .blog-section {
+    contain: paint;
+    overflow: visible !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
+}
+
+iframe {
+  width: 100% !important;
+  margin: 0 0 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.w-richtext figure {
+  max-width: 100%;
+}
+
+.blog-author-img {
+  border-radius: 50% !important;
+  object-fit: cover;
+  cursor: default !important;
+}
+
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc ul li {
+  padding: 11px 0 11px;
+}
+
+.tocitem {
+  text-decoration: none;
+  color: #616161;
+  margin-bottom: 0;
+  line-height: 20px;
+}
+
+.active-toc {
+  color: #1d1e22;
+  font-weight: 700;
+}
+
+.medium-zoom-image--opened {
+  z-index: 500;
+  object-fit: contain;
+}
+
+.medium-zoom-overlay {
+  z-index: 400;
+}
+
+.wrap-slider-blog {
+  margin: 30px auto 50px;
+  aspect-ratio: 16/9;
+  position: relative;
+  max-width: 700px;
+  border: 1px solid rgba(0, 0, 0, 0.102);
+  border-radius: 13px;
+}
+
+.swiper {
+  border-radius: 12px;
+  width: 100%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.swiper-pagination-bullet {
+  opacity: 100%;
+  transition: all 0.3s ease;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ff8e5e;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: #e4e4e4;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border: none;
+}
+
+.swiper-button-prev {
+  left: -45px !important;
+  background: url('https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66e424f486a1c879faba912d_icon-arrow-left-orang.svg') no-repeat center;
+}
+
+.swiper-button-next {
+  right: -45px !important;
+  background: url('https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66e424f59e3e7dec7ad5d0e0_icon-arrow-rigth-orang-.svg') no-repeat center;
+}
+
+
+.swiper-button-prev,
+.swiper-button-next {
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover,
+.swiper-pagination-bullet:hover {
+  opacity: 70%;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+}
+
+footer ul>li::before {
+  display: none;
+}
+
+ul {
+  list-style: none
+}
+
+.main-header ul>li::before {
+  display: none;
+}
+
+.blog-article-richtext ul>li::before {
+  content: "•";
+  color: #ff8e5e;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em
+}
+
+
+.tg {
+  margin: auto;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 21px
+}
+
+.tg td {
+  border-color: #C1C1C1;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Regolapro, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 16px 8px;
+  word-break: normal;
+  text-align: left;
+  vertical-align: top
+}
+
+.tg th {
+  border-color: #C1C1C1;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Regolapro, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 16px 8px;
+  word-break: normal;
+  text-align: left;
+  vertical-align: top
+}
+
+.blog-rich-text blockquote {
+  border: 6px solid #E4CFFF;
+}
+
+.blog-rich-text li {
+  position: relative;
+}
+
+.blog-rich-text li:before {
+  content: "";
+  background: url(https://assets-global.website-files.com/5e8b3356a5a8f5321855bbe7/64898e095b9e52441c4feb1c_arrow-purple.svg) center center no-repeat;
+  background-size: contain;
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 19px;
+  height: 13px;
+}
+
+.blog-rich-text figure figcaption {
+  margin: 0 0 25px;
+}
+
+.blog-rich-text a {
+  color: #1D1E22;
+  transition: all 0.3s ease;
+  border-bottom: 2px solid #ff8e5e;
+  text-decoration: none;
+  position: relative;
+  padding: 0 0 2px;
+  margin: 0 0 -2px;
+}
+
+.blog-rich-text a:hover {
+  background: #ff8e5e;
+  border-color: transparent;
+}
+
+
+.blog-rich-text b,
+strong {
+  font-weight: 900;
+}
+
+.blog-top-list-img {
+  object-fit: contain;
+  object-position: 50% 50%;
+}
+
+@media only screen and (min-width: 991px) {
+  .blog-main-image-container {
+    aspect-ratio: 3 / 1;
+  }
+}
+
+@media only screen and (min-width: 300px) {
+  .blog-rich-text li:before {
+    top: 10px;
+  }
+
+  .medium-zoom-image {
+    border-radius: 8px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .blog-rich-text li:before {
+    top: 12px;
+  }
+
+  .medium-zoom-image {
+    border-radius: 12px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .blog-rich-text li:before {
+    top: 14px;
+  }
+
+  .medium-zoom-image {
+    border-radius: 14px;
+  }
+}
+
+
+/*BEGIN banner */
+    .banner-wrap {
+      border-radius: 12px;
+      background: #f3f3f3;
+      color: #1d1e22;
+      font-family: "Regolapro", sans-serif;
+      font-size: 22px;
+      line-height: 39.6px;
+      padding: 80px 80px 0;
+      box-sizing: border-box;
+      overflow: hidden;
+      margin: 40px 0 56px;
+    }
+
+    .banner-row {
+      display: flex;
+      gap: 40px;
+    }
+
+    .bann-col {
+      width: 50%;
+    }
+
+    .bann-col:nth-child(1) {
+      padding: 0 0 80px;
+      margin: 0 0 -10px;
+    }
+
+    .banner .bann-col:nth-child(1) {
+      margin: 0;
+      padding: 0;
+    }
+
+    .bann-col:nth-child(2) {
+      display: flex;
+      justify-content: center;
+    }
+
+    .banner-book {
+      padding: 30px 30px 0;
+    }
+
+    .banner-book .bann-col:nth-child(2) {
+      display: block;
+    }
+
+
+    .banner-book .bann-col:nth-child(1) {
+      display: block;
+      padding: 0 0 30px;
+      margin: 0;
+    }
+
+
+    .banner-book .bann-col-book {
+      display: block;
+    }
+
+    .banner-wrap h3 {
+      font-size: 30px;
+      font-weight: 600;
+      line-height: 40px;
+      margin: 0 0 24px;
+    }
+
+    .banner-wrap p {
+      margin: 0 0 48px;
+    }
+
+    .bann-btn {
+      border-radius: 8px;
+      background: #1d1e22 !important;
+      padding: 18px 29px !important;
+      color: #fff !important;
+      text-align: center;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 15px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: background .2s ease;
+      display: inline-block;
+    }
+
+    .bann-btn:hover {
+      background: #1d1e22e6;
+    }
+
+    .bann-btn svg {
+      display: none;
+    }
+
+    .bann-img-hold {
+      display: flex;
+      align-items: end;
+      margin: 0 0 -50px;
+    }
+
+    .bann-img-hold img {
+      width: 100%;
+      max-width: 345px;
+      box-shadow: -6px 14px 46px 4px rgba(0, 0, 0, .1);
+    }
+
+    .banner-book .bann-img-hold img {
+      border-radius: 5px;
+    }
+
+    .banner-wrap-case {
+      padding: 60px 0 60px 80px;
+    }
+
+    .banner-wrap-case .banner-row {
+      align-items: center;
+      gap: 100px;
+    }
+
+    .banner-wrap-case p {
+      margin: 0 0 48px;
+    }
+
+    .banner-wrap-case .bann-col:nth-child(1) {
+      width: 32%;
+      padding: 0;
+      margin: 0;
+    }
+
+    .banner-wrap-case .bann-img-hold {
+      margin: 0 -83px 0 0;
+    }
+
+    .banner-wrap-case img {
+      max-width: 100%;
+    }
+
+    .banner {
+      padding: 30px;
+      font-size: 22px;
+      line-height: 39.6px;
+    }
+
+    .banner .banner-row {
+      gap: 30px;
+    }
+
+    .banner .bann-col:nth-child(1) {
+      width: auto;
+    }
+
+    .banner p {
+      margin: 0;
+    }
+
+    .banner .bann-col {
+      padding: 0;
+      width: auto;
+    }
+
+    .banner .bann-col-flex {
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    @media screen and (max-width:1280px) {
+      .banner-wrap h3 {
+        font-size: 30px;
+        line-height: 40px
+      }
+
+      .banner-book .bann-img-hold {
+        margin: 0;
+        display: block
+      }
+    }
+
+    @media screen and (max-width:768px) {
+      .banner-wrap {
+        padding: 40px 40px 0;
+      }
+
+      .banner-book {
+        padding: 24px;
+      }
+
+      .banner-wrap banner {
+        padding: 20px;
+      }
+
+      .banner-book .bann-col {
+        width: 100%;
+      }
+
+      .bann-col:nth-child(1) {
+        padding: 0 0 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      .banner-wrap-case {
+        padding: 40px 0 40px 40px
+      }
+
+      .banner .banner-row {
+        gap: 10px;
+      }
+
+      .banner-row {
+        flex-direction: column;
+        text-align: center;
+        gap: 0;
+      }
+    }
+
+    @media screen and (max-width:750px) {
+      .banner-wrap {
+        font-size: 18px;
+        line-height: 32px;
+        padding: 30px 20px 0;
+        margin: 12px 0 24px
+      }
+
+      .banner-wrap-case .banner-row {
+        flex-direction: column-reverse;
+        gap: 0
+      }
+
+      .banner-wrap h3 {
+        font-size: 26px;
+        line-height: 36px;
+        margin: 0 0 20px
+      }
+
+      .banner-wrap img {
+        margin: 0 0 20px;
+        box-shadow: none
+      }
+
+      .banner-wrap p {
+        margin: 0 0 20px
+      }
+
+      .bann-col {
+        width: 100%
+      }
+
+      .bann-col:nth-child(1) {
+        margin: 0
+      }
+
+      .bann-img-hold {
+        margin: 20px 0 0;
+        width: 100%;
+        display: flex;
+        justify-content: center
+      }
+
+      .banner {
+        text-align: left;
+        padding: 23px 20px
+      }
+
+      .banner .bann-col:nth-child(1) {
+        width: auto;
+        padding: 0
+      }
+
+      .banner-book img {
+        width: 100%;
+        max-width: 200px;
+        box-shadow: none;
+        margin: 0 0 -70px;
+        transform: rotate(7deg)
+      }
+
+      .bann-btn {
+        align-self: center
+      }
+
+      .banner-wrap-case {
+        padding: 23px 20px
+      }
+
+      .banner-wrap-case img {
+        margin: 0 0 30px
+      }
+
+      .banner-wrap-case .bann-img-hold {
+        transform: rotate(0);
+        margin: 0
+      }
+
+      .banner-wrap-case .bann-col:nth-child(1) {
+        width: 100%;
+        padding: 0
+      }
+    }
+
+    /*END banner */
+
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
+.video-link {
+  aspect-ratio: 16 / 9;
+  object-fit: fill;
+  margin: 60px auto;
+  display: block;
+  cursor: pointer;
+  background-color: transparent !important;
+  max-width: 588px;
+}
+
+.video-link:hover .video-btn-play {
+  width: 75px;
+}
+
+.video-wrapper {
+  cursor: pointer;
+  border-radius: 16px;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.video-btn-play {
+  z-index: 2;
+  width: 68px;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease;
+}
+
+.css-video-youtube {
+  aspect-ratio: 16 / 9;
+  border-radius: 16px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.video-embet {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+.video-image {
+  width: 100%;
+}
+
+.video-btn-play,
+.image {
+  pointer-events: none;
+}
+</style>
+
+<style>
+    .video-wrap {
+      border-radius: 16px;
+      overflow: hidden;
+      margin: 20px 0;
+    }
+
+    .video-box {
+      position: relative;
+      width: 100%;
+      height: 0;
+      overflow: hidden;
+      padding-top: 56.25%;
+    }
+    
+    .video-overlay {
+    	position: absolute;
+      top: 0;
+      left :0;
+      width: 100%;
+      height: 100%;
+      pointer-events: all;
+    }
+
+    .video-wrap video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    
+    
+    .video-wrap .btn-pause {
+      	display: none;
+    }
+
+    .video-wrap .btn-video {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      cursor: pointer;
+      width: 80px;
+    }
+
+    .btn-video svg {
+      transition: all 0.2s ease-in-out;
+      transform: scale(0.90);
+    }
+
+    .btn-video:hover svg {
+      transform: scale(1.05);
+    }
+
+    @media (hover: none) and (pointer: coarse) {
+      .video-wrap .btn-video,
+      .video-wrap .video-overlay {
+        display: none !important;
+      }
+    }
+    
+  </style>
+
+ <!-- BEGIN Slick carousel -->
+  <style>
+    .slick-track {
+      display: flex
+    }
+
+    .slick-list {
+      overflow: visible !important
+    }
+
+    .slick-disabled svg path {
+      stroke: #ccc1b6
+    }
+
+    .slick-prev,
+    .slick-next {
+      width: 40px;
+      height: 40px
+    }
+
+    .slick-prev,
+    .slick-next {
+      top: -66px
+    }
+
+    .slick-prev {
+      right: 62px;
+      left: auto !important
+    }
+
+    .slick-next {
+      right: 5px
+    }
+
+    .slick-prev svg,
+    .slick-next svg {
+      width: 100%
+    }
+
+    .slick-prev svg {
+      transform: rotate(180deg)
+    }
+
+    .slick-next:before,
+    .slick-prev:before {
+      display: none
+    }
+
+    .slick-slide {
+      margin: 0 12px
+    }
+
+    .slick-list {
+      margin: 0 -12px
+    }
+
+    @media only screen and (max-width:768px) {
+
+      .slick-prev,
+      .slick-next {
+        top: -48px
+      }
+    }
+
+    @media only screen and (max-width:750px) {
+
+      .slick-prev,
+      .slick-next {
+        top: -50px
+      }
+    }
+
+    @media only screen and (max-width:479px) {
+
+      .slick-prev,
+      .slick-next {
+        top: -42px
+      }
+    }
+  </style>
+
+
+
+<style>
+    .blog-table-wrap {
+      max-width: 592px;
+      padding: 20px;
+     	margin: 0 auto;
+      border-radius: 8px;
+      background: #f6f4f2;
+    }
+
+    .blog-table {
+      font-family: "Regola Pro";
+      text-align: left;
+      border-collapse: collapse;
+      overflow-x: scroll;
+      white-space: nowrap;
+      display: block;
+      max-width: fit-content;
+    }
+
+    .blog-table thead {
+      font-size: 12px;
+      line-height: 1.25;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .blog-table tbody {
+      font-size: inherit;
+    }
+
+    .blog-table tbody td:not(:last-child) {
+      border-right: 1px solid #d5d5d5;
+    }
+
+    .blog-table thead th:not(:last-child) {
+      border-right: 1px solid #d5d5d5;
+    }
+
+    .blog-table tr:not(:last-child) {
+      font-size: inherit;
+      border-bottom: 1px solid #d5d5d5;
+    }
+
+    .blog-table th,
+    .blog-table td {
+      padding: 16px;
+    }
+
+    .blog-table td {
+      vertical-align: top;
+    }
+
+    .blog-table thead tr {
+      border-bottom: 1px solid #d5d5d5;
+    }
+
+    .blog-table th:first-child,
+    .blog-table td:first-child {
+      padding-left: 0;
+    }
+
+    .blog-table th:last-child,
+    .blog-table td:last-child {
+      padding-right: 0;
+    }
+
+    .pl-0 {
+      padding-left: 0 !important;
+    }
+
+    .pr-0 {
+      padding-right: 0 !important;
+    }
+
+    .blog-table::-webkit-scrollbar {
+      width: 2px;
+    }
+
+    .blog-table::-webkit-scrollbar-thumb {
+      background-color: darkgrey;
+      border-radius: 16px;
+    }
+  </style>
+
+
+<style>
+    /* Calculator Variables */
+    :root {
+      /* Main calculator colors */
+      --calc-bg: #f9f9f7;
+      --calc-text: #1d1e22;
+      --calc-secondary-text: #948981;
+
+      /* Input field styles */
+      --input-bg: #fff;
+      --input-border: #e0e0e0;
+      --input-focus-border: #c0c0c0;
+
+      /* Button styles */
+      --btn-bg: #fff;
+      --btn-border: rgba(148, 137, 129, 0.60);
+      --btn-text: #948981;
+      --btn-active-bg: #E6E4E0;
+      --btn-active-text: #1d1e22;
+
+      /* Result section */
+      --result-text: #f59958;
+
+      /* Spacing and sizing */
+      --border-radius: 8px;
+      --border-radius-large: 20px;
+      --padding-small: 8px;
+      --padding-medium: 16px;
+      --padding-large: 20px;
+
+      /* Typography */
+      --font-small: 14px;
+      --font-medium: 16px;
+      --font-large: 64px;
+    }
+
+
+    @media only screen and (max-width: 768px) {
+      :root {
+        --font-large: 44px;
+      }
+    }
+
+
+    .calculator-wrap {
+      font-family: "Regola Pro";
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px 0;
+    }
+
+    .calculator {
+      width: 100%;
+      max-width: 375px;
+      padding: var(--padding-large) var(--padding-medium);
+      border-radius: var(--border-radius-large);
+      background-color: var(--calc-bg);
+      color: var(--calc-text);
+    }
+
+    .input-group {
+      margin-bottom: 30px;
+    }
+
+    .input-label {
+      display: block;
+      font-size: var(--font-medium);
+      font-weight: 600;
+      color: var(--calc-text);
+      margin-bottom: 10px;
+    }
+
+    .input-wrapper {
+      position: relative;
+    }
+
+    .input-field {
+      width: 100%;
+      padding: 10px var(--padding-medium);
+      border: 1px solid var(--input-border);
+      border-radius: var(--border-radius);
+      background-color: var(--input-bg) !important;
+      font-size: var(--font-medium);
+      color: var(--calc-text);
+      outline: none;
+      transition: border-color 0.2s ease;
+      box-sizing: border-box;
+    }
+
+    .input-field:focus {
+      border-color: var(--input-focus-border);
+    }
+
+    .input-prefix {
+      position: absolute;
+      left: var(--padding-medium);
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--calc-secondary-text);
+      font-size: var(--font-medium);
+    }
+
+    .input-with-prefix {
+      padding-left: 53px;
+    }
+
+    .input-with-percent {
+      padding-left: 35px;
+    }
+
+    .buttons {
+      display: flex;
+      gap: 15px;
+      margin: 40px 0 16px;
+    }
+
+    .btn {
+      flex: 1;
+      padding: var(--padding-small) var(--padding-medium);
+      border-radius: var(--border-radius);
+      font-size: var(--font-small);
+      font-weight: 500;
+      cursor: pointer;
+      line-height: 20px;
+      text-align: center;
+      background-color: var(--btn-bg);
+      border-radius: 6px;
+      border: 1px solid var(--btn-border);
+      transition: background-color 0.2s ease, opacity 0.2s ease;
+      box-sizing: border-box;
+    }
+
+    .btn-secondary {
+      background-color: var(--btn-bg);
+      color: var(--btn-text);
+      border: 1px solid var(--btn-border);
+    }
+
+    .btn-secondary:hover {
+      background-color: #f5f5f5;
+    }
+
+    .btn-secondary:active {
+      background-color: var(--btn-active-bg);
+      border: 1px solid var(--btn-border);
+    }
+
+    .btn-secondary.active {
+      background-color: var(--btn-active-bg);
+      border: 1px solid var(--btn-border);
+      color: var(--btn-active-text);
+    }
+
+    .btn-primary {
+      background-color: var(--btn-bg);
+      color: var(--btn-text);
+      border: 1px solid var(--btn-border);
+    }
+
+    .btn-primary:hover {
+      background-color: #f5f5f5;
+    }
+
+    .btn-primary:active {
+      background-color: var(--btn-active-bg);
+    }
+
+    .btn-primary.active {
+      background-color: var(--calc-text);
+      color: var(--btn-bg);
+      border-color: var(--calc-text);
+    }
+
+    .btn-primary:disabled,
+    .btn-secondary:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .result {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .result-label {
+      font-size: var(--font-medium);
+      font-weight: 600;
+      color: var(--calc-text);
+      margin-bottom: 10px;
+    }
+
+    .result-value {
+      font-size: var(--font-large);
+      line-height: 1.25;
+      font-weight: 400;
+      color: var(--result-text);
+      text-align: center;
+      margin: 0 0 10px;
+    }
+
+    /* Error state for inputs */
+    .input-field.error {
+      border-color: rgba(148, 137, 129, 0.6);
+    }
+
+    .input-wrapper {
+      position: relative;
+    }
+
+    .error-icon {
+      position: absolute;
+      right: var(--padding-medium);
+      top: 50%;
+      transform: translateY(-50%);
+      display: none;
+    }
+
+    .input-field.error~.error-icon {
+      display: block;
+    }
+
+    /* show error icon when field is in error state */
+    /* (error icon already visible via .input-field.error rule) */
+
+    .error-message {
+      color: var(--calc-secondary-text);
+      font-size: 12px;
+      margin-top: 4px;
+      display: none;
+    }
+
+    .input-field.error~.error-message {
+      display: block;
+    }
+
+    /* Required tooltip */
+    .required-tooltip {
+      position: absolute;
+      bottom: -34px;
+      right: 7px;
+      background-color: #1d1e22;
+      color: white;
+      font-size: 14px;
+      line-height: 1.42;
+      padding: 4px 53px;
+      border-radius: 6px;
+      white-space: nowrap;
+      display: none;
+      z-index: 10;
+    }
+
+    /* Tooltip triangle pointer - SVG will be used instead */
+    .required-tooltip::before {
+      display: none;
+    }
+
+    /* Show tooltip when field has error */
+    .input-field.error~.required-tooltip {
+      display: block;
+    }
+
+    .input-field:-webkit-autofill,
+    .input-field:-webkit-autofill:hover,
+    .input-field:-webkit-autofill:focus,
+    .input-field:-webkit-autofill:active {
+      -webkit-box-shadow: 0 0 0 1000px white inset !important;
+      -webkit-text-fill-color: #1d1e22 !important;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+  </style>
+  
+  
+ <style>
+    .testimonial {
+      text-align: left;
+      font-family: "Merriweather";
+      padding: 0 0 0 30px;
+      margin: 20px 0;
+      border-left: solid 1px #d9d9d9;
+    }
+    
+
+    .testimonial img {
+      margin-bottom: 0;
+    }
+
+    .testimonial-quotation-icon {
+      width: 100%;
+      max-width: 20px;
+    }
+
+    .testimonial .testimonial-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      padding: 0;
+    }
+
+    .testimonial .testimonial-info {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: "Regolapro", sans-serif;
+      color: #909090;
+    }
+
+    .testimonial .testimonial-info p {
+      font-size: 14px;
+      line-height: 24px;
+    }
+
+    .testimonial-title p {
+      margin: 0;
+      color: #1d1e22;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 36px;
+      font-style: italic;
+    }
+    
+    .testimonial  .testimonial-title {
+       margin: 0 !important;
+    }
+    
+
+    .testimonial .testimonial-logo {
+      margin: 0 0 0 4px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .testimonial .testimonial-avatar {
+      width: 100%;
+      max-width: 80px;
+      margin: 0;
+    }
+
+    .testimonial .testimonial-info-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+
+    .testimonial .testimonial-info-wrap p {
+      margin: 0;
+    }
+
+    .testimonial .testimonial-clutch {
+      width: 100%;
+      max-width: 100px;
+      border: none;
+    }
+
+    .testimonial-quotation-icon {
+      max-width: 20px;
+    }
+
+    @media screen and (max-width: 479px) {
+      .testimonial {
+        padding: 0 0 0 16px;
+      }
+
+      .testimonial-title p {
+        font-size: 14px;
+        line-height: 22px;
+      }
+
+      .testimonial .testimonial-info p {
+        font-size: 12px;
+        line-height: 22px;
+      }
+    }
+  </style>
+  
+<style>
+  section.blog-faqs-wrap:has(.w-dyn-empty) {
+        display: none;
+   }
+</style></head><body class="body bg-white"><div data-animation="default" data-collapse="small" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="main-header main-header--blog w-nav"><div class="main-header__container main-header__container--blog w-container"><div class="main-header__row"><a href="../index.html" class="main-header__logo w-nav-brand"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" alt="" class="eleken-logo"/></a><nav role="navigation" class="main-header__nav w-nav-menu"><div class="main-header__nav-container"><ul role="list" class="main-header__nav-list"><li class="main-header__nav-list-item"><a href="../cases" class="main-header__nav-link w-nav-link">Case studies</a></li><li class="main-header__nav-list-item"><div data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79801" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Services</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-3"></div><ul role="list" class="main-header__nav-toggle-list w-list-unstyled"><li class="main-header__nav-item-wrap mr-xl-n65 mr-lg-n26 mr-sm-n15"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79809" href="../books/how-eleken-works-clients-guide" class="main-header__useful-links main-header__useful-links-size w-inline-block"><div class="main-header__book-title"><strong class="bold-text-11">How Eleken Works</strong></div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/642163c4aa3918ba44fd88b5_img-header-01.webp" alt="" class="main-header__book-img"/><div class="main-header__book-download"><div class="text-block-24">Download ebook</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="image-869"/></div></a></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Services</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79817" href="../engagement/start-from-scratch-mvp" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design from scratch (MVP)</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7981c" href="../engagement/product-redesign" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Product redesign</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79821" href="../engagement/team-extension" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Team Extension</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">Approach</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7982a" href="../saas-web-design" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">SaaS design</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7982f" href="../ui-ux-design-services" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX design services</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79834" href="../web-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Web design</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79839" href="../ux-audit-service" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">UI/UX audit</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7983e" href="../mobile-app-design" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Mobile design</div></a></li><li class="main-header__nav-dropdown-item mb-sm-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79843" href="../design-system-service" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Design system</div></a></li></ul></li><li class="main-header__nav-item-wrap mt-lg-13"><ul role="list" class="main-header__nav-dropdown-list mt-xl-19 w-list-unstyled"><li class="main-header__nav-dropdown-item-title">SaaS Industries</li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7984c" href="../industries/sales" class="main-header__nav-dropdown-item-link w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/><div class="main-header__nav-dropdown-item-link-text">Sales</div></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79851" href="../industries/fintech" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Fintech</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79856" href="../industries/healthcare" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Healthcare</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7985b" href="../industries/marketing" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Marketing</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79860" href="../industries/ui-ux-design-for-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Data</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d79865" href="../industries/ui-ux-design-for-geospatial-data-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Geoservice</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7986a" href="../industries/ua-ux-design-for-dfp" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">Developer-focused</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li><li class="main-header__nav-dropdown-item mb-0"><a data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7986f" href="../industries/ui-ux-design-for-ai-based-products" class="main-header__nav-dropdown-item-link w-inline-block"><div class="main-header__nav-dropdown-item-link-text">AI</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" alt="" class="main-header__nav-dropdown-item-link-icon"/></a></li></ul></li></ul></div></li><li class="main-header__nav-list-item"><a href="../pricing" class="main-header__nav-link w-nav-link">Pricing</a></li><li class="main-header__nav-list-item"><a href="../about-us" class="main-header__nav-link w-nav-link">About</a></li><li class="main-header__nav-list-item border-bottom-0"><div data-w-id="d865bc6a-80c3-ce64-1bba-10efe1d7987a" class="main-header__nav-dropdown-toggle"><div class="main-header__nav-dropdown-trigger"><div class="main-header__nav-dropdown-toggle-title">Resources</div><img loading="lazy" src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641c642e6ad14fbfb3ca3e15_icon-rectangle.svg" alt="" class="main-header__nav-dropdown-toggle-icon"/></div><div class="main-header__dropdown-divider-1"></div><div class="main-header__nav-toggle-list main-header__nav-toggle-list-resources"><div class="main-header__nav-item-wrap main-header__nav-item-wrap-resources"><div class="main-header__useful-links"><div class="d-flex"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow opacity-0"/><div class="main-header__nav-dropdown-item-title">Featured</div></div><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="to-redesign-or-not-to-redesign-your-product" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>To redesign or not to redesign</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="ux-audit-report-examples-or-best-practices-in-conducting-the-audit" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>Top 3 UX audit report examples</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="how-where-and-when-to-find-a-designer-for-your-saas-app" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to find a designer for SaaS?</div></a></div><div role="listitem" class="main-header__nav-dropdown-item w-dyn-item"><a data-w-id="b958fa3c-8a2b-e42f-20f2-5dfcaee6f90e" href="mvp-benefits-examples-and-myths-around-it" class="main-header__nav-dropdown-item-link main-header__nav-dropdown-item-link--usefull w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/645ca40e9d388531d110d607_icon-arrow-light-06.svg" loading="lazy" alt="" class="menu-icon-arrow"/><div>How to build a minimum viable product</div></a></div></div></div></div></div><div class="main-header__nav-wrap-fluid"><ul role="list" class="main-header__nav-fluid-list w-list-unstyled"><li class="main-header__nav-fluid-item"><a href="../email-courses/product-led-growth" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/641dc21ead39ae3c1555614d_icon-email-course.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Email courses</div></div><p class="main-header__p">A place for SaaS founders to master design fundamentals in 7 days</p></div></a></li><li class="main-header__nav-fluid-item"><a href="../blog/main" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e40dee128cf5885313_icon-blog.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon icon-blog"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Blog</div></div><p class="main-header__p">A selection of fresh insights from the front lines of product design</p></div></a></li><li class="main-header__nav-fluid-item"><a href="../books.1" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e4fa8d903c70c42a35_icon-e-book.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">eBooks</div></div><p class="main-header__p">A comprehensive source of UI/UX wisdom to grow your business</p></div></a></li><li class="main-header__nav-fluid-item"><a href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-header__nav-fluid-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/6421b4e415d617243d4b310e_icon-stories.svg" loading="lazy" alt="" class="main-header__nav-fluid-icon"/><div class="main-header__nav-fluid-item-wrap"><div class="main-header__nav-fluid-link-text"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/63c96524b32e88865175fe41_arrow-white.svg" loading="lazy" alt="" class="main-header__nav-fluid-arrow"/><div class="text-block-23">Story</div></div><p class="main-header__p">How to Choose a UI/UX Design Agency</p></div></a></li></ul></div><div class="main-header__dropdown-divider-2"></div></div></div></li></ul><a href="../contact-us" class="main-header__btn-user d-md-none d-sm-blosk bg-purpule w-button">book a trial</a></div></nav><div class="main-header__btn-burger w-nav-button"><div class="btn-burger-wrap-embet w-embed"><style>
+    .btn-burger-wrap {
+      position: relative;
+      width: 23px;
+      height: 16px;
+
+    }
+
+    .btn-burger-line-1,
+    .btn-burger-line-2,
+    .btn-burger-line-3 {
+      width: 100%;
+      height: 2px;
+      background: #ffffff;
+      position: absolute;
+      border-radius: 20px;
+      transition: all 0.3s ease;
+    }
+
+
+    .btn-burger-line-1 {
+      top: 0;
+    }
+
+    .btn-burger-line-2 {
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+      width: 75%;
+    }
+
+    .btn-burger-line-3 {
+      bottom: 0;
+    }
+
+    .btn-burger-line-2-active {
+      opacity: 0;
+    }
+
+    .btn-burger-line-1-active {
+      top: 49%;
+      transform: rotate(-46deg);
+    }
+
+    .btn-burger-line-3-active {
+      top: 49%;
+      transform: rotate(46deg);
+    }
+  </style>
+
+  <div class="btn-burger-wrap">
+    <div class="btn-burger-line-1"></div>
+    <div class="btn-burger-line-2"></div>
+    <div class="btn-burger-line-3"></div>
+  </div></div></div><a href="../contact-us" class="main-header__btn-user d-sm-none bg-purple button header w-button">Contact us</a></div></div></div><div class="wrapper wrapper--md bg-white"><main><div class="container container--blog"><div class="blog-content-css w-embed"><style>
+.blog-content ul li {
+    position: relative;
+    padding-left: 35px;
+}
+
+.blog-content figcaption {
+	 font-style: normal !important;
+   margin-top: 25px;
+}
+   
+.blog-content ul li:before {
+    content: "";
+    background: url("https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661d24338b07123fa3455bac_icon-arrow-blog-01.svg") center center no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 0;
+    top: 12px;
+    width: 19px;
+    height: 13px;
+}
+
+.blog-content h1,
+.blog-content h2,
+.blog-content h3 {
+ font-family: "Regolapro", sans-serif;
+}
+
+
+.blog-content figure {
+	border-radius: 8px;
+  overflow: hidden;
+}
+   
+
+@media only screen and (max-width: 500px) { 
+  .blog-content ul li {
+      padding-left: 31px;
+  }
+  .blog-content ul li:before {
+      top: 10px;
+  }
+
+  .blog-content figure {
+    border-radius: 6px;
+  }
+}
+</style></div><div class="hero-blog"><div class="blog-header"><div id="w-node-a1483318-f83b-f15b-e5b5-29f52e7cfd0d-edaa8377" class="blog-headings"><div class="blog-heading mr-lg hover-disable"><div>Article</div></div><div class="blog-heading mr-lg hover-disable"><div>Design process</div></div></div><div id="w-node-_090f405e-9c64-462d-bb15-43b64db23e28-edaa8377" class="blog-info content-lg-rigth content-sm-left mb-sm"><p class="mb-0">updated on: </p><p class="mb-0">25 Sep</p><p class="mb-0">,</p><p class="mb-0">2024</p></div><h1 id="w-node-a1483318-f83b-f15b-e5b5-29f52e7cfd14-edaa8377" class="blog-header-title">10 UX Research Tools You&#x27;ll Ever Need, Recommended by Expert Designers</h1><div id="w-node-a1483318-f83b-f15b-e5b5-29f52e7cfd16-edaa8377" class="blog-info"><p class="mb-0">13</p><p class="mb-0">min to read</p></div><div class="blog-info-wrap"></div></div><div class="blog-header-img-wrap"><img rel="preload" loading="eager" fetchpriority="high" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1.png" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ff8f0e8cc318df9453e3_UX%20research%20tools-1.png 960w" class="blog-header-img"/></div><div class="blog-author-wrap"><a href="../author/dana-yatsenko" class="blog-author-md w-inline-block"><img loading="lazy" alt="image" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/602a78e89588fc6813fd4df3_photo_2018-08-03_09-02-16.jpg" class="blog-author-img"/><div class="blog-author-text"><p class="blog-author-name">Dana Yatsenko</p><p class="blog-author">Head of marketing</p></div></a><a href="ux-research-tools#" class="blog-author-md w-inline-block w-condition-invisible"><img loading="lazy" alt="image" src="ux-research-tools" class="blog-author-img w-dyn-bind-empty"/><div class="blog-author-text w-condition-invisible"><p class="blog-author-name w-dyn-bind-empty"></p><p class="blog-author w-dyn-bind-empty"></p></div></a></div></div><div class="content-blog-row"><div class="table-content-wrap"><div class="toc-sticky"><div class="title-sm d-flex position-relative _w-100"><div class="text-block-53">Table of contents</div><div class="titile-sm-line"></div></div><div id="tocNum" class="toc _w-100 tocnum"></div></div></div><div data-w-id="11797e08-fb28-0c73-ee88-16f750706f0c" class="blog-content-container"><div class="wrap-socials"><div class="title-sm"><div>Share</div></div><ul role="list" class="socials-list mt-lg"><li class="socials-list-item"><div class="social-embet-wrap"><div class="w-embed"><a href="https://www.facebook.com/sharer/sharer.php?u=https:ux-research-tools"
+    title="Share on Facebook"
+    target="_blank"
+    class="art-share-url"
+    onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;">
+    <img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661cfde760cfd45d24ff12f8_icon-face.svg" alt="image"> </a></div></div></li><li class="socials-list-item"><div class="social-embet-wrap"><div class="w-embed"><a href="https://twitter.com/intent/tweet?url=https:ux-research-tools"
+    target="_blank"
+    class="art-share-url"
+    title="Share on Twitter"
+    onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20 '  + encodeURIComponent(document.URL)); return false;">
+    <img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661cfdda510b37bcc6793b53_icon-twit.svg" alt="image"> </a></div></div></li><li class="socials-list-item"><div class="social-embet-wrap"><div class="w-embed"><a href="https://www.linkedin.com/shareArticle?mini=true&url=https:ux-research-tools"
+class="art-share-url"
+title="Share on LinkedIn"  
+target="__blank"
+onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;">
+<img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/661cfdda6ffa8c38e03d7dd4_icon-in.svg" alt="image"> </a></div></div></li></ul></div><div class="blog-tldr w-condition-invisible"><h2 class="blog-tldr-titile">TL;DR</h2><p class="w-dyn-bind-empty"></p></div><div id="richtextfield" class="blog-content w-richtext"><p>The 1:10:100 rule, or the cost of bad quality, states that initial research will cost you $1, changes to the design will cost $10 while changing the product – $100. Knowing how expensive any fixes are, companies rely even more heavily on UX research tools. According to the State of User Research, <a href="https://www.userinterviews.com/state-of-user-research-2022-report">82% of respondents</a> use between 4 to 7 research tools monthly. The same survey found that participants used over 200 different software for UX research. With so many options on the market, you may ask how to find the most suitable ones. </p><p>But don’t worry, you’ve come to the right place. <a href="../index.html">Eleken</a> is an agency full of UI/UX designers working for SaaS businesses of all shapes and sizes. We’ve tried dozens of research tools and handpicked the ones that are the most helpful, creative, unique, or exceptional. Below, you will find the top 10 of our favorite user research tools –– hopefully, they will be useful for you, too. And if you’d like to learn more about the UX research process, consider watching the video below.</p><figure style="padding-bottom:56.206088992974244%" class="w-richtext-align-fullwidth w-richtext-figure-type-video"><div><iframe allowfullscreen="true" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/coU-VHH7TQ0" title="Complete Beginner&#x27;s Guide to UX Research Process"></iframe></div></figure><h2>UX analytics and heatmapping software to gather user data</h2><p>Some projects fall into our hands to be designed from scratch, while others require a redesign. For the latter, a <a href="design-audit-example-insights-to-improve-conversion-rates">design audit</a> process is a must since we need to figure out what chunks of the current app work smoothly and what are covered with dust. The analytics and heatmapping tools below always help us gain such insights. </p><h3>Hotjar</h3><p>Hotjar, as our designer Maksym calls it, is a “gold standard in the UX analytics market”. It is a product experience insights and website visualization solution that allows you to not only understand users but also capture the “why” behind their actions. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec109e3e9d7a8d60d42_654202871f59d4f32c7ef591_1.png" loading="lazy" alt="Hotjar dashboard"/></div><figcaption><em>Hotjar dashboard</em></figcaption></figure><p>Hotjar analytics lets you look at users’ behavior and see where they get stuck — those UX problem areas require your attention. You can even run surveys on the spot to collect users’ feedback.</p><p>For example, we used Hotjar when we worked on the <a href="../cases/advan-research">Advan Research</a> project, a geographic information system (GIS) that provides complex geographical data to identify tendencies and patterns of people&#x27;s behavior within a certain location. One of the project goals was to redesign the interface of data analytics. The Advan Research solution had a rather complex interface. Here is how it looked when we got to work on it:</p><figure style="max-width:1449pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6541ffc8139e57f4db8d2591_ay8r84K76_vcKObKuBduOh_JWwf61HtWPpEg_Bxr57Zn-ptge8bnyFdamiSQ-qhyPaO4z675EW5gR2ImuvWwraw3AHnKk91evOejvDJ5_Xqr3mPiZ2afC109ubYDZiT0zAMScbjyKSV0XvCXcWD4CHw.png" loading="lazy" alt="Advan Research before"/></div><figcaption>Advan Research before</figcaption></figure><p>We used Hotjar to record customer behavior patterns, in particular, to study the typical user flows for greater context immersion and to understand users&#x27; tasks. To validate our design solutions during the redesign, we used Hotjar’s Heatmaps, the tool that shows where users move, click, and scroll. As a result of our efforts, Eleken designers detected over 30 flaws in the design that could be fixed to improve UX. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dc6_654202ac78cc4ad9287bc032_2.png" loading="lazy" alt="Advan Research after redesigning"/></div><figcaption><em>Advan Research after redesigning</em></figcaption></figure><p>The Hotjar’s famous heatmaps shows you how users are really experiencing your site without drowning in numbers (this tool perfectly aligns with Google Analytics’ scary quantitative graphs and tables). They are helpful on a wider business scale, showing design teams and clients what’s happening and getting their buy-in when changes are needed.</p><ul role="list"><li>Free trial: Hotjar offers 35 free daily sessions</li><li>Pricing: starts at $39 per month</li></ul><h3>Google Analytics </h3><p>Google Analytics is a web analytics platform used to measure and report on user activity on different Internet-connected devices to better understand customers.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec209e3e9d7a8d60d4c_654203db3e6a6cb349c0fdb3_3.png" loading="lazy" alt="Google Analytics reports"/></div><figcaption>Google Analytics reports</figcaption></figure><p>To improve the overall user experience, at the UX audit step, we want to surface as many trouble spots as possible. For these tasks, using Google Analytics for UX is as indispensable as ever. It helps to understand how long users stay on a website, what pages they visit and what pages they are missing, what are typical user flows, and so on. </p><p>Google Analytics is the first tool our designer Anastasia turns to when starts working on a new project. With its help, Nastia gains valuable insights about the target audience and demographics, as well as user behavior, that help identify pain points and common user patterns. </p><p>Some might argue that Google Analytics for UX designers is overwhelming. Still, if you know what specific information you need and where to find it, it is not exactly as unbearable as it seems. You can check it right now — Google has a <a href="https://support.google.com/analytics/answer/6367342#access&amp;zippy=%2Cin-this-article">demo account</a> that you can access and explore the possibilities of this tool.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dc0_654204080b195e3cf5880b04_4.png" loading="lazy" alt="Google demo account"/></div><figcaption><em>Google demo account</em></figcaption></figure><p>But not all UX designers like Google Analytics. Many of them name the constantly changing nature of Google and frequent updates as the most common frustration that may lead to harder navigation. Yet, Google Analytics is one of the most used tools for UX research that provides a good overview of how users are interacting across devices and platforms.</p><ul role="list"><li>Free trial: a full set of basic features is free</li><li>Pricing: a paid version of Google Analytics, known as Google Analytics 360, starts at $150,000 per year</li></ul><h2>UX documentation tools to manage UX research</h2><p>For designers, the discovery phase of research is the stage of clarifying a lot of things before they start the actual design process. Here are four main questions that usually require attention:</p><ul role="list"><li>Do I understand the business and its goals?</li><li>Do I understand the users and their goals?</li><li>Do I understand the market and competition?</li><li>Do I understand the product, its value, and its features?</li></ul><p>At this step, the research itself boils down to googling and talking to users and stakeholders, so research tools can hardly help here. However, they can be useful for the systematization and visualization of surfaced insights into UX research artifacts.</p><h3>Notion </h3><p><a href="should-your-productivity-tool-also-look-like-notion">Notion</a> is a connected workspace for better productivity and note-taking. For the Eleken team, it has become a command center where we store and constantly update our agency&#x27;s knowledge base. It is a super-flexible tool that helps us organize project documentation, prepare for interviews with either clients or their product users, accumulate feedback, or simply take notes.</p><p>The platform consists of four main blocks:</p><ul role="list"><li><strong>Wikis</strong> that allow you to centralize research and team files into a single place, easily find and edit the data and decisions with convenient filters.</li><li><strong>Docs</strong> to store texts, images, and videos, communicate with the team members and collaborate effectively using flexible building blocks and over 50 content types.</li><li><strong>Projects</strong> to automate team workflows with a timeline, tables, or calendars, filter and sort tasks, and create and visualize dependencies.</li><li><strong>Notion AI</strong> to brainstorm ideas and generate project docs faster. </li></ul><p>The use cases for Notion can go far beyond just managing documentation and creating wikis. Here is a fragment of competitor analysis made in Notion. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec209e3e9d7a8d60d4f_65420452e6105f57df53ea04_5.png" loading="lazy" alt="Competitor analysis in Notion"/></div><figcaption>Competitor analysis in Notion</figcaption></figure><ul role="list"><li>Free trial: free and unlimited for individuals</li><li>Pricing: pricing starts from $8 per member per month for small groups (2+ members)</li></ul><h3>Google Workspace</h3><p>Like any other remote-first company in the world, Eleken uses Google Workspace products, especially Sheets and Docs, for notes, and for some frameworks. </p><p>While most of us have been using Microsoft Office tools for decades to draft everything, from school homework to job reports, Google’s web-based toolkit became a total game-changer. You don’t have to download any software or purchase a suite of programs. Simply log in to your Google account from any browser to create a new document, and that’s it.</p><p>Needless to mention how convenient it is to access your cloud-based docs online, share and edit them within your team. If you&#x27;re a Google user yourself, you have probably tried Google Docs, Slides, Forms, or else. They all don’t cost you a dime, which is pretty awesome. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dc3_654204876ac1a8efd887a951_6.png" loading="lazy" alt="Google Workplace home page"/></div><figcaption><em>Google Workplace home page</em></figcaption></figure><p>While talking about UX research, Google Workplace includes Forms, a survey builder that allows you to create simple and easy-to-use screener surveys and share them with participants. Once the survey is completed, UX researchers can analyze responses with automatic summaries and view charts with response data updates in real time. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec109e3e9d7a8d60d3f_654204b03b3b476e18d55702_7.png" loading="lazy" alt="Google Forms survey results"/></div><figcaption><em>Google Forms survey results</em></figcaption></figure><p>The Forms are already integrated with the Workplace and are totally free. </p><ul role="list"><li>Free trial: free for personal use with basic tools and 14 days of free trial for businesses </li><li>Pricing: Google Workspace starts at $6 per user per month, with extra features and drive storage of 30 GB and 100 participant video meetings</li></ul><h2>Usability testing software to validate product designs</h2><p>When you’ve just designed anything, you’re a little biased. You need someone to tell you the truth about your results. </p><p>Surely, you have your team or your customer, your friends, and your mom, but if you want actual users to test your prototype, you may need tools for user testing, like Maze or Lookback.</p><h3>Maze</h3><p>Maze is a-mazing remote user testing platform for unmoderated tests. With Maze, you can create and run in-depth usability tests and share them with your testers via a link to get actionable insights. Maze also generates a usability study report instantly so that you can share it with anyone.</p><p>Also, it is the only research tool that lets you run usability tests on solutions already in production and measure user deviations from defined successful paths on live sites, features, and flows.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dfe_654204e1b99f59c1780b30f5_8.png" loading="lazy" alt="Maze’s usability test on live website"/></div><figcaption><em>Maze’s usability test on live website</em></figcaption></figure><p>The tool integrates directly with Figma, InVision, Marvel, and Sketch. Thus, you can import a working prototype directly from the design tool you use. According to our designer Maksym, Maze is his top pick for prototype testing precisely because it works so smoothly with Figma.</p><p>Besides unmoderated usability testing, Maze can help with different <a href="what-is-ux-research">UX research methods</a>, like card sorting, tree testing, 5-second testing, A/B testing, and more.</p><ul role="list"><li>Free trial: free for individuals</li><li>Pricing: starts from $99 per month for small teams</li></ul><h3>Lookback</h3><p>Lookback is a user experience research platform great for moderated tests, where you&#x27;re talking to your testers, seeing their reaction to your prototypes, guiding them through the tasks, and getting their feedback in real-time. </p><p>The tool allows you to broadcast your researches and sync all your customer feedback on a collaborative dashboard to share it with your team and stakeholders. The best part is that you can add comments right on the seekback while watching and examining the videos. </p><p>To keep your team in the loop, Lookback includes Virtual Observation Rooms with chat, timestamped notes, and shared insights.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60e01_65420513abbb6c83a7f0b942_9.png" loading="lazy" alt="Lookback projects"/></div><figcaption><em>Lookback projects</em></figcaption></figure><ul role="list"><li>Free trial: 5 free sessions and 60-day free trial</li><li>Pricing: starts at $25 per month for 10 sessions</li></ul><h3>Stark</h3><p>As of now, <a href="accessibility-in-ux-helpful-for-people-beneficial-for-business">accessibility</a> has become a crucial aspect in design as everyone is now aware of accessibility standards and wants to create more accessible solutions. Our designer Julia emphasizes that she likes to use Stark to check readability contrast and the use of colors and design elements in every product, and when working on color palettes for data visualization, simulating colorblindness profiles, and checking the contrast between two layers.  </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dba_65420545b37b344f30a9abc1_10.png" loading="lazy" alt="Comparing color contrasts in Stark"/></div><figcaption><em>Comparing color contrasts in Stark</em></figcaption></figure><p>Stark provides free plugins for Figma, Sketch, Adobe XD, and the like to help designers easily check readability contrast flip between the eight colorblindness profiles, and adjust designs based on this feedback. </p><ul role="list"><li>Free trial: free access to all non-Sidekick tools (Sketch, Figma, Adobe XD, Google Chrome, Firefox, Microsoft Edge, Brave, Safari, and Arc). 14-day free trial for 5-seat minimum</li><li>Pricing: starts at $15 per month for unlimited access to Sidekick, AI assistant, reports, insights, and so on.</li></ul><h2>UX research presentation tools for better collaboration</h2><p>We at Eleken are people who earn a living making brilliant product ideas shine brighter through design. So, we’re pretty obsessed with how to present UX research findings in a favorable light.</p><p>Our research results can take the form of an <a href="how-to-design-a-product-that-meets-psychological-needs-of-users">empathy map</a>, <a href="customer-journey-map-examples-to-get-some-fresh-ideas">customer journey map</a>, <a href="ux-flow-and-its-importance-for-the-design-process">user flow</a>, <a href="defining-your-product-value-proposition-tips-and-examples">value proposition canvas</a>, or similar. To create all those visual artifacts nicely and quickly, sometimes we use Google Slides and Pitch, but most frequently — Miro and Figma. </p><h3>Miro</h3><p>There is a lot of magic in the Miro. If you’re a visual person, like most designers, this app will make the visual parts of your brain shake with delight. We at Eleken love this tool, we even included Miro’s website on the list of our <a href="saas-landing-page-best-practices">favorite landing pages</a>.</p><p>It is a simple and pleasing-to-the-eye collaboration whiteboard that works perfectly as a free-form ideation tool. We use it during the discovery phase of UX research for mood boards, user flows, customer journey maps, <a href="../ux-audit-service">UX audits</a>, competitors and feature analysis. </p><p>Daria, our UI/UX designer and Miro’s advocate, says she prefers this tool for her research because it’s “cut out for making schemes and models, with an ideal balance between default features and flexibility”.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60e04_65420577abbb6c83a7f11131_11.png" loading="lazy" alt="Daria’s customer journey map, made in Miro"/></div><figcaption><em>Daria’s customer journey map, made in Miro</em></figcaption></figure><ul role="list"><li>Free trial: there’s a freemium option that gives you 3 editable boards</li><li>Pricing: for an unlimited number of boards, prices start at $8 per member per month</li></ul><h3>Figma with FigJam</h3><p>Just recently, Figma enabled switching between different accounts and workspaces, and now, everything about Figma is lovely. Everything.</p><p>Since the beginning of (design) time, Photoshop has been a universal design tool. About a decade ago, an interface design community packed up their stuff and migrated from Photoshop to Sketch, a product created specifically for collaborative product design teams. Sketch’s preview feature made it easy to showcase prototypes and get feedback. Sketch&#x27;s autosave feature has given us a sigh of relief. </p><p>A bit later, Figma arrived to revolutionize the way that design teams collaborate one more time. Figma started very similarly to Sketch but with one significant difference — the freemium tier. Later, Figma began adding unique killer features, like live collaboration or the before-mentioned feature for switching between different accounts. </p><p>Much like Google Docs, Figma allows multiple designers to work with a single document, and it’s probably the main reason why Figma clearly surpasses Sketch now.</p><p>We use <a href="figma-developer-handoff-collaborate-like-eleken-designers">Figma for UI/UX design</a>, for drawing illustrations and logos, and for almost everything else. Moreover, we use Figma to present the results of UX research. Those presentations may be shown in a prototype view or saved as PDF sequences.</p><p>In 2021, Figma launched FigJam, a whiteboard tool that makes collaboration even easier with 300+ ready-made templates, including flow charts, customer journey maps, roadmap reviews, project timelines, and so on.</p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60dbd_654205aeadb6f3b9ff27a180_12.png" loading="lazy" alt="FigJam collaboration"/></div><figcaption><em>FigJam collaboration</em></figcaption></figure><ul role="list"><li>Free trial: free for 3 Figma and 3 FigJam files</li><li>Pricing: for an unlimited number of projects, the price starts at $12 per editor per month</li></ul><h3>Timeless pen and notebook</h3><p>It may sound off in the digital age, but many designers still consider pen and paper as their best tool. Our designer Nastia finds it irreplaceable to quickly sketch the idea of the layout of a page or element, especially if it is some kind of non-standard solution from the point of view of UX. It is a go-to when you don&#x27;t want to waste time on &quot;drawing&quot; everything but focus on ensuring that that element or page has convenient and understandable user functionality. And it’s free. </p><figure style="max-width:1280pxpx" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/66f3aec309e3e9d7a8d60e9c_654205d7765eacb96b9d2616_13.png" loading="lazy" alt="Sketches for layouts"/></div><figcaption><em>Sketches for layouts</em></figcaption></figure><h3>UX research tools comparison matrix</h3><p>Now, let’s compare the UX research tools above in terms of their type, features, benefits, and rating on G2.</p><div class="w-embed"><style>
+    .blog-table-wrap {
+      max-width: 592px;
+      padding: 20px;
+     	margin: 0 auto;
+      border-radius: 8px;
+      background: #f6f4f2;
+    }
+
+    .blog-table {
+      font-family: "Regola Pro";
+      text-align: left;
+      border-collapse: collapse;
+      overflow-x: scroll;
+      white-space: nowrap;
+      display: block;
+      max-width: fit-content;
+    }
+
+    .blog-table thead {
+      font-size: 12px;
+      line-height: 1.25;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .blog-table tbody {
+      font-size: inherit;
+    }
+
+    .blog-table tbody td:not(:last-child) {
+      border-right: 1px solid #d5d5d5;
+    }
+
+    .blog-table thead th:not(:last-child) {
+      border-right: 1px solid #d5d5d5;
+    }
+
+    .blog-table tr:not(:last-child) {
+      font-size: inherit;
+      border-bottom: 1px solid #d5d5d5;
+    }
+
+    .blog-table th,
+    .blog-table td {
+      padding: 16px;
+    }
+
+    .blog-table td {
+      vertical-align: top;
+    }
+
+    .blog-table thead tr {
+      border-bottom: 1px solid #d5d5d5;
+    }
+
+    .blog-table th:first-child,
+    .blog-table td:first-child {
+      padding-left: 0;
+    }
+
+    .blog-table th:last-child,
+    .blog-table td:last-child {
+      padding-right: 0;
+    }
+
+    .pl-0 {
+      padding-left: 0 !important;
+    }
+
+    .pr-0 {
+      padding-right: 0 !important;
+    }
+
+    .blog-table::-webkit-scrollbar {
+      width: 2px;
+    }
+
+    .blog-table::-webkit-scrollbar-thumb {
+      background-color: darkgrey;
+      border-radius: 16px;
+    }
+  </style>
+
+<div class="blog-table-wrap">
+      <table class="blog-table">
+        <thead>
+          <tr>
+            <th>UX research tool</th>
+            <th>Type</th>
+            <th>Features</th>
+            <th>Benefits</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Hotjar</td>
+            <td>UX analytics &amp; heatmapping software</td>
+            <td>- Recordings<br>- Heatmaps<br>- Surveys<br>- Interviews</td>
+            <td>- analyzes data at scale &amp; discovers insights faster<br>- visualizes user behavior &amp; survey
+              results<br>- easily integrates with popular apps like Slack, Microsoft Teams, Google Analytics, etc.</td>
+          </tr>
+          <tr>
+            <td>Google Analytics</td>
+            <td>Web analytics platform</td>
+            <td>- Entry &amp; Exit Pages<br>- User Data<br>- Sessions<br>- Standard Event Tracking<br>- Trending<br>-
+              Return<br>- Segmentation</td>
+            <td>- analyzes users flow<br>- allows to understand user behavior<br>- lets identify target audience</td>
+          </tr>
+          <tr>
+            <td>Notion</td>
+            <td>UX documentation tool</td>
+            <td>- Planning<br>- Idea Recommendation<br>- Content Generation<br>- Drag &amp; Drop<br>- Templates</td>
+            <td>- helps organize workspace<br>- improves collaboration &amp; document management<br>- saves time<br>-
+              compatible with many devices</td>
+          </tr>
+          <tr>
+            <td>Google Workplace</td>
+            <td>UX documentation tool</td>
+            <td>- File sharing<br>- Forms<br>- Docs<br>- Sheets<br>- Slides<br>- Chat<br>- Meet</td>
+            <td>- increases collaboration<br>- allows to sharing data with respondents easily<br>- synchronizes files
+              across
+              all connected devices</td>
+          </tr>
+          <tr>
+            <td>Maze</td>
+            <td>Continuous product discovery platform</td>
+            <td>- Surveys<br>- Texts/notes<br>- Analytics <br>- Collaboration <br>- Sorting</td>
+            <td>- integrates directly with Adobe XD, Figma, InVision, Marvel, &amp; Sketch<br>- allows to get actionable
+              insights from usability testing: task analysis, multiple path analysis, heatmaps, A/B testing, guerrilla
+              testing<br>- helps run surveys &amp; collect user feedback early</td>
+          </tr>
+          <tr>
+            <td>Lookback</td>
+            <td>UX research platform for mobile &amp; desktop</td>
+            <td>- Video Snippets</td>
+            <td>- helps capture every detail &amp; nuance of user interviews<br>- creates transcriptions<br>- allows to
+              highlight reels in videos<br>- designed for global, inclusive audience <br>- sessions are recorded in the
+              cloud</td>
+          </tr>
+          <tr>
+            <td>Stark</td>
+            <td>Accessibility compliance tool</td>
+            <td>- Contrast Checker <br>- Color Suggestions over Alt-Text Annotations<br>- Focus Order </td>
+            <td>- offers free plugin for Figma, Sketch, Adobe XD, Chrome, Firefox, etc.<br>- speeds up
+              accessibility<br>workflow<br>- helps check a design’s level of accessibility</td>
+          </tr>
+          <tr>
+            <td>Miro</td>
+            <td>UX research presentation tool</td>
+            <td>- Drawing<br>- Marker Colors<br>- Mind Mapping<br>- Templates<br>- Drag-and-Drop<br>- Voting<br>-
+              Commenting<br>- Sharing<br>- Board Overview</td>
+            <td>- looks like a whiteboard but in the browser<br>- facilitate meetings or workshops<br> - helps in
+              brainstorming &amp; ideation<br>- fosters creativity &amp; idea generation - streamlines project
+              management
+              &amp; progress tracking</td>
+          </tr>
+          <tr>
+            <td>Figma with FigJam</td>
+            <td>Design platform</td>
+            <td>- Feedback &amp; Communication<br>- Framework Libraries<br>- Content Design Tools<br>- User Interface
+              Testing<br>- Collaboration Capabilities<br>- Presentation Integrations</td>
+            <td>- helps mitigate “design drifting”<br>- includes FigJam, online whiteboard similar to Miro<br>- allows
+              for
+              real-time collaboration<br>- easy to use, allows to create multiple versions between formats</td>
+          </tr>
+        </tbody>
+      </table>
+    </div></div><h2>Wrapping up best tools for UX research</h2><p>Your best UX research tools are always with you, and for free. That&#x27;s your ability to think and your ability to talk to users and stakeholders. (Almost) all the rest, called to make your life easier, is available for trial or in a freemium version. So, if you’ve met anything new on our list, why not try now?</p><p>For more on UX research in all its glory, read our in-depth post about the <a href="ux-research-plan-template">UX research process</a> that teaches designers, product owners, and anyone who is not a full-time researcher how to perfectly fit studying activities into your product design context. </p><p>And if you need professional UX research for your project, hire <a href="../contact-us">Eleken UI/UX designers</a>.<br/></p></div></div><div class="author-blog-wrap"><div class="author-card"><div class="author-card-title">written by:</div><img src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/602a78e89588fc6813fd4df3_photo_2018-08-03_09-02-16.jpg" loading="lazy" alt="image" class="author-card-img"/><a href="../author/dana-yatsenko" class="auth-link-page w-inline-block"><div class="author-card-auth-name">Dana Yatsenko</div></a><p class="author-card-bio">CMO at Eleken UI/UX agency, leverages 9 years in marketing and 3 years in design. She helps SaaS startups grow with design through practical UI/UX insights.</p><a href="https://www.linkedin.com/in/bogdana-yatsenko/" target="_blank" class="auth-soc w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66b4dcffba1901efd663ff0f_linkedin-dark.svg" loading="lazy" alt="image" class="author-card-soc"/></a><a href="ux-research-tools#" class="auth-soc w-inline-block w-condition-invisible"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66abb380ddab72c4b8122b31_ux_magazine_logo%203.png" loading="lazy" alt="image" class="author-card-soc"/></a></div><div class="author-card w-condition-invisible"><div class="author-card-title">reviewed by:</div><img src="https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="image" class="author-card-img w-dyn-bind-empty"/><a href="ux-research-tools#" class="auth-link-page w-inline-block"><div class="author-card-auth-name w-dyn-bind-empty"></div></a><p class="author-card-bio w-dyn-bind-empty"></p><a href="ux-research-tools#" class="auth-soc w-inline-block w-condition-invisible"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66abafd6864fe34e92fdebdb_icon-linkedin-03.svg" loading="lazy" alt="image" class="author-card-soc"/></a><a href="ux-research-tools#" class="auth-soc w-inline-block w-condition-invisible"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/66abb380ddab72c4b8122b31_ux_magazine_logo%203.png" loading="lazy" alt="image" class="author-card-soc"/></a></div></div></div><section itemtype="https://schema.org/FAQPage" itemscope="" class="blog-faqs-wrap"><h2 class="h2">Got  questions?</h2><div class="w-dyn-list"><div class="w-dyn-empty"><div>No items found.</div></div></div></section><div class="top-stories-wrap pt-lg"><strong class="h2 h2--blog mb-lg">Top Stories</strong><div class="blog-card-wrap w-dyn-list"><div role="list" class="blog-card-list blog-card-list--gap w-dyn-items"><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="how-to-use-chatgpt-as-a-ux-researcher" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abcdc7fcedae1b5bac8b67_2.%20How%20to%20use%20ChatGPT%20as%20a%20UX%20researcher.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abcdc7fcedae1b5bac8b67_2.%20How%20to%20use%20ChatGPT%20as%20a%20UX%20researcher-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abcdc7fcedae1b5bac8b67_2.%20How%20to%20use%20ChatGPT%20as%20a%20UX%20researcher-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abcdc7fcedae1b5bac8b67_2.%20How%20to%20use%20ChatGPT%20as%20a%20UX%20researcher-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64abcdc7fcedae1b5bac8b67_2.%20How%20to%20use%20ChatGPT%20as%20a%20UX%20researcher.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">How to Use ChatGPT as a UX Researcher: Benefits, Limitations, Examples, and Best Practices</strong><p class="blog-card-text">Learn how to use ChatGPT in the research process and explore examples where ChatGPT can be helpful for UX researchers.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="ux-customer-support" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e35bb57a8f33bab3a686_cover.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e35bb57a8f33bab3a686_cover-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e35bb57a8f33bab3a686_cover-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e35bb57a8f33bab3a686_cover-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a7e35bb57a8f33bab3a686_cover.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">Need User Feedback for Better UX? Customer Support Can Help</strong><p class="blog-card-text">While UX designers are hunting for users’ problems to solve, customer support is sitting on a pile of insights. Learn how you can benefit from these insights. </p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="ux-research-agency" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b97b3f9d6c4201198857b_cover%20(5).png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b97b3f9d6c4201198857b_cover%20(5)-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b97b3f9d6c4201198857b_cover%20(5)-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b97b3f9d6c4201198857b_cover%20(5)-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b97b3f9d6c4201198857b_cover%20(5).png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">Top 19 Best UX Research Agencies to Hire in 2025</strong><p class="blog-card-text">Looking for the best UX research agency? Explore our list of top agencies for 2025 with reviews, and insights to help you find the right research partner.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="5-rules-of-ux-research-interview-questions" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a813dbbdefa2494efcaf65_COVER_How%20to%20Talk%20to%20Users.%205%20Rules%20of%20UX%20Research%20Interview%20Questions.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a813dbbdefa2494efcaf65_COVER_How%20to%20Talk%20to%20Users.%205%20Rules%20of%20UX%20Research%20Interview%20Questions-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a813dbbdefa2494efcaf65_COVER_How%20to%20Talk%20to%20Users.%205%20Rules%20of%20UX%20Research%20Interview%20Questions-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a813dbbdefa2494efcaf65_COVER_How%20to%20Talk%20to%20Users.%205%20Rules%20of%20UX%20Research%20Interview%20Questions-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a813dbbdefa2494efcaf65_COVER_How%20to%20Talk%20to%20Users.%205%20Rules%20of%20UX%20Research%20Interview%20Questions.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">How to Talk to Users. 5 Rules of UX Research Interview Questions</strong><p class="blog-card-text">Are you planning a user interview? Learn top tips and tricks for writing interview questions from professional UX designers.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="user-testing-questions" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6790bec27717edbaf96165ae_transparent-1.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6790bec27717edbaf96165ae_transparent-1-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6790bec27717edbaf96165ae_transparent-1-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6790bec27717edbaf96165ae_transparent-1-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6790bec27717edbaf96165ae_transparent-1.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">53 User Testing Questions to Gain Actionable Insights</strong><p class="blog-card-text">Learn how to craft usability testing questions that align with your goals, avoid biases, and uncover actionable insights with over 50 examples and free templates.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="user-interviews" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c8f2e62e8ea7dad22b678_6687e604b41d7d40c5709bb6_User%2520interviews_%2520How%2520to%2520get%2520the%2520best%2520product%2520insights%2520in%25207%2520steps-1.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c8f2e62e8ea7dad22b678_6687e604b41d7d40c5709bb6_User%2520interviews_%2520How%2520to%2520get%2520the%2520best%2520product%2520insights%2520in%25207%2520steps-1-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c8f2e62e8ea7dad22b678_6687e604b41d7d40c5709bb6_User%2520interviews_%2520How%2520to%2520get%2520the%2520best%2520product%2520insights%2520in%25207%2520steps-1-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c8f2e62e8ea7dad22b678_6687e604b41d7d40c5709bb6_User%2520interviews_%2520How%2520to%2520get%2520the%2520best%2520product%2520insights%2520in%25207%2520steps-1-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/673c8f2e62e8ea7dad22b678_6687e604b41d7d40c5709bb6_User%2520interviews_%2520How%2520to%2520get%2520the%2520best%2520product%2520insights%2520in%25207%2520steps-1.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">User Interviews: How to Get the Best Product Insights in 8 Steps</strong><p class="blog-card-text">Want to get maximum UX insights from user interviews? We cover all whats, whys and hows in this comprehensive guide!</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="web-usability-testing" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67bdae6f6a21dd4c093ad288_cover.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67bdae6f6a21dd4c093ad288_cover-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67bdae6f6a21dd4c093ad288_cover-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67bdae6f6a21dd4c093ad288_cover.png 1004w" class="blog-card-img"/></div><strong class="blog-card-title">How to Conduct Web Usability Testing: A Practical Guide to Improving Your Website</strong><p class="blog-card-text">Want to improve your website’s UX? Discover how to conduct website usability tests, avoid common mistakes, and use data to enhance your product’s usability.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="unmoderated-usability-testing" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67ae26513ebca23ccc453e0d_cover.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67ae26513ebca23ccc453e0d_cover-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67ae26513ebca23ccc453e0d_cover-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67ae26513ebca23ccc453e0d_cover-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/67ae26513ebca23ccc453e0d_cover.png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">Unmoderated Usability Testing Made Simple: A Beginner’s Guide with Tools and Tips</strong><p class="blog-card-text">Learn how to master unmoderated usability testing with this beginner-friendly guide. Explore tools, step-by-step instructions, and practical insights from UX experts.</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="ux-problem-statement-examples" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b805aac6a99a9b5c59552_cover%20(2).png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b805aac6a99a9b5c59552_cover%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b805aac6a99a9b5c59552_cover%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b805aac6a99a9b5c59552_cover%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/680b805aac6a99a9b5c59552_cover%20(2).png 1280w" class="blog-card-img"/></div><strong class="blog-card-title">Defining the UX Problem Statement: What It Is, What It Looks Like, and How to Write One</strong><p class="blog-card-text">Learn practical UX problem statement examples and back them up with actionable steps to define user challenges and guide your design process.
+</p></a></div><div role="listitem" class="blog-card w-dyn-item"><div class="blog-heading ml-lg pos-relative hover-disable"><div>article</div></div><a data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd4" href="master-the-secrets-of-ux-research-without-users-tips-from-designers" class="blog-card-link w-inline-block"><div class="blog-card-img-wrap blog-card-img-wrap--xl"><img alt="image" loading="lazy" data-w-id="a1483318-f83b-f15b-e5b5-29f52e7cfdd6" src="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a8162f7fdfa60a4724f31d_141.%20Master%20the%20Secrets%20of%20UX%20Research%20Without%20Users.png" sizes="100vw" srcset="https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a8162f7fdfa60a4724f31d_141.%20Master%20the%20Secrets%20of%20UX%20Research%20Without%20Users-p-500.png 500w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a8162f7fdfa60a4724f31d_141.%20Master%20the%20Secrets%20of%20UX%20Research%20Without%20Users-p-800.png 800w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a8162f7fdfa60a4724f31d_141.%20Master%20the%20Secrets%20of%20UX%20Research%20Without%20Users-p-1080.png 1080w, https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/64a8162f7fdfa60a4724f31d_141.%20Master%20the%20Secrets%20of%20UX%20Research%20Without%20Users.png 1536w" class="blog-card-img"/></div><strong class="blog-card-title">Master the Secrets of UX Research Without Users. Tips from Designers</strong><p class="blog-card-text">Wondering if UX research without users is possible? In fact, it is. Read this article to learn the most effective methods and tricks!</p></a></div></div></div></div></div></main><footer class="main-footer-2"><div class="main-footer__container main-footer__container--sm"><div class="main-footer__wrapper"><div class="main-footer__left"><div class="main-footer__left-wrap"><a aria-label="main page" href="../index.html" class="main-footer__logo w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/5e8b46679e241c5d4b095331_logo.svg" loading="lazy" alt="" class="main-footer__logo-img"/></a><address class="main-footer__address"><p class="main-footer__address-text">Kyiv, Ukraine, <br/></p><p class="main-footer__address-text d-sm-block">Dehtiarivska str. 33B </p></address></div><div class="main-footer__left-wrap"><address class="main-footer__address"><p class="main-footer__address-text">Eleken Design Ltd<br/></p><p class="main-footer__address-text">920-736 Granville ST<br/></p><p class="main-footer__address-text">Vancouver BC V6Z 1G3<br/></p><p class="main-footer__address-text">Canada<br/></p></address></div></div><div class="main-footer__right"><div class="main-footer__row"><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../engagement/start-from-scratch-mvp" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="../engagement/product-redesign" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="../engagement/team-extension" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Approach</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../saas-web-design" class="main-footer__list-link">SaaS design</a></li><li class="main-footer__list-item"><a href="../ui-ux-design-services" class="main-footer__list-link">UI/UX design services</a></li><li class="main-footer__list-item"><a href="../web-app-design" class="main-footer__list-link">Web design</a></li><li class="main-footer__list-item"><a href="../ux-audit-service" class="main-footer__list-link">UI/UX audit</a></li><li class="main-footer__list-item"><a href="../mobile-app-design" class="main-footer__list-link">Mobile app design</a></li><li class="main-footer__list-item"><a href="../design-system-service" class="main-footer__list-link">Design system</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Company</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../cases" class="main-footer__list-link">Case studies</a></li><li class="main-footer__list-item"><a href="../pricing" class="main-footer__list-link">Pricing</a></li><li class="main-footer__list-item"><a href="../about-us" class="main-footer__list-link">About</a></li><li class="main-footer__list-item"><a href="../blog/main" class="main-footer__list-link">Blog</a></li><li class="main-footer__list-item"><a href="../contact-us" class="main-footer__list-link">Contact us</a></li></ul></div><div class="main-footer__col d-md-none d-sm-block"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong class="bold-text-10">Services</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="ux-research-tools#" class="main-footer__list-link">Design from scratch</a></li><li class="main-footer__list-item"><a href="ux-research-tools#" class="main-footer__list-link">Product redesign</a></li><li class="main-footer__list-item"><a href="ux-research-tools#" class="main-footer__list-link">Team extension</a></li></ul></div><div class="main-footer__col"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>SaaS niches</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../industries/sales" class="main-footer__list-link">Sales</a></li><li class="main-footer__list-item"><a href="../industries/fintech" class="main-footer__list-link">Fintech</a></li><li class="main-footer__list-item"><a href="../industries/healthcare" class="main-footer__list-link">Healthcare</a></li><li class="main-footer__list-item"><a href="../industries/marketing" class="main-footer__list-link">Marketing</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-data-products" class="main-footer__list-link">Data</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-geospatial-data-products" class="main-footer__list-link">Geoservice</a></li><li class="main-footer__list-item"><a href="../industries/ua-ux-design-for-dfp" class="main-footer__list-link">Developer-focused</a></li><li class="main-footer__list-item"><a href="../industries/ui-ux-design-for-ai-based-products" class="main-footer__list-link">AI</a></li></ul></div><div class="main-footer__col d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Email courses</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../email-courses/user-onboarding" class="main-footer__list-link">Create Best SaaS User Onboarding Experience</a></li><li class="main-footer__list-item"><a href="../email-courses/aha-moment" class="main-footer__list-link">How to Spark an Aha Moment</a></li><li class="main-footer__list-item"><a href="../email-courses/how-to-define-and-design-an-mvp" class="main-footer__list-link">How to Define and Design an MVP?</a></li></ul></div><div class="main-footer__col d-sm-flex _w-100"><div class="div-block-1003"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title"><strong>Stories</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../articles/how-to-choose-a-ui-ux-design-agency" class="main-footer__list-link">How to choose an UI/UX Agency</a></li></ul></div><div class="div-block-1004"><div class="main-footer__wrap-list-title mt-lg mt-sm-0"><div class="main-footer__list-title"><strong>Comparison</strong></div><div class="main-footer__list-title-decor"></div></div><ul role="list" class="main-footer__list w-list-unstyled"><li class="main-footer__list-item"><a href="../eleken-vs-toptal" class="main-footer__list-link">Eleken vs Toptal</a></li><li class="main-footer__list-item"><a href="../eleken-vs-in-house-designer" class="main-footer__list-link">Eleken vs. In-house designer</a></li><li class="main-footer__list-item"><a href="../eleken-vs-traditional-agency" class="main-footer__list-link">Eleken vs Traditional Agency</a></li></ul></div></div></div><div class="main-footer__row-vertical d-sm-none"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">eBooks</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/a-non-boring-guide-to-how-ux-research-is-supposed-to-work" class="main-footer__list-link">A Non-Boring Guide to How UX Research Is Supposed to Work</a></li><li class="main-footer__list-item"><a href="../books/the-ux-design-crash-course-for-product-owners" class="main-footer__list-link">The UX Design Crash Course for Product Owners</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-get-along-with-designers-and-work-well-together" class="main-footer__list-link">How to Get Along with Designers and Work Well Together</a></li><li class="main-footer__list-item"><a href="../books/how-eleken-works-clients-guide" class="main-footer__list-link">How We Work: Client&#x27;s Guide</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../books/how-to-succeed-with-your-remote-design-team" class="main-footer__list-link">How to Succeed with Your Remote Design Team</a></li><li class="main-footer__list-item"><a href="../books/improving-your-saas-bottom-line-how-design-affects-your-growth-metrics" class="main-footer__list-link">How Design Impacts Your Growth Metrics</a></li></ul></div></div></div><div class="main-footer__row-vertical mb-0"><div class="main-footer__wrap-list-title"><div class="main-footer__list-title">Policies</div><div class="main-footer__list-title-decor"></div></div><div class="main-footer__list-wrap"><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../editorial-process" class="main-footer__list-link">Editorial Process</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../advertising-policy" class="main-footer__list-link">Advertising policy</a></li></ul></div><div class="main-footer__col"><ul role="list" class="main-footer__list main-footer__list-col w-list-unstyled"><li class="main-footer__list-item"><a href="../team-of-experts" class="main-footer__list-link">Team of Experts</a></li></ul></div></div></div></div></div><div class="main-footer__bottom"><div class="main-footer__bottom-wrap"><p class="main-footer__copy">2023 Copyright Eleken. All rights reserved.</p><ul role="list" class="main-footer__user-llist w-list-unstyled"><li class="main-footer__user-item"><a href="../privacy-policy" class="main-footer__user-link">Privacy</a></li></ul></div><ul role="list" class="main-footer__list-socials w-list-unstyled"><li class="main-footer__list-socials-item"><a aria-label="dribbble" href="https://dribbble.com/eleken" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6d6fed9011b354a63a_icon-dribbble.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="behance" href="https://www.behance.net/elekenagency" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee2e39077fe8d223a_icon-behance.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="youtube" href="https://www.youtube.com/@eleken.agency/videos" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ec14539bbfa770694_icon-youtube.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="facebook" href="https://www.facebook.com/eleken.agency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ce41c11a2661e237a_icon-facebook.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="linkedin" href="https://www.linkedin.com/company/eleken/mycompany/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6ee41c11587f1e23c1_icon-linkedin.svg" loading="lazy" alt=""/></a></li><li class="main-footer__list-socials-item"><a aria-label="instagram" href="https://www.instagram.com/elekenagency/" target="_blank" class="main-footer__list-socials-link w-inline-block"><img src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/64130a6dc145391264770693_icon-Instagram.svg" loading="lazy" alt=""/></a></li></ul></div></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5e8b3356a5a8f5321855bbe7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.6568e74973c68f74.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.8cfd049725a28598.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.schunk.fd1710d95fd296dd.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/5e8b3356a5a8f5321855bbe7/js/eleken.5b4a39d0.f4917ec707b9fffe.js" type="text/javascript"></script><!-- Google Tag Manager [NEW CODE SENT BY DENIS] -->
+<script type="text/javascript" fs-cc-categories="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFSGD9L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- NEW Google Tag Manager (noscript) CODE SENT BY DENIS 👇 -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFSGD9L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Begin microsoft clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "p0ht6b04za");
+</script>
+<!-- End microsoft clarity -->
+
+<!-- Meta Pixel Code -->
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return; n = f.fbq = function () {
+      n.callMethod ?
+      n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+    n.queue = []; t = b.createElement(e); t.async = !0;
+    t.src = v; s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '485203327048064');
+  fbq('track', 'PageView');
+</script>
+<!-- End Meta Pixel Code -->
+
+
+<!-- BEGIN Meta Pixel Code 2 -->
+<script>!function () {var reb2b = window.reb2b = window.reb2b || [];if (reb2b.invoked) return;reb2b.invoked = true;reb2b.methods = ["identify", "collect"];reb2b.factory = function (method) {return function () {var args = Array.prototype.slice.call(arguments);args.unshift(method);reb2b.push(args);return reb2b;};};for (var i = 0; i < reb2b.methods.length; i++) {var key = reb2b.methods[i];reb2b[key] = reb2b.factory(key);}reb2b.load = function (key) {var script = document.createElement("script");script.type = "text/javascript";script.async = true;script.src = "https://s3-us-west-2.amazonaws.com/b2bjsstore/b/" + key + "/reb2b.js.gz";var first = document.getElementsByTagName("script")[0];first.parentNode.insertBefore(script, first);};reb2b.SNIPPET_VERSION = "1.0.1";reb2b.load("ZQOQRJH25262");}();</script>
+<!-- END Meta Pixel Code 2 -->
+
+<!-- Ortto eleken capture code -->
+<script async type="text/javascript" fs-cc-categories="marketing">
+    window.ap3c = window.ap3c || {};
+    var ap3c = window.ap3c;
+    ap3c.cmd = ap3c.cmd || [];
+    ap3c.cmd.push(function() {
+        ap3c.init('Y2ud8yly673x38EDZWxla2Vu', 'https://capture-api.autopilotapp.com/');
+        ap3c.track({v: 0});
+    });
+    ap3c.activity = function(act) { ap3c.act = (ap3c.act || []); ap3c.act.push(act); };
+    var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn2l.ink/app.js";
+    t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  _linkedin_partner_id = "4526676";
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script async type="text/javascript" fs-cc-categories="marketing, analytics">
+  (function (l) {
+    if (!l) {
+      window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+      window.lintrk.q = []
+    }
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript"; b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+  })(window.lintrk);
+</script>
+
+<script defer type="text/javascript">
+  window.lintrk('track', { conversion_id: 11306884 });
+
+  function sendLinkedInConversion() {
+    _linkedin_partner_id = "4526676";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    (function (l) {
+      if (!l) {
+        window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+        window.lintrk.q = []
+      }
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript"; b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  }
+
+  const targetId = "selected-_7z7hcxx78";
+
+  const observer = new MutationObserver(function (mutationsList) {
+    for (let mutation of mutationsList) {
+
+      if (mutation.type === "childList" && mutation.addedNodes.length > 0) {
+        const addedNodes = Array.from(mutation.addedNodes);
+        for (let node of addedNodes) {
+          if (node.nodeType === Node.ELEMENT_NODE && node.id === targetId) {
+            sendLinkedInConversion();
+            window.lintrk('track', { conversion_id: 11306884 });
+            fbq('track', 'CompleteRegistration');
+            fbq('track', 'Lead');
+          }
+        }
+      }
+    }
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+</script>
+
+<!-- Vector.co Tracking Pixel [Added for analytics/remarketing] -->
+<script>
+    !function(e,r){try{if(e.vector)return void console.log("Vector snippet included more than once.");var t={};t.q=t.q||[];for(var o=["load","identify","on"],n=function(e){return function(){var r=Array.prototype.slice.call(arguments);t.q.push([e,r])}},c=0;c<o.length;c++){var a=o[c];t[a]=n(a)}if(e.vector=t,!t.loaded){var i=r.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://cdn.vector.co/pixel.js";var l=r.getElementsByTagName("script")[0];l.parentNode.insertBefore(i,l),t.loaded=!0}}catch(e){console.error("Error loading Vector:",e)}}(window,document);
+    vector.load("6bfb1fdc-dea3-42ad-9cd1-7bd07539c7a7");
+</script>
+
+
+<script defer type="text/javascript">
+
+function addCheckboxListener() {
+  const checkboxFS = document.querySelectorAll(".w-checkbox-input");
+  checkboxFS.forEach((el) => {
+    const label = el.parentNode;
+    el.addEventListener("change", function () {
+      if (el.checked) {
+        label.classList.add('fs-cc-active-checkbox');
+      } else {
+        label.classList.remove('fs-cc-active-checkbox');
+      }
+    });
+  });
+}
+
+addCheckboxListener();
+
+  function removeTransformOnResize() {
+    const nav = document.querySelector('.main-header__nav');
+    const screenWidth = window.innerWidth;
+
+    if (screenWidth >= 768) {
+      nav.style.transform = '';
+    } else {
+      nav.style.transform = 'translateY(0px) translateX(0px)';
+    }
+  }
+
+  window.addEventListener('resize', removeTransformOnResize);
+
+  const headers = document.querySelectorAll('.main-header');
+  let lastScrollPosition = 0;
+
+  function handleScroll(elements) {
+    const currentScrollPosition = window.pageYOffset;
+    const scrollDifference = currentScrollPosition - lastScrollPosition;
+
+    for (let i = 0; i < elements.length; i++) {
+      const el = elements[i];
+
+      if (currentScrollPosition > 50) {
+        if (scrollDifference > 0) {
+          el.style.opacity = '0';
+          el.style.top = '-15%';
+        } else {
+          el.style.opacity = '1';
+          el.style.top = '16px';
+        }
+      } else {
+        el.style.opacity = '1';
+        el.style.top = '16px';
+      }
+    }
+
+    lastScrollPosition = currentScrollPosition;
+  }
+
+  window.addEventListener('scroll', function () {
+    handleScroll(headers);
+  });
+
+  function btnToggle() {
+    const btns = document.querySelectorAll('.btn-burger-wrap');
+
+    btns.forEach(btn => {
+      const line1 = btn.querySelector('.btn-burger-line-1');
+      const line2 = btn.querySelector('.btn-burger-line-2');
+      const line3 = btn.querySelector('.btn-burger-line-3');
+
+      function toggleBtn() {
+        line1.classList.toggle('btn-burger-line-1-active');
+        line2.classList.toggle('btn-burger-line-2-active');
+        line3.classList.toggle('btn-burger-line-3-active');
+      }
+
+      btn.addEventListener('click', toggleBtn);
+
+      const mediaQuery = window.matchMedia('(min-width: 768px)');
+      function handleTabletChange(e) {
+        if (e.matches) {
+          line1.classList.toggle('btn-burger-line-1-active', false);
+          line2.classList.toggle('btn-burger-line-2-active', false);
+          line3.classList.toggle('btn-burger-line-3-active', false);
+        }
+      }
+      mediaQuery.addListener(handleTabletChange);
+    });
+  }
+
+  btnToggle();
+</script>
+
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const gclid = params.get('gclid');
+  
+  if (gclid && gclid.length >= 20 && gclid.match(/^[a-zA-Z0-9_-]+$/)) {
+    localStorage.setItem('gclid', gclid);
+  }
+})();
+
+document.addEventListener("DOMContentLoaded", function() {
+  const gclidFields = document.querySelectorAll('input[name="gclid"]');
+  const savedGclid = localStorage.getItem('gclid') || '';
+  
+  gclidFields.forEach(function(field) {
+    field.value = savedGclid;
+  });
+});
+</script>
+<!-- swiper.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js" integrity="sha512-Ysw1DcK1P+uYLqprEAzNQJP+J4hTx4t/3X2nbVwszao8wD+9afLjBQYjz7Uk4ADP+Er++mJoScI42ueGtQOzEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<!-- medium-zoom.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.1.0/medium-zoom.min.js" integrity="sha512-9ZKhgaFdKlsELap/dGw3Iaz5Bj+Las0XXZiRKYZaN9QArg6FtkD5rULNmNH4rTCTFxjPiBGr3MX8smRADRorDA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- BEGIN minify wrap-slider-blog-->
+<script>
+document.addEventListener("DOMContentLoaded",()=>{const wrapSliderBlogElements=document.querySelectorAll('.wrap-slider-blog');wrapSliderBlogElements.forEach((wrapSliderBlog)=>{const htmlContent=wrapSliderBlog.innerHTML;const minifiedHTML=htmlContent.replace(/>\s+</g,'><').replace(/\s+/g,' ').replace(/&nbsp;/g,' ').trim();wrapSliderBlog.innerHTML=minifiedHTML;});});
+</script>
+<!--END minify wrap-slider-blog-->
+
+<!-- BEGIN Toc-------------------- -->
+  <script defer>
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const smoothScrollLinks = document.querySelectorAll('.tocitem');
+
+      smoothScrollLinks.forEach(link => {
+        link.addEventListener('click', smoothScroll);
+      });
+
+      function smoothScroll(e) {
+        e.preventDefault();
+        const targetId = this.getAttribute("href");
+        const targetElement = document.querySelector(targetId);
+
+        if (targetElement) {
+          const lazyImages = targetElement.querySelectorAll('img[loading="lazy"]');
+          if (lazyImages.length > 0) {
+
+            const lazyImagesLoaded = Array.from(lazyImages).map(img => {
+              return new Promise(resolve => {
+                if (img.complete) {
+                  resolve();
+                } else {
+                  img.addEventListener('load', resolve);
+                  img.addEventListener('error', resolve); 
+                }
+              });
+            });
+
+            Promise.all(lazyImagesLoaded).then(() => {
+              scrollToTarget(targetElement, 3000);
+            });
+          } else {
+            scrollToTarget(targetElement, 3000);
+          }
+        }
+      }
+
+      function scrollToTarget(target, duration) {
+        const targetPosition = target.getBoundingClientRect().top;
+        const startPosition = window.pageYOffset;
+        const distance = targetPosition - startPosition;
+        let startTime = null;
+
+        function animation(currentTime) {
+          if (startTime === null) startTime = currentTime;
+          const timeElapsed = currentTime - startTime;
+          const run = ease(timeElapsed, startPosition, distance, duration);
+          window.scrollTo(0, run);
+          if (timeElapsed < duration) requestAnimationFrame(animation);
+        }
+
+        function ease(t, b, c, d) {
+          t /= d / 2;
+          if (t < 1) return c / 2 * t * t + b;
+          t--;
+          return -c / 2 * (t * (t - 2) - 1) + b;
+        }
+
+        requestAnimationFrame(animation);
+      }
+    });
+
+
+
+    const observerToc = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        const id = entry.target.getAttribute("id");
+        if (entry.isIntersecting) {
+          document.querySelectorAll(".tocitem.active-toc").forEach(z => {
+            z.classList.remove("active-toc");
+          });
+          const activeLink = document.querySelector(`a[href="#${id}"]`);
+          if (activeLink) activeLink.classList.add("active-toc");
+        }
+      });
+    }, { rootMargin: '0px 0px -75% 0px' });
+
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const headings = document.getElementById("richtextfield").querySelectorAll("h2");
+
+      const unorderedList = document.createElement("ul");
+
+
+      headings.forEach((heading) => {
+        observerToc.observe(heading);
+
+
+        const headingId = heading.textContent.trim().toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+        heading.setAttribute("id", headingId);
+
+
+        const listItem = document.createElement("li");
+        const linkItem = document.createElement("a");
+
+
+        linkItem.textContent = heading.textContent.trim();
+        linkItem.classList.add("tocitem");
+        linkItem.setAttribute("href", `#${headingId}`);
+
+        listItem.appendChild(linkItem);
+        unorderedList.appendChild(listItem);
+      });
+
+      document.getElementById("tocNum").appendChild(unorderedList);
+    });
+</script>
+ <!-- END Toc-------------------- -->
+  
+<script>
+// Function to remove lazy loading from images
+function removeLazyLoading() {
+  const lazyImages = document.querySelectorAll('figure img[loading="lazy"]');
+  lazyImages.forEach(img => img.removeAttribute('loading'));
+}
+
+// Function to remove rel attributes from specific links
+function removeRelAttributes() {
+  const specificLinks = [
+    'https://elements.envato.com/learn/illustration-styles-and-trends',
+    'https://www.storydoc.com/blog/pitch-deck-examples',
+    'https://recruiterflow.com/blog/best-recruitment-crm-software/',
+    'https://www.emailchaser.com/learn/cold-email-template-for-saas',
+    'https://digitalogy.co/blog/best-free-wireframe-tools-for-ux-designers/',
+    'https://senlainc.com/blog/what-is-mvp-in-software-development',
+    'https://www.feathery.io/blog/customer-onboarding-metrics',
+    'https://blog.internxt.com/free-cloud-storage/',
+    'https://elearningindustry.com/advertise/elearning-marketing-resources/blog/email-marketing-solutions-best-business-how-to-choose',
+    'https://elearningindustry.com/advertise/elearning-marketing-resources/blog/accelerate-business-growth-marketing-operations-tips-for-managers',
+    'https://www.daytranslations.com/blog/top-5-benefits-of-product-localization/',
+    'https://sleek.com/au/resources/how-to-start-cleaning-business-australia-right-for-you/',
+    'https://customers.ai/blog/customer-journey-mapping',
+    'https://www.prepostseo.com/grammar-checker',
+    'https://www.adobe.com/express/feature/image/editor',
+    'https://ltd-companies.co.uk/setting-up-a-ltd-company/'
+  ];
+
+  const selector = specificLinks.map(url => `a[href="${url}"]`).join(',');
+  const links = document.querySelectorAll(selector);
+
+  links.forEach(link => link.removeAttribute('rel'));
+}
+
+
+function updateLinkAttributes() {
+  const noFollowLinks = document.querySelectorAll('a[href]:not([href*="eleken"])');
+  const menuItems = document.querySelectorAll('a[href*="category"]');
+
+  noFollowLinks.forEach(link => {
+    link.setAttribute('rel', (link.getAttribute('rel') || '') + ' nofollow');
+  });
+
+  menuItems.forEach(item => {
+    item.setAttribute('rel', (item.getAttribute('rel') || '') + ' nofollow');
+  });
+}
+
+
+function initializeMediumZoom() {
+  const windowWidth = window.innerWidth;
+  let images;
+  let zoomOptions;
+
+  if (windowWidth > 991) {
+    images = Array.from(document.querySelectorAll(".blog-content img:not(.video-image)"));
+    zoomOptions = {
+      margin: 0,
+      background: "#fff",
+      scrollOffset: 40,
+      container: {
+        top: 100,
+        right: 150,
+        left: 150,
+        bottom: 100,
+      },
+      template: null
+    };
+  } else {
+    images = Array.from(document.querySelectorAll(".blog-content img:not(.video-image):not(.slider-blog-image)"));
+    zoomOptions = {
+      margin: 0,
+      background: "#fff",
+      scrollOffset: 0,
+      container: null,
+      template: null
+    };
+  }
+
+  images.forEach(img => {
+    mediumZoom(img, zoomOptions);
+  });
+}
+
+function removeMarginTopFromElements() {
+  const wrap = document.querySelector('.blog-content');
+  const elems = wrap.querySelectorAll('h2, figure, blockquote');
+
+  elems.forEach(function (el) {
+    if (!el.previousElementSibling) {
+      el.style.marginTop = '0';
+    }
+
+    if (el.previousElementSibling &&
+      (el.previousElementSibling.tagName.toLowerCase() === 'figure' ||
+        el.previousElementSibling.tagName.toLowerCase() === 'blockquote')) {
+      el.style.marginTop = '0';
+    }
+  });
+}
+
+function adjustVideoLinkMargins() {
+  const embeds = document.querySelectorAll('.w-embed');
+
+  embeds.forEach(embed => {
+    const videoLink = embed.querySelector('.video-link');
+    const nextElement = embed.nextElementSibling;
+
+    if (videoLink && nextElement && nextElement.tagName === 'H2') {
+      videoLink.style.marginBottom = '0';
+    }
+  });
+}
+
+function initializeBlogCardSlider() {
+  $('.blog-card-list').slick({
+    infinite: false,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    arrows: true,
+    nextArrow: '<button type="button" id="slider-next" class="slick-next" aria-label="next"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+    prevArrow: '<button type="button" id="slider-prev" class="slick-prev" aria-label="prev"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="20" cy="20" r="19.5" stroke="#737373"/><path d="M12 20.075L27 20.075M20.5904 13.832L27 20.082L20.5904 26.332" stroke="#737373"/></svg></button>',
+    responsive: [
+      {
+        breakpoint: 769,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 568,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          centerMode: true,
+          centerPadding: '10px',
+        }
+      }
+    ]
+  });
+}
+
+function initializeBlogSliders() {
+  const wrappers = document.querySelectorAll('.wrap-slider-blog');
+
+  wrappers.forEach(wrapper => {
+    const swiperElement = wrapper.querySelector('.swiper');
+    const paginationElement = swiperElement.querySelector('.swiper-pagination');
+    const nextButton = wrapper.querySelector('.swiper-button-next');
+    const prevButton = wrapper.querySelector('.swiper-button-prev');
+
+    new Swiper(swiperElement, {
+      slidesPerView: 1,
+      spaceBetween: 0,
+      pagination: {
+        el: paginationElement,
+        clickable: true,
+      },
+      navigation: {
+        nextEl: nextButton,
+        prevEl: prevButton,
+      },
+    });
+  });
+}
+
+function hideEmptyTopStories() {
+  const authSections = document.querySelectorAll('.top-stories-wrap');
+
+  authSections.forEach((item) => {
+    const blogCard = item.querySelector('.blog-card');
+
+    if (!blogCard) {
+      item.style.display = 'none';
+    }
+  });
+}
+
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+}
+
+
+function handleResize() {
+  initializeMediumZoom();
+  removeMarginTopFromElements();
+}
+
+
+// Initialize when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+  removeLazyLoading();
+  removeRelAttributes();
+  updateLinkAttributes();
+  initializeMediumZoom();
+  removeMarginTopFromElements();
+  adjustVideoLinkMargins();
+  initializeBlogSliders();
+  hideEmptyTopStories();
+});
+
+$(document).ready(initializeBlogCardSlider);
+
+const debouncedHandleResize = debounce(handleResize, 250);
+
+window.addEventListener('resize', debouncedHandleResize);
+
+</script>
+
+<script defer>
+function videoPlayer() {
+    const videoContainers = document.querySelectorAll('.video-wrap');
+    let currentlyPlayingVideo = null;
+
+    videoContainers.forEach(container => {
+        const video = container.querySelector('.video');
+        const playButton = container.querySelector(".btn-play");
+        const pauseButton = container.querySelector(".btn-pause");
+        const videoOverlay = container.querySelector(".video-overlay");
+
+        let isFirstClick = true;
+        let hideTimeout;
+
+        playButton.style.display = "block";
+        pauseButton.style.display = "none";
+        
+        video.setAttribute("controlslist", "nodownload");
+
+
+        function togglePlay() {
+            if (currentlyPlayingVideo && currentlyPlayingVideo !== video) {
+                currentlyPlayingVideo.pause();
+                currentlyPlayingVideo.parentElement.querySelector('.btn-play').style.display = 'block';
+                currentlyPlayingVideo.parentElement.querySelector('.btn-pause').style.display = 'none';
+            }
+
+            if (isFirstClick) {
+                video.currentTime = 0;
+                video.muted = false;
+                video.play();
+                isFirstClick = false;
+                currentlyPlayingVideo = video;
+                hideOverlay();
+            } else {
+                if (video.paused || video.ended) {
+                    video.muted = false;
+                    video.play();
+                    currentlyPlayingVideo = video;
+                } else {
+                    video.pause();
+                }
+            }
+
+            updateButtons();
+        }
+
+        function updateButtons() {
+            if (video.paused || video.ended) {
+                playButton.style.display = "block";
+                pauseButton.style.display = "none";
+            } else {
+                playButton.style.display = "none";
+                pauseButton.style.display = "block";
+            }
+        }
+
+        function showButton() {
+            if (!video.paused && !isFirstClick) {
+                pauseButton.style.display = "block";
+            }
+            clearTimeout(hideTimeout);
+            hideTimeout = setTimeout(() => {
+                if (!video.paused && !isFirstClick && !pauseButton.matches(':hover')) {
+                    pauseButton.style.display = "none";
+                }
+            }, 2500);
+        }
+
+        function hideButton(e) {
+            if (!container.contains(e.relatedTarget) && !video.paused && !isFirstClick) {
+                pauseButton.style.display = "none";
+            }
+        }
+
+        function resetHideTimeout(e) {
+            if (!pauseButton.matches(':hover')) {
+                showButton();
+            }
+        }
+
+        function nativeControlListener() {
+            if (!isFirstClick) {
+                updateButtons();
+                showButton();
+            }
+        }
+
+        function hideOverlay() {
+            if (videoOverlay) {
+                videoOverlay.style.display = 'none';
+            }
+        }
+
+        playButton.addEventListener("click", togglePlay);
+        pauseButton.addEventListener("click", togglePlay);
+
+        video.addEventListener("play", nativeControlListener);
+        video.addEventListener("pause", nativeControlListener);
+        video.addEventListener("ended", nativeControlListener);
+
+        container.addEventListener("mouseover", showButton);
+        container.addEventListener("mouseout", hideButton);
+        container.addEventListener("mousemove", resetHideTimeout);
+
+        pauseButton.addEventListener("mouseover", showButton);
+        pauseButton.addEventListener("mouseout", hideButton);
+    });
+}
+
+
+  document.addEventListener("DOMContentLoaded", () => {
+    videoPlayer();
+  });
+ </script>
+ 
+ <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // ========== UTILITY FUNCTIONS ==========
+      // Remove spaces and commas, convert to float
+      const cleanNumber = str => {
+        const sanitized = (str || '').replace(/[, ]+/g, '');
+        return sanitized === '' ? NaN : parseFloat(sanitized);
+      };
+
+      // Convert percentage to decimal, return NaN if outside 0-100
+      const percentToDecimal = str => {
+        const num = cleanNumber(str);
+        return num >= 0 && num <= 100 ? num / 100 : NaN;
+      };
+
+      // Validate currency input
+      const validateCurrency = input => {
+        const num = cleanNumber(input.value);
+        toggleError(input, isNaN(num) || num < 0);
+        return !isNaN(num) && num >= 0;
+      };
+
+      // Validate percentage input
+      const validatePercent = input => {
+        const num = cleanNumber(input.value);
+        toggleError(input, isNaN(num) || num < 0 || num > 100);
+        return !isNaN(num) && num >= 0 && num <= 100;
+      };
+
+      // Validate positive integer
+      const validatePositiveNumber = input => {
+        const num = cleanNumber(input.value);
+        toggleError(input, isNaN(num) || num < 0);
+        return !isNaN(num) && num >= 0;
+      };
+
+      // Toggle error state on input
+      const toggleError = (input, hasError) => {
+        if (input) {
+          input.classList.toggle('error', hasError);
+        }
+      };
+
+      // ========== CALCULATOR BASE CLASS ==========
+      class Calculator {
+        constructor(config) {
+          this.inputs = {};
+          this.buttons = {};
+          this.result = null;
+          this.config = config;
+          this.initialize();
+        }
+
+        initialize() {
+          // Get all DOM elements
+          this.config.inputs.forEach(({ id, type }) => {
+            const element = document.getElementById(id);
+            if (element) {
+              this.inputs[id] = { element, type };
+            }
+          });
+
+          // Get buttons - calculate button is optional
+          if (this.config.calculateBtnId) {
+            this.buttons.calculate = document.getElementById(this.config.calculateBtnId);
+          }
+          this.buttons.reload = document.getElementById(this.config.reloadBtnId);
+          this.result = document.getElementById(this.config.resultId);
+
+          // Only setup if all elements exist
+          if (this.hasAllElements()) {
+            this.setupListeners();
+            this.reset();
+          }
+        }
+
+        hasAllElements() {
+          const hasInputs = Object.keys(this.inputs).length === this.config.inputs.length;
+          const hasReloadButton = this.buttons.reload;
+          const hasResult = this.result;
+          // Calculate button is optional (for simplified calculators)
+          return hasInputs && hasReloadButton && hasResult;
+        }
+
+        setupListeners() {
+          // Input listeners
+          Object.values(this.inputs).forEach(({ element, type }) => {
+            element.addEventListener('input', () => {
+              this.updateButtons();
+            });
+            element.addEventListener('blur', () => {
+              this.validateInput(element, type);
+              this.updateButtons();
+            });
+          });
+
+          // Button listeners
+          if (this.buttons.calculate) {
+            this.buttons.calculate.addEventListener('click', () => this.calculate());
+          }
+          this.buttons.reload.addEventListener('click', () => this.reset());
+          
+          // Reload button visual feedback
+          this.buttons.reload.addEventListener('mousedown', () => {
+            this.buttons.reload.classList.add('active');
+          });
+          ['mouseup', 'mouseout'].forEach(evt => {
+            this.buttons.reload.addEventListener(evt, () => {
+              this.buttons.reload.classList.remove('active');
+            });
+          });
+        }
+
+        validateInput(element, type) {
+          switch (type) {
+            case 'currency':
+              return validateCurrency(element);
+            case 'percent':
+              return validatePercent(element);
+            case 'number':
+              return validatePositiveNumber(element);
+            default:
+              return false;
+          }
+        }
+
+        updateButtons() {
+          this.updateReloadButton();
+          this.updateCalculateButton();
+        }
+
+        updateReloadButton() {
+          const anyFilled = Object.values(this.inputs).some(
+            ({ element }) => element.value.trim()
+          );
+          this.buttons.reload.classList.toggle('active', anyFilled);
+        }
+
+        updateCalculateButton() {
+          // Only update calculate button if it exists
+          if (this.buttons.calculate) {
+            const allValid = Object.values(this.inputs).every(
+              ({ element, type }) => this.validateInput(element, type)
+            );
+            this.buttons.calculate.disabled = !allValid;
+            this.buttons.calculate.classList.toggle('active', allValid);
+          }
+        }
+
+        reset() {
+          Object.values(this.inputs).forEach(({ element }) => {
+            element.value = '';
+            element.classList.remove('error');
+          });
+          this.result.textContent = '';
+          
+          // Only update calculate button if it exists
+          if (this.buttons.calculate) {
+            this.buttons.calculate.disabled = true;
+            this.buttons.calculate.classList.remove('active');
+          }
+          
+          this.updateReloadButton();
+        }
+
+        calculate() {
+          // To be implemented by subclasses
+        }
+      }
+
+      // ========== LTV CALCULATOR ==========
+      class LTVCalculator extends Calculator {
+        calculate() {
+          const arpu = cleanNumber(this.inputs.arpu.element.value);
+          const churn = percentToDecimal(this.inputs.churn.element.value);
+          const grossMargin = percentToDecimal(this.inputs['gross-margin'].element.value);
+
+          if (Number.isNaN(arpu) || Number.isNaN(churn) || Number.isNaN(grossMargin)) {
+            this.result.textContent = 'Enter valid values';
+            return;
+          }
+          if (churn === 0) {
+            this.result.textContent = 'Churn cannot be 0%';
+            return;
+          }
+
+          const ltv = (arpu * grossMargin) / churn;
+          this.result.textContent = `$${ltv.toLocaleString('en-US', {
+            minimumFractionDigits: 2,
+            maximumFractionDigits: 2
+          })}`;
+        }
+      }
+
+      // ========== CAC CALCULATOR ==========
+      class CACCalculator extends Calculator {
+        calculate() {
+          const costMarketing = cleanNumber(this.inputs['cost-marketing'].element.value);
+          const costSales = cleanNumber(this.inputs['cost-sales'].element.value);
+          const newCustomers = cleanNumber(this.inputs['new-customers'].element.value);
+
+          if (Number.isNaN(costMarketing) || Number.isNaN(costSales) || Number.isNaN(newCustomers)) {
+            this.result.textContent = 'Enter valid values';
+            return;
+          }
+          if (newCustomers === 0) {
+            this.result.textContent = 'Number of customers cannot be 0';
+            return;
+          }
+
+          const cac = (costMarketing + costSales) / newCustomers;
+          this.result.textContent = `$${cac.toLocaleString('en-US', {
+            minimumFractionDigits: 2,
+            maximumFractionDigits: 2
+          })}`;
+        }
+      }
+
+      // ========== CHURN RATE CALCULATOR ==========
+      class ChurnRateCalculator extends Calculator {
+        setupListeners() {
+          // Input listeners for automatic calculation
+          Object.values(this.inputs).forEach(({ element, type }) => {
+            element.addEventListener('input', () => {
+              this.autoCalculateAndDisplay();
+              this.updateButtons();
+            });
+            element.addEventListener('blur', () => {
+              this.validateInput(element, type);
+              this.updateButtons();
+            });
+          });
+
+          // Only reload button listener
+          this.buttons.reload.addEventListener('click', () => this.reset());
+          
+          // Reload button visual feedback
+          this.buttons.reload.addEventListener('mousedown', () => {
+            this.buttons.reload.classList.add('active');
+          });
+          ['mouseup', 'mouseout'].forEach(evt => {
+            this.buttons.reload.addEventListener(evt, () => {
+              this.buttons.reload.classList.remove('active');
+            });
+          });
+        }
+
+        autoCalculateAndDisplay() {
+          const startingCustomers = cleanNumber(this.inputs['starting-customers'].element.value);
+          const lostCustomers = cleanNumber(this.inputs['lost-customers'].element.value);
+          
+          // Auto-calculate and display result if both fields have valid values
+          if (!Number.isNaN(startingCustomers) && !Number.isNaN(lostCustomers) && 
+              startingCustomers > 0 && lostCustomers >= 0 && 
+              lostCustomers <= startingCustomers) {
+            
+            const churnRate = (lostCustomers / startingCustomers) * 100;
+            
+            // Format the result for display
+            let displayValue;
+            if (churnRate % 1 === 0) {
+              displayValue = churnRate.toString();
+            } else {
+              displayValue = churnRate.toFixed(3).replace(/\.?0+$/, '');
+            }
+            
+            // Display the result with % symbol
+            this.result.textContent = `${displayValue}%`;
+            
+          } else if (startingCustomers === 0 || lostCustomers < 0 || lostCustomers > startingCustomers || 
+                     Number.isNaN(startingCustomers) || Number.isNaN(lostCustomers)) {
+            // Clear the result if inputs are invalid
+            this.result.textContent = '';
+          } else {
+            // Clear result if not enough data
+            this.result.textContent = '';
+          }
+        }
+
+        updateCalculateButton() {
+          // No calculate button for this calculator
+          return;
+        }
+
+        updateButtons() {
+          this.updateReloadButton();
+          // No calculate button to update
+        }
+
+        calculate() {
+          // No manual calculate needed - everything is automatic
+          return;
+        }
+      }
+
+      // ========== INITIALIZE CALCULATORS ==========
+      
+      // LTV Calculator
+      new LTVCalculator({
+        inputs: [
+          { id: 'arpu', type: 'currency' },
+          { id: 'churn', type: 'percent' },
+          { id: 'gross-margin', type: 'percent' }
+        ],
+        calculateBtnId: 'calculate-btn',
+        reloadBtnId: 'reload-btn',
+        resultId: 'ltv-result'
+      });
+
+      // CAC Calculator
+      new CACCalculator({
+        inputs: [
+          { id: 'cost-marketing', type: 'currency' },
+          { id: 'cost-sales', type: 'currency' },
+          { id: 'new-customers', type: 'number' }
+        ],
+        calculateBtnId: 'calculate-btn-cac',
+        reloadBtnId: 'reload-btn-cac',
+        resultId: 'cac-result'
+      });
+
+      // Churn Rate Calculator
+      new ChurnRateCalculator({
+        inputs: [
+          { id: 'starting-customers', type: 'number' },
+          { id: 'lost-customers', type: 'number' }
+        ],
+        calculateBtnId: null,
+        reloadBtnId: 'reload-btn-churn',
+        resultId: 'churn-result'
+      });
+    });
+  </script></body></html>
